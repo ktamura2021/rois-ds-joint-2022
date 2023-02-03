@@ -8,18 +8,16 @@ tags:
 authors:
   - name: Keita Tamura
     orcid: 0000-0000-0000-0000
-    affiliation: 1,2
+    affiliation: 1
   - name: Hirokazu Chiba
     orcid: 0000-0000-0000-0000
-    affiliation: 3
+    affiliation: 2
 
 affiliations:
- - name: Laboratory of Genome Informatics, Graduate School of Integrated Sciences for Life, Hiroshima University, Higashihiroshima, Hiroshima, Japan
+ - name: Hiroshima University, Higashihiroshima, Hiroshima, Japan
    index: 1
- - name: Laboratory of BioDX, Genome Editing Innovation Center, Hiroshima University, Higashihiroshima, Hiroshima, Japan
-   index: 2
  - name: Database Center for Life Science, Joint Support-Center for Data Science Research, Research Organization of Information and Systems, Kashiwa, Chiba, Japan
-   index: 3
+   index: 2
 date: 01 January 2023
 bibliography: paper.bib
 authors_short: Tamura & Chiba (2023) BioHackrXiv  template
@@ -27,20 +25,49 @@ group: BioHackrXiv
 event: DBCLS domestic BioHackathon Kochi, Japan, 2022
 ---
 
-# Introduction or Background
+# Abstract (maximum of 300 words)
+
+Add to this section a couple of paragraphs introducing the work done dring the BioHackathon, CodeFest, VoCamp or Sprint event. Please add references whenever needed, for instance [@Katayama:2010].
+
+Keywords: Arabidopsis, Orthologs, Soybean
+
+# Introduction
 
 Add to this section a couple of paragraphs introducing the work done dring the BioHackathon, CodeFest, VoCamp or Sprint event. Please add references whenever needed, for instance [@Katayama:2010].
 
 Please separate paragraphs with a double line.
 
-## Subsection level 2
+# Hackathon results
 
-Please keep sections to a maximum of three levels, even better if only two levels.
+## Scope of the tests
 
-### Subsection level 3
+Add to this section a couple of paragraphs introducing the work done dring the BioHackathon, CodeFest, VoCamp or Sprint event. Please add references whenever needed, for instance [@Katayama:2010].
 
-Please keep sections to a maximum of three levels.
+Please separate paragraphs with a double line.
 
+## (Sectionを適宜追加)
+
+# Discussion
+(Discussion、Conclusions、Future workなどが推奨されている)
+
+Add to this section a couple of paragraphs introducing the work done dring the BioHackathon, CodeFest, VoCamp or Sprint event. Please add references whenever needed, for instance [@Katayama:2010].
+
+Please separate paragraphs with a double line.
+
+# GitHub repository
+(千葉さんのrepository)
+
+# Acknowledgements
+Please always remember to acknowledge the BioHackathon, CodeFest, VoCamp, Sprint or similar where this work was (partially) developed.
+
+# References
+
+
+
+
+
+
+(以下はテンプレを残している)
 ## Tables, figures and so on
 
 Please remember to introduce tables (see Table 1) before they appear on the document. We recommend to center tables, formulas and figure but not the corresponding captions. Feel free to modify the table style as it better suits to your data.
