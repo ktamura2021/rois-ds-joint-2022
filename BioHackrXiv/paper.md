@@ -48,10 +48,7 @@ Add to this section a couple of paragraphs introducing the work done dring the B
 
 Please separate paragraphs with a double line.
 
-## (Sectionを適宜追加)
-
 # Discussion
-(Discussion、Conclusions、Future workなどが推奨されている)
 
 Add to this section a couple of paragraphs introducing the work done dring the BioHackathon, CodeFest, VoCamp or Sprint event. Please add references whenever needed, for instance [@Katayama:2010].
 
@@ -65,12 +62,6 @@ Please always remember to acknowledge the BioHackathon, CodeFest, VoCamp, Sprint
 
 # References
 
-
-
-
-
-
-(以下はテンプレを残している)
 ## Tables, figures and so on
 
 Please remember to introduce tables (see Table 1) before they appear on the document. We recommend to center tables, formulas and figure but not the corresponding captions. Feel free to modify the table style as it better suits to your data.
