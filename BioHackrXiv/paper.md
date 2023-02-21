@@ -12,6 +12,9 @@ authors:
   - name: Hirokazu Chiba
     orcid: 0000-0000-0000-0000
     affiliation: 2
+  - name: Hiromasa Ono
+    orcid: 0000-0000-0000-0000
+    affiliation: 2
 
 affiliations:
  - name: Hiroshima University, Higashihiroshima, Hiroshima, Japan
@@ -20,7 +23,7 @@ affiliations:
    index: 2
 date: 01 January 2023
 bibliography: paper.bib
-authors_short: Tamura & Chiba (2023) BioHackrXiv  template
+authors_short: Keita Tamura & Hirokazu Chiba \emph{et al.}
 group: BioHackrXiv
 event: DBCLS domestic BioHackathon Kochi, Japan, 2022
 ---
