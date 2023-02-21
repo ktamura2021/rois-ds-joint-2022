@@ -39,17 +39,19 @@ Keywords: Arabidopsis, Orthologs, Soybean
 
 # Introduction
 
-Among the various biological resources, ortholog information can play a central role in integrating the biological data of multiple species [@Chiba2015].
+Add to this section a couple of paragraphs introducing the work done dring the BioHackathon, CodeFest, VoCamp or Sprint event. Please add references whenever needed, for instance [@Katayama:2010].
+
+Please separate paragraphs with a double line.
 
 # Hackathon results
 
 ## Genes used for the analysis
 
-We selected four genes from *A. thaliana* and one gene from *G. max* (Table 1) for the analysis of . 
+We selected four genes from *A. thaliana* and one gene from *G. max* (Table 1) for the analysis. 
 Add to this section a couple of paragraphs introducing the work done dring the BioHackathon, CodeFest, VoCamp or Sprint event. Please add references whenever needed, for instance [@Katayama:2010].
 
 Table 1
-| Header 1 | Header 2 |
+| NCBI Gene ID | Header 2 |
 | -------- | -------- |
 | item 1 | item 2 |
 | item 3 | item 4 |
