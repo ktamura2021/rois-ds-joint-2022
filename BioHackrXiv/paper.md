@@ -63,12 +63,47 @@ Table: Gene list
 
 ## Tools used for analysis 
 ### OMA
+Fhe following query is used to retrieve orthologs from OMA.
 ```
-sparql
-rq
+PREFIX oo: <http://purl.org/net/orth#>
+PREFIX upTax: <http://purl.uniprot.org/taxonomy/>
+
+SELECT DISTINCT ?member1 ?member2
+WHERE {
+  ?group oo:hasHomologousMember+ ?member1 , ?member2 .
+  ?group oo:hasTaxonomicRange upTax:33090 . # Viridiplantae
+  ?member1 a oo:Protein .
+  ?member2 a oo:Protein .
+  ?member1 oo:organism <https://omabrowser.org/oma/genome/3702> .
+  ?member2 oo:organism <https://omabrowser.org/oma/genome/3847> .
+}
 ```
 
 ### OrthoDB
+Fhe following query is used to retrieve orthologs from OrthoDB.
+```
+PREFIX orthodb: <http://purl.orthodb.org/>
+PREFIX upTax: <http://purl.uniprot.org/taxonomy/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX up: <http://purl.uniprot.org/core/>
+PREFIX obo: <http://purl.obolibrary.org/obo/>
+
+SELECT DISTINCT ?entrez_id1 ?entrez_id2
+WHERE {
+  ?group orthodb:ogBuiltAt upTax:71240 . # eudicots
+  ?group orthodb:hasMember ?member1 , ?member2 .
+  ?member1 rdfs:seeAlso ?member_entrez1 ;
+      up:organism ?odb_organism1 .
+  ?member2 rdfs:seeAlso ?member_entrez2 ;
+      up:organism ?odb_organism2 .
+  ?odb_organism1 obo:RO_0002162 upTax:3702 . # Arabi
+  ?odb_organism2 obo:RO_0002162 upTax:3847 . # soy
+  ?member_entrez1 a orthodb:Entrez ;
+      rdfs:label ?entrez_id1 .
+  ?member_entrez2 a orthodb:Entrez ;
+      rdfs:label ?entrez_id2 .
+}
+```
 
 ### PGDBj
 
