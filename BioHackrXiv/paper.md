@@ -63,12 +63,9 @@ Table: Gene list
 
 ## Tools used for analysis 
 ### OMA
-> h
-
-`test`
-
-`test
-test`
+```
+sparql
+```
 
 ### OrthoDB
 
