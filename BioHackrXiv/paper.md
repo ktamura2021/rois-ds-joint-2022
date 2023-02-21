@@ -108,7 +108,7 @@ WHERE {
 ```
 
 ### PGDBj
-CYP716A1 and CYP93E1 were searched in the Ortholog Database of PGDBj.
+CYP716A1 and CYP93E1 were searched in the Ortholog Database of PGDBj (http://pgdbj.jp/od2/search_33090.html). This database can be searched using RefSeq IDs, so NP_198460.1 (CYP716A1) and NP_001236154.1 (CYP93E1) were searched. This database returned the results by showing the Cluster ID of the query sequence 
 
 
 ### Ensembl Plants
