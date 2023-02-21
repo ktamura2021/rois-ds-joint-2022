@@ -39,9 +39,7 @@ Keywords: Arabidopsis, Orthologs, Soybean
 
 # Introduction
 
-Add to this section a couple of paragraphs introducing the work done dring the BioHackathon, CodeFest, VoCamp or Sprint event. Please add references whenever needed, for instance [@Katayama:2010].
-
-Please separate paragraphs with a double line.
+Among the various biological resources, ortholog information can play a central role in integrating the biological data of multiple species [Chiba2015].
 
 # Hackathon results
 
