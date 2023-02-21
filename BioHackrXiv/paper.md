@@ -43,6 +43,8 @@ Among the various biological resources, ortholog information can play a central 
 Various orthology finding tools ara available, but they provide different results.
 It is important to examine the difference for plant research.
 
+Here, we selected five plant genes to figure out the differences of orthology finding tools 
+
 # Hackathon results
 
 ## Genes used for the analysis
@@ -56,20 +58,6 @@ We selected four genes from *A. thaliana* and one gene from *G. max* (Table 1) f
 | 842120 | AT1G56650 | PAP1 | production of anthocyanin pigment 1 |
 | 833607 | AT5G36110 | CYP716A1 | cytochrome P450, family 716, subfamily A, polypeptide 1 |
 | 100037459 | GLYMA_08G350800 | CYP93E1 | beta-amyrin and sophoradiol 24-hydroxylase |
-
-# Discussion
-
-We compared the results from OMA, OrthoDB, PGDBj, and Ensembl Plants.
-
-# Future work
-The conclusion will be generalized to other genes of plant species.
-The orthology relations will be used in RefEx service.
-
-# GitHub repository
-https://github.com/hchiba1/rois-ds-joint
-
-# Acknowledgements
-We thank the participants of BH22.9 (domestic biohackathon in Japan) for giving us the chance to discuss on this issue.
 
 ## Tables, figures and so on
 
@@ -92,5 +80,19 @@ Figure 1. A figure corresponding to the logo of our BioHackrXiv preprint.
 Feel free to use numbered lists or bullet points as you need.
 * Item 1
 * Item 2
+
+# Discussion
+
+We compared the results from OMA, OrthoDB, PGDBj, and Ensembl Plants.
+
+# Future work
+The conclusion will be generalized to other genes of plant species.
+The orthology relations will be used in RefEx service.
+
+# GitHub repository
+https://github.com/hchiba1/rois-ds-joint
+
+# Acknowledgements
+We thank the participants of BH22.9 (domestic biohackathon in Japan) for giving us the chance to discuss on this issue.
 
 # References
