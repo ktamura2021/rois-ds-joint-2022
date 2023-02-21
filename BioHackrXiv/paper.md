@@ -40,6 +40,8 @@ Keywords: Arabidopsis, Orthologs, Soybean
 # Introduction
 
 Among the various biological resources, ortholog information can play a central role in integrating the biological data of multiple species [@Chiba2015].
+Various orthology finding tools ara available, but they provide different results.
+It is important to examine the difference for plant research.
 
 # Hackathon results
 
