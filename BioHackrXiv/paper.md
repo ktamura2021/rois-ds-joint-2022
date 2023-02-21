@@ -51,10 +51,9 @@ We selected four genes from *A. thaliana* and one gene from *G. max* (Table 1) f
 Add to this section a couple of paragraphs introducing the work done dring the BioHackathon, CodeFest, VoCamp or Sprint event. Please add references whenever needed, for instance [@Katayama:2010].
 
 Table 1
-| NCBI Gene ID | Header 2 |
-| -------- | -------- |
-| item 1 | item 2 |
-| item 3 | item 4 |
+| NCBI Gene ID | Locus tag | Gene symbol | Gene description |
+| -------- | -------- | -------- | -------- |
+| 815275 | AT2G07050 | CAS1 | cycloartenol synthase 1 
 
 # Discussion
 
@@ -119,3 +118,5 @@ For citations of references, we prefer the use of parenthesis, last name and yea
 Please always remember to acknowledge the BioHackathon, CodeFest, VoCamp, Sprint or similar where this work was (partially) developed.
 
 # References
+
+Leave thise section blank, create a paper.bib with all your references.
