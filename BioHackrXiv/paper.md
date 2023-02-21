@@ -27,6 +27,7 @@ authors_short: Keita Tamura & Hirokazu Chiba \emph{et al.}
 group: BioHackrXiv
 event: DBCLS domestic BioHackathon Kochi, Japan, 2022
 biohackathon_name: "BioHackathon BH22.9"
+biohackathon_url: "https://wiki.lifesciencedb.jp/mw/BH22.9"
 ---
 
 # Abstract (maximum of 300 words)
