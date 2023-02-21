@@ -61,6 +61,17 @@ Table: Gene list
 | 833607 | AT5G36110 | CYP716A1 | cytochrome P450, family 716, subfamily A, polypeptide 1 |
 | 100037459 | GLYMA_08G350800 | CYP93E1 | beta-amyrin and sophoradiol 24-hydroxylase |
 
+## Tools used for analysis 
+### OMA
+
+### OrthoDB
+
+### PGDBj
+
+### Ensembl Plants
+
+## Comparison of the tools
+
 # Discussion
 
 We compared the results from OMA, OrthoDB, PGDBj, and Ensembl Plants.
