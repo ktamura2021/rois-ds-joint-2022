@@ -95,12 +95,4 @@ Feel free to use numbered lists or bullet points as you need.
 * Item 1
 * Item 2
 
-# Jupyter notebooks, GitHub repositories and data repositories
-
-* Please add a list here
-* Make sure you let us know which of these correspond to Jupyter notebooks. Although not supported yet, we plan to add features for them
-* And remember, software and data need a license for them to be used by others, no license means no clear rules so nobody could legally use a non-licensed research object, whatever that object is
-
 # References
-
-Leave thise section blank, create a paper.bib with all your references.
