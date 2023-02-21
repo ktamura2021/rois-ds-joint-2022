@@ -59,20 +59,6 @@ Table 1
 | 833607 | AT5G36110 | CYP716A1 | cytochrome P450, family 716, subfamily A, polypeptide 1 |
 | 100037459 | GLYMA_08G350800 | CYP93E1 | beta-amyrin and sophoradiol 24-hydroxylase |
 
-# Discussion
-
-We compared the results from OMA, OrthoDB, PGDBj, and Ensembl Plants.
-
-# Future work
-The conclusion will be generalized to other genes of plant species.
-The orthology relations will be used in RefEx service.
-
-# GitHub repository
-https://github.com/hchiba1/rois-ds-joint
-
-# Acknowledgements
-We thank the participants of BH22.9 (domestic biohackathon in Japan) for giving us the chance to discuss on this issue.
-
 ## Tables, figures and so on
 
 Please remember to introduce tables (see Table 1) before they appear on the document. We recommend to center tables, formulas and figure but not the corresponding captions. Feel free to modify the table style as it better suits to your data.
@@ -88,5 +74,19 @@ Remember to introduce figures (see Figure 1) before they appear on the document.
 ![BioHackrXiv logo](./biohackrxiv.png)
  
 Figure 1. A figure corresponding to the logo of our BioHackrXiv preprint.
+
+# Discussion
+
+We compared the results from OMA, OrthoDB, PGDBj, and Ensembl Plants.
+
+# Future work
+The conclusion will be generalized to other genes of plant species.
+The orthology relations will be used in RefEx service.
+
+# GitHub repository
+https://github.com/hchiba1/rois-ds-joint
+
+# Acknowledgements
+We thank the participants of BH22.9 (domestic biohackathon in Japan) for giving us the chance to discuss on this issue.
 
 # References
