@@ -54,6 +54,13 @@ Add to this section a couple of paragraphs introducing the work done dring the B
 
 Please separate paragraphs with a double line.
 
+# Conclusions
+
+# Future work
+The conclusion will be generalized to other genes of plant species.
+The orthology relations will be used in RefEx service.
+
+
 # GitHub repository
 https://github.com/hchiba1/rois-ds-joint
 
