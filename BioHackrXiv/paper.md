@@ -31,7 +31,7 @@ biohackathon_url: "https://wiki.lifesciencedb.jp/mw/BH22.9"
 biohackathon_location: "Kochi, Japan, 2022"
 ---
 
-# Abstract (maximum of 300 words)
+# Abstract
 
 Add to this section a couple of paragraphs introducing the work done dring the BioHackathon, CodeFest, VoCamp or Sprint event. Please add references whenever needed, for instance [@Katayama:2010].
 
