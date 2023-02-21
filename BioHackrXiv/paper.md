@@ -50,9 +50,7 @@ Here, we selected five plant genes to figure out the differences of orthology fi
 ## Genes used for the analysis
 
 We selected four genes from *A. thaliana* and one gene from *G. max* (Table 1) for the analysis. The first two genes from *A. thaliana* (CAS1 and PDS3) are well-known genes conserved among higher plants. The latter two genes from *A. thaliana* (PAP1 and CYP716A1) and *G. max* CYP93E1 are genes involving the production of specialized metabolites. PAP1 is ... CYP716A1 is ... On the other hand, CYP93E1 is ...
-Add to this section a couple of paragraphs introducing the work done dring the BioHackathon, CodeFest, VoCamp or Sprint event. Please add references whenever needed, for instance [@Katayama:2010].
 
-Table 1
 | NCBI Gene ID | Locus tag | Gene symbol | Gene description |
 | -------- | -------- | -------- | -------- |
 | 815275 | AT2G07050 | CAS1 | cycloartenol synthase 1 |
@@ -76,6 +74,12 @@ Remember to introduce figures (see Figure 1) before they appear on the document.
 ![BioHackrXiv logo](./biohackrxiv.png)
  
 Figure 1. A figure corresponding to the logo of our BioHackrXiv preprint.
+
+# Other main section on your manuscript level 1
+
+Feel free to use numbered lists or bullet points as you need.
+* Item 1
+* Item 2
 
 # Discussion
 
