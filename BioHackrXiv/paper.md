@@ -43,6 +43,8 @@ Among the various biological resources, ortholog information can play a central 
 Various orthology finding tools ara available, but they provide different results.
 It is important to examine the difference for plant research.
 
+Here, we selected five plant genes to figure out the differences of orthology finding tools 
+
 # Hackathon results
 
 ## Genes used for the analysis
