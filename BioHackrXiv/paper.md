@@ -65,6 +65,7 @@ Table: Gene list
 ### OMA
 ```
 sparql
+rq
 ```
 
 ### OrthoDB
