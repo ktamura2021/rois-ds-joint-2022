@@ -56,24 +56,17 @@ Table 1
 
 # Discussion
 
-Add to this section a couple of paragraphs introducing the work done dring the BioHackathon, CodeFest, VoCamp or Sprint event. Please add references whenever needed, for instance [@Katayama:2010].
-
-Please separate paragraphs with a double line.
-
-# Conclusions
+We compared the results from OMA, OrthoDB, PGDBj, and Ensembl Plants.
 
 # Future work
 The conclusion will be generalized to other genes of plant species.
 The orthology relations will be used in RefEx service.
-
 
 # GitHub repository
 https://github.com/hchiba1/rois-ds-joint
 
 # Acknowledgements
 Please always remember to acknowledge the BioHackathon, CodeFest, VoCamp, Sprint or similar where this work was (partially) developed.
-
-# References
 
 ## Tables, figures and so on
 
@@ -96,16 +89,6 @@ Figure 1. A figure corresponding to the logo of our BioHackrXiv preprint.
 Feel free to use numbered lists or bullet points as you need.
 * Item 1
 * Item 2
-
-# Discussion and/or Conclusion
-
-We recommend to include some discussion or conclusion about your work. Feel free to modify the section title as it fits better to your manuscript.
-
-# Future work
-
-And maybe you want to add a sentence or two on how you plan to continue. Please keep reading to learn about citations and references.
-
-For citations of references, we prefer the use of parenthesis, last name and year. If you use a citation manager, Elsevier – Harvard or American Psychological Association (APA) will work. If you are referencing web pages, software or so, please do so in the same way. Whenever possible, add authors and year. We have included a couple of citations along this document for you to get the idea. Please remember to always add DOI whenever available, if not possible, please provide alternative URLs. You will end up with an alphabetical order list by authors’ last name.
 
 # Jupyter notebooks, GitHub repositories and data repositories
 
