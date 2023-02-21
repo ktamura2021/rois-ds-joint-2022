@@ -59,28 +59,6 @@ We selected four genes from *A. thaliana* and one gene from *G. max* (Table 1) f
 | 833607 | AT5G36110 | CYP716A1 | cytochrome P450, family 716, subfamily A, polypeptide 1 |
 | 100037459 | GLYMA_08G350800 | CYP93E1 | beta-amyrin and sophoradiol 24-hydroxylase |
 
-## Tables, figures and so on
-
-Please remember to introduce tables (see Table 1) before they appear on the document. We recommend to center tables, formulas and figure but not the corresponding captions. Feel free to modify the table style as it better suits to your data.
-
-Table 1
-| Header 1 | Header 2 |
-| -------- | -------- |
-| item 1 | item 2 |
-| item 3 | item 4 |
-
-Remember to introduce figures (see Figure 1) before they appear on the document. 
-
-![BioHackrXiv logo](./biohackrxiv.png)
- 
-Figure 1. A figure corresponding to the logo of our BioHackrXiv preprint.
-
-# Other main section on your manuscript level 1
-
-Feel free to use numbered lists or bullet points as you need.
-* Item 1
-* Item 2
-
 # Discussion
 
 We compared the results from OMA, OrthoDB, PGDBj, and Ensembl Plants.
