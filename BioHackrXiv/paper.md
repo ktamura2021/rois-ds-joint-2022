@@ -47,14 +47,17 @@ It is important to examine the difference for plant research.
 
 ## Genes used for the analysis
 
-We selected four genes from *A. thaliana* and one gene from *G. max* (Table 1) for the analysis. 
+We selected four genes from *A. thaliana* and one gene from *G. max* (Table 1) for the analysis. The first two genes from *A. thaliana* (CAS1 and PDS3) are well-known genes conserved among higher plants. The latter two genes from *A. thaliana* (PAP1 and CYP716A1) and *G. max* CYP93E1 are genes involving the production of specialized metabolites. PAP1 is ... CYP716A1 is ... On the other hand, CYP93E1 is ...
 Add to this section a couple of paragraphs introducing the work done dring the BioHackathon, CodeFest, VoCamp or Sprint event. Please add references whenever needed, for instance [@Katayama:2010].
 
 Table 1
-| NCBI Gene ID | Header 2 |
-| -------- | -------- |
-| item 1 | item 2 |
-| item 3 | item 4 |
+| NCBI Gene ID | Locus tag | Gene symbol | Gene description |
+| -------- | -------- | -------- | -------- |
+| 815275 | AT2G07050 | CAS1 | cycloartenol synthase 1 |
+| 827061 | AT4G14210 | PDS3 | phytoene desaturase 3 |
+| 842120 | AT1G56650 | PAP1 | production of anthocyanin pigment 1 |
+| 833607 | AT5G36110 | CYP716A1 | cytochrome P450, family 716, subfamily A, polypeptide 1 |
+| 100037459 | GLYMA_08G350800 | CYP93E1 | beta-amyrin and sophoradiol 24-hydroxylase |
 
 # Discussion
 
@@ -99,3 +102,5 @@ Feel free to use numbered lists or bullet points as you need.
 * And remember, software and data need a license for them to be used by others, no license means no clear rules so nobody could legally use a non-licensed research object, whatever that object is
 
 # References
+
+Leave thise section blank, create a paper.bib with all your references.
