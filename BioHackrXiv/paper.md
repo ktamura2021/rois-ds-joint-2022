@@ -63,9 +63,20 @@ Table: Gene list
 
 ## Tools used for analysis 
 ### OMA
+Fhe following query is used to retrieve orthologs from OMA.
 ```
-sparql
-rq
+PREFIX oo: <http://purl.org/net/orth#>
+PREFIX upTax: <http://purl.uniprot.org/taxonomy/>
+
+SELECT DISTINCT ?member1 ?member2
+WHERE {
+  ?group oo:hasHomologousMember+ ?member1 , ?member2 .
+  ?group oo:hasTaxonomicRange upTax:33090 . # Viridiplantae
+  ?member1 a oo:Protein .
+  ?member2 a oo:Protein .
+  ?member1 oo:organism <https://omabrowser.org/oma/genome/3702> .
+  ?member2 oo:organism <https://omabrowser.org/oma/genome/3847> .
+}
 ```
 
 ### OrthoDB
