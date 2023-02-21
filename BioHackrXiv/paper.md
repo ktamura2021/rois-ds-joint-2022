@@ -33,7 +33,7 @@ biohackathon_location: "Kochi, Japan, 2022"
 
 # Abstract
 
-Add to this section a couple of paragraphs introducing the work done dring the BioHackathon, CodeFest, VoCamp or Sprint event. Please add references whenever needed, for instance [@Katayama:2010].
+Orthologous genes for five plant genes are retrieved from several databases and compared with each other, to figure out the differences of those databases.
 
 Keywords: Arabidopsis, Orthologs, Soybean
 
