@@ -33,7 +33,7 @@ biohackathon_location: "Kochi, Japan, 2022"
 
 # Abstract
 
-Orthologous genes for five plant genes are retrieved from several databases and compared with each other, to figure out the differences of those databases.
+Orthologous genes for five plant genes are retrieved using several orthology finder tools and the results are compared with each other, to figure out the differences of those tools.
 
 Keywords: Arabidopsis, Orthologs, Soybean
 
