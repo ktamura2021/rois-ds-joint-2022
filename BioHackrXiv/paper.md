@@ -89,10 +89,4 @@ Remember to introduce figures (see Figure 1) before they appear on the document.
  
 Figure 1. A figure corresponding to the logo of our BioHackrXiv preprint.
 
-# Other main section on your manuscript level 1
-
-Feel free to use numbered lists or bullet points as you need.
-* Item 1
-* Item 2
-
 # References
