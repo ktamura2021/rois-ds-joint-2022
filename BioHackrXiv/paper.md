@@ -55,7 +55,7 @@ Add to this section a couple of paragraphs introducing the work done dring the B
 Please separate paragraphs with a double line.
 
 # GitHub repository
-(千葉さんのrepository)
+https://github.com/hchiba1/rois-ds-joint
 
 # Acknowledgements
 Please always remember to acknowledge the BioHackathon, CodeFest, VoCamp, Sprint or similar where this work was (partially) developed.
