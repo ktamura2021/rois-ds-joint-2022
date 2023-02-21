@@ -119,5 +119,3 @@ For citations of references, we prefer the use of parenthesis, last name and yea
 Please always remember to acknowledge the BioHackathon, CodeFest, VoCamp, Sprint or similar where this work was (partially) developed.
 
 # References
-
-Leave thise section blank, create a paper.bib with all your references.
