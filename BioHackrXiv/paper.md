@@ -42,16 +42,9 @@ Please separate paragraphs with a double line.
 
 # Hackathon results
 
-## Genes used for the analysis
+## Scope of the tests
 
-We selected four genes from *A. thaliana* and one gene from *G. max* (Table 1) for the analysis of . 
 Add to this section a couple of paragraphs introducing the work done dring the BioHackathon, CodeFest, VoCamp or Sprint event. Please add references whenever needed, for instance [@Katayama:2010].
-
-Table 1
-| Header 1 | Header 2 |
-| -------- | -------- |
-| item 1 | item 2 |
-| item 3 | item 4 |
 
 Please separate paragraphs with a double line.
 
