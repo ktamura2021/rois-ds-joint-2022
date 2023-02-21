@@ -40,7 +40,7 @@ Keywords: Arabidopsis, Orthologs, Soybean
 # Introduction
 
 Among the various biological resources, ortholog information can play a central role in integrating the biological data of multiple species [@Chiba2015].
-Various orthology finding tools ara available, but they provide different results.
+Various orthology finding tools are available, but they provide different results.
 It is important to examine the difference for plant research.
 
 Here, we selected five plant genes to figure out the differences of orthology finding tools 
@@ -108,6 +108,8 @@ WHERE {
 ```
 
 ### PGDBj
+CYP716A1 and CYP93E1 were searched in the Ortholog Database of PGDBj.
+
 
 ### Ensembl Plants
 Pairs of orthologous genes (55,316 gene pairs) between Arabidopsis and soybean were retreaved from the FTP site of EnsemblPlants release 54 (http://ftp.ebi.ac.uk/ensemblgenomes/pub/plants/release-54/tsv/ensembl-compara/homologies/glycine_max/Compara.107.protein_default.homologies.tsv.gz).
