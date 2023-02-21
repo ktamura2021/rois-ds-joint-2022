@@ -28,6 +28,7 @@ group: BioHackrXiv
 event: DBCLS domestic BioHackathon Kochi, Japan, 2022
 biohackathon_name: "BioHackathon BH22.9"
 biohackathon_url: "https://wiki.lifesciencedb.jp/mw/BH22.9"
+biohackathon_location: "Kochi, Japan, 2022"
 ---
 
 # Abstract (maximum of 300 words)
