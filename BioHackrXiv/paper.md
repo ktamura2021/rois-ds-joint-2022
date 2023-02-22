@@ -129,7 +129,7 @@ The conclusion will be generalized to other genes of plant species.
 The orthology relations will be used in RefEx service.
 
 # GitHub repository
-https://github.com/hchiba1/rois-ds-joint
+https://github.com/hchiba1/rois-ds-joint-tamura
 
 # Acknowledgements
 We thank the participants of BH22.9 (domestic biohackathon in Japan) for giving us the chance to discuss on this issue.
