@@ -115,7 +115,7 @@ Pairs of orthologous genes (55,316 gene pairs) between Arabidopsis and soybean w
 
 OrthoDB (see figure \ref{fig}).
 
-![An SVG example](./venn_result31276.svg)
+![An SVG example](./venn_result31276.png)
 
 ![An SVG example](./venn_result17837.svg)
 
