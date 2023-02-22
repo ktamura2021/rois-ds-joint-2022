@@ -118,7 +118,7 @@ Pairs of orthologous genes (55,316 gene pairs) between Arabidopsis and soybean w
 
 # Discussion
 
-We compared the results from OMA, OrthoDB, PGDBj, and Ensembl Plants.
+We compared the results from OMA, OrthoDB, PGDBj, and Ensembl Plants. We observed the substantial difference among the tools. PGDBj seems to detect many paralogs compared to others. OMA and OrthoDB has functionality of controlling the taxonomic range for orthology detection, and changing the range affected the search results. In some cases, the effect of the taxonimc range makes it difficult to interpret the search results by practical scientists. By manual inspection of the results, we confirmed that OrthoDB produces reasonable results at the current status.
 
 # Future work
 The conclusion will be generalized to other genes of plant species.
