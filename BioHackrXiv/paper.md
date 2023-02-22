@@ -125,7 +125,6 @@ We compared the search results of OMA, OrthoDB, PGDBj, and Ensembl Plants for fi
 
 
 # Future work
-The conclusion will be generalized to other genes of plant species.
 The orthology relations shall be utilized within RefEx, a web-based tool that facilitates browsing of reference gene expression. The RefEx project is presently engaged in the development of a successor website (RefEx2), which will incorporate expression datasets from a range of species. The survey findings will constitute a significant resource for the RefEx2 website, which aims to establish links between each gene search result and its orthologous association with related plant or other species.
 
 # GitHub repository
