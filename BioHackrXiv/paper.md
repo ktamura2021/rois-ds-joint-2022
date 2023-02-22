@@ -164,6 +164,7 @@ Table: Comparison of the tools (842120; AT1G56650; PAP1) at Green Plants level
 Table: Comparison of the tools (833607; AT5G36110; CYP716A1) at Green Plants level
 
 | Locus tag | Gene description | OMA | OrthoDB | Ensembl Plants |
+| -------- | -------- | -------- | -------- | -------- |
 | GLYMA_05G166900 | -------- | Y | N | N |
 | GLYMA_05G170400 | -------- | Y | N | N |
 | GLYMA_05G220500 | -------- | Y | Y | Y |
@@ -175,6 +176,7 @@ Table: Comparison of the tools (833607; AT5G36110; CYP716A1) at Green Plants lev
 Table: Comparison of the tools (100037459; GLYMA_08G350800; CYP93E1) at Green Plants level
 
 | Locus tag | Gene description | OMA | OrthoDB | Ensembl Plants |
+| -------- | -------- | -------- | -------- | -------- |
 | AT2G42250 | -------- | N | Y | N |
 | AT5G06900 | -------- | N | Y | N |
 | AT5G06905 | -------- | N | Y | N |
