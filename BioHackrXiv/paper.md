@@ -60,7 +60,7 @@ Table: Gene list
 | 100037459 | GLYMA_08G350800 | CYP93E1 | beta-amyrin and sophoradiol 24-hydroxylase |
 
 ## Tools used for analysis 
-OMA, OrthoDB, PGDBj, and Ensembl Plants are used to retrieve orthology information.
+OMA[@oma], OrthoDB[@orthodb], PGDBj, and Ensembl Plants are used to retrieve orthology information.
 
 ### OMA
 Fhe following query is used to retrieve orthologs from OMA.
