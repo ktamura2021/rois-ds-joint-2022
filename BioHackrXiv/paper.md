@@ -62,6 +62,12 @@ Table: Gene list
 ## Tools used for analysis 
 OMA[@oma], OrthoDB[@orthodb], PGDBj, and Ensembl Plants are used to retrieve orthology information.
 
+(memo:tamura)
+- PGDBj; mentioned here, but it could be possible to remove the analysis results, due to the old DB
+- Is it Ok for refine the analysi with land plants and green plants?
+  - One figure containing both LP, GP and ensembl (five contents)
+  - add both (LP, GP) in the table
+
 ### OMA
 Fhe following query is used to retrieve orthologs from OMA.
 ```
