@@ -7,13 +7,13 @@ tags:
   - Bioinformatics
 authors:
   - name: Keita Tamura
-    orcid: 0000-0000-0000-0000
+    orcid: 0000-0002-6198-4336
     affiliation: 1
   - name: Hirokazu Chiba
-    orcid: 0000-0000-0000-0000
+    orcid: 0000-0003-4062-8903
     affiliation: 2
   - name: Hiromasa Ono
-    orcid: 0000-0000-0000-0000
+    orcid: 0000-0001-8675-963X
     affiliation: 2
 
 affiliations:
