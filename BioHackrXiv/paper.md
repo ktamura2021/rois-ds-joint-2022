@@ -104,6 +104,7 @@ WHERE {
       rdfs:label ?entrez_id2 .
 }
 ```
+Several taxonomic ranges are used: Viridiplantae (green plants, taxonomy ID 33090), Embryopyta (land plants, taxonomy ID 3193), and eudicotylendons (eudicots, taxonomy ID 71240).
 
 ### PGDBj
 CYP716A1 and CYP93E1 were searched in the Ortholog Database of PGDBj (http://pgdbj.jp/od2/search_33090.html). This database can be searched using RefSeq IDs, so NP_198460.1 (CYP716A1) and NP_001236154.1 (CYP93E1) were searched. The database returned the results by showing the Cluster ID containing the query sequence at various clades or species. The smallest clade containing both Arabidopsis and soybean is rosids (NCBI Taxonomy ID 71275). The results for CYP716A1 and CYP93E1 at the upper clades than rosids were identical for CYP716A1 and CYP93E1, indicating CYP716A and CYP93E families can not be distinguishable in the Ortholog Database of PGDBj.
