@@ -7,13 +7,13 @@ tags:
   - Bioinformatics
 authors:
   - name: Keita Tamura
-    orcid: 0000-0002-6198-4336
+    orcid: 0000-0000-0000-0000
     affiliation: 1
   - name: Hirokazu Chiba
-    orcid: 0000-0003-4062-8903
+    orcid: 0000-0000-0000-0000
     affiliation: 2
   - name: Hiromasa Ono
-    orcid: 0000-0001-8675-963X
+    orcid: 0000-0000-0000-0000
     affiliation: 2
 
 affiliations:
@@ -104,7 +104,6 @@ WHERE {
       rdfs:label ?entrez_id2 .
 }
 ```
-Several taxonomic ranges are used: Viridiplantae (green plants, taxonomy ID 33090), Embryopyta (land plants, taxonomy ID 3193), and eudicotylendons (eudicots, taxonomy ID 71240).
 
 ### PGDBj
 CYP716A1 and CYP93E1 were searched in the Ortholog Database of PGDBj (http://pgdbj.jp/od2/search_33090.html). This database can be searched using RefSeq IDs, so NP_198460.1 (CYP716A1) and NP_001236154.1 (CYP93E1) were searched. The database returned the results by showing the Cluster ID containing the query sequence at various clades or species. The smallest clade containing both Arabidopsis and soybean is rosids (NCBI Taxonomy ID 71275). The results for CYP716A1 and CYP93E1 at the upper clades than rosids were identical for CYP716A1 and CYP93E1, indicating CYP716A and CYP93E families can not be distinguishable in the Ortholog Database of PGDBj.
@@ -120,13 +119,20 @@ OrthoDB (see figure \ref{fig}).
 
 ![An SVG example](./venn_result17837.svg)
 
+Table: Comparison of the tools (815275; AT2G07050; CAS1) at Green Plants level
+
+| Locus tag | Gene description | OMA | OrthoDB | Ensembl Plants |
+| -------- | -------- | -------- | -------- | -------- |
+| GLYMA_01G001300 | cycloartenol synthase | Y | Y | Y |
+| GLYMA_01G001500 | cycloartenol synthase | Y | Y | N |
+
 # Discussion
 
 We compared the search results of OMA, OrthoDB, PGDBj, and Ensembl Plants for five plant genes. We observed substantial difference of the results among the tools. PGDBj seems to detect many paralogs compared to others. OMA and OrthoDB has functionality of controlling the taxonomic range for orthology detection, and changing the range affected the search results. In some cases, the effect of the taxonimc range makes it difficult to interpret the search results by practical scientists. By manual inspection of the results, we confirmed that OrthoDB produces reasonable results at the current status.
 
 
 # Future work
-The orthology relations will be utilized within RefEx ([https://refex.dbcls.jp](https://refex.dbcls.jp)), a web-based tool that facilitates browsing of reference gene expression. The RefEx project is presently engaged in the development of a successor website (RefEx2), which will incorporate expression datasets from a range of species. The survey findings will constitute a significant resource for the RefEx2 website, which aims to establish links between each gene search result and its orthologous association with related plant or other species.
+The orthology relations will be used in the RefEx, which is a web tool for browsing reference gene expression. The RefEx project is developing a successor website (RefEx2), which will contain expression datasets from diverse species. The survey results will be an important resource for the RefEx2 website, which plans to link each gene search result to its orthologous relationship to related plant or other species. 
 
 # GitHub repository
 https://github.com/hchiba1/rois-ds-joint-tamura
