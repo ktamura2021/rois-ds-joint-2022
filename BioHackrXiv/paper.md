@@ -126,7 +126,7 @@ We compared the search results of OMA, OrthoDB, PGDBj, and Ensembl Plants for fi
 
 # Future work
 The conclusion will be generalized to other genes of plant species.
-The orthology relations will be used in the RefEx, which is a web tool for browsing reference gene expression. The RefEx project is developing a successor website (RefEx2), which will contain expression datasets from diverse species. Since Arabidopsis is widely used as a model organism for plants, it is expected to be included in RefEx2 as a reference for plant gene expression data sets. The survey results will be an important resource for the RefEx2 website, which plans to link each gene search result to its orthologous relationship to related plant or other species. 
+The orthology relations shall be utilized within RefEx, a web-based tool that facilitates browsing of reference gene expression. The RefEx project is presently engaged in the development of a successor website (RefEx2), which will incorporate expression datasets from a range of species. The survey findings will constitute a significant resource for the RefEx2 website, which aims to establish links between each gene search result and its orthologous association with related plant or other species.
 
 # GitHub repository
 https://github.com/hchiba1/rois-ds-joint-tamura
