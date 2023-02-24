@@ -41,13 +41,13 @@ Keywords: Arabidopsis, Orthologs, Soybean
 
 Among the various biological resources, ortholog information can play a central role in integrating the biological data of multiple species [@Chiba2015].
 Various orthology finding tools are available, but they provide different results.
-It is important to examine the difference for plant research. Here, we selected five plant genes to figure out the differences of orthology finding tools. 
+It is important to examine the difference for plant research. Although there are several benchmarking tools for the comparison of various orthology finding tools such as AAA and BBB by using statistical methodologies, it is also important points to compare such tools by picking up some specific genes. Here, we selected five plant genes with different degree of conservation and focusing on Arabidopsis (Arabidopsis thaliana) and soybean (Glycine max) to figure out the differences of orthology finding tools. 
 
 # Hackathon results
 
 ## Genes used for the analysis
 
-We selected four genes from Arabidopsis and one gene from soybean (Table 1) for the analysis. The first two genes from *A. thaliana* (CAS1 and PDS3) are well-known genes conserved among higher plants. The latter two genes from *A. thaliana* (PAP1 and CYP716A1) and *G. max* CYP93E1 are genes involving the production of specialized metabolites. PAP1 is ... CYP716A1 is ... On the other hand, CYP93E1 is ...
+We selected four genes from Arabidopsis and one gene from soybean (Table 1) for the analysis. The first two genes from Arabidopsis (CAS1 and PDS3) are one of the essential genes conserved among higher plants. The latter two genes from Arabidopsis (PAP1 and CYP716A1) and soybean CYP93E1 are genes involving the production of specialized metabolites. PAP1 is ... CYP716A1 and CYP93E1 are cytochrome P450 genes involving triterpenoid biosynthesis. CYP716A1 is one of the CYP716A subfamily genes, which is widely conserved amoung various plant species involving the oxidization pentacyclic triterpene skeletons including beta-amyrin at C-28 position. CYP93E1 is one of the CYP93E subfamily genes involving the oxidization of beta-amyrin and sophoradiol at C-24 position, and this subfamily genes are known as Fabaceae specific.
 
 Table: Gene list
 
@@ -60,13 +60,7 @@ Table: Gene list
 | 100037459 | GLYMA_08G350800 | CYP93E1 | beta-amyrin and sophoradiol 24-hydroxylase |
 
 ## Tools used for analysis 
-OMA[@oma], OrthoDB[@orthodb], PGDBj, and Ensembl Plants are used to retrieve orthology information.
-
-(memo:tamura)
-- PGDBj; mentioned here, but it could be possible to remove the analysis results, due to the old DB
-- Is it Ok for refine the analysi with land plants and green plants?
-  - One figure containing both LP, GP and ensembl (five contents)
-  - add both (LP, GP) in the table
+OMA[@oma], OrthoDB[@orthodb], PGDBj, and Ensembl Plants were used to retrieve orthology information. However, as PGDBj is not maintained since 2016, and the source is an outdated version of RefSeq (RefSeq xxx, date and year), we did not analyze PGDBj in detail.
 
 ### OMA
 Fhe following query is used to retrieve orthologs from OMA.
@@ -112,13 +106,18 @@ WHERE {
 ```
 Several taxonomic ranges are used: Viridiplantae (green plants, taxonomy ID 33090), Embryopyta (land plants, taxonomy ID 3193), and eudicotylendons (eudicots, taxonomy ID 71240).
 
-### PGDBj
-CYP716A1 and CYP93E1 were searched in the Ortholog Database of PGDBj (http://pgdbj.jp/od2/search_33090.html). This database can be searched using RefSeq IDs, so NP_198460.1 (CYP716A1) and NP_001236154.1 (CYP93E1) were searched. The database returned the results by showing the Cluster ID containing the query sequence at various clades or species. The smallest clade containing both Arabidopsis and soybean is rosids (NCBI Taxonomy ID 71275). The results for CYP716A1 and CYP93E1 at the upper clades than rosids were identical for CYP716A1 and CYP93E1, indicating CYP716A and CYP93E families can not be distinguishable in the Ortholog Database of PGDBj.
-
 ### Ensembl Plants
-Pairs of orthologous genes (55,316 gene pairs) between Arabidopsis and soybean were retreaved from the FTP site of EnsemblPlants release 54 (http://ftp.ebi.ac.uk/ensemblgenomes/pub/plants/release-54/tsv/ensembl-compara/homologies/glycine_max/Compara.107.protein_default.homologies.tsv.gz).
+Pairs of orthologous genes (55,316 gene pairs) between Arabidopsis and soybean were retreaved from the FTP site of EnsemblPlants release 54 (http://ftp.ebi.ac.uk/ensemblgenomes/pub/plants/release-54/tsv/ensembl-compara/homologies/glycine_max/Compara.107.protein_default.homologies.tsv.gz), and extracted the pairs related to the five genes for analysis.
 
 ## Comparison of the tools
+
+(KT:notes)
+Venn diagram
+OrthoDB_LP, OrthoDB_GP, Ensembl
+OMA_LP, OMA_GP, Ensembl
+Table
+OMA(LP,GP) OrthoDB(LP,GP) Ensembl Plants
+
 
 OrthoDB (see figure \ref{fig}).
 
