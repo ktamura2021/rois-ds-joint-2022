@@ -131,60 +131,63 @@ Table: Comparison of the tools (815275; AT2G07050; CAS1) at Green Plants level
 | -------- | -------- | -------- | -------- | -------- |
 | GLYMA_01G001300 | cycloartenol synthase | Y | Y | Y |
 | GLYMA_01G001500 | cycloartenol synthase | Y | Y | N |
-| GLYMA_03G121300 | | N | Y | N |
-| GLYMA_03G121500 | | N | Y | N |
-| GLYMA_07G001300 | | N | Y | N |
-| GLYMA_08G027000 | | N | Y | N |
-| GLYMA_08G225800 | | N | Y | N |
-| GLYMA_15G065600 | | N | Y | N |
-| GLYMA_15G101800 | | N | Y | N |
-| GLYMA_15G223600 | | Y | N | N |
-| GLYMA_20G192700 | | N | Y | N |
+| GLYMA_03G121300 | beta-amyrin synthase | N | Y | N |
+| GLYMA_03G121500 | beta-amyrin synthase | N | Y | N |
+| GLYMA_07G001300 | beta-amyrin synthase | N | Y | N |
+| GLYMA_08G027000 | lupeol synthase | N | Y | N |
+| GLYMA_08G225800 | beta-amyrin synthase | N | Y | N |
+| GLYMA_15G065600 | beta-amyrin synthase | N | Y | N |
+| GLYMA_15G101800 | beta-amyrin synthase | N | Y | N |
+| GLYMA_15G223600 | N/A | Y | N | N |
+| GLYMA_20G192700 | lupeol synthase | N | Y | N |
+The following term was not found in Gene: GLYMA_15G223600. # Can be found at EnsemblPlants (Glycine_max_v2.1)
 
 Table: Comparison of the tools (827061; AT4G14210; PDS3) at Green Plants level
 
 | Locus tag | Gene description | OMA | OrthoDB | Ensembl Plants |
 | -------- | -------- | -------- | -------- | -------- |
-| GLYMA_11G253000 |  | Y | Y | Y |
-| GLYMA_18G003900 |  | Y | Y | Y |
+| GLYMA_11G253000 | 15-cis-phytoene desaturase, chloroplastic/chromoplastic | Y | Y | Y |
+| GLYMA_18G003900 | phytoene desaturase | Y | Y | Y |
 
 Table: Comparison of the tools (842120; AT1G56650; PAP1) at Green Plants level
 
 | Locus tag | Gene description | OMA | OrthoDB | Ensembl Plants |
 | -------- | -------- | -------- | -------- | -------- |
-| GLYMA_07G037700 |  | N | Y |  |
-| GLYMA_07G141100 |  | N | Y |  |
-| GLYMA_09G234900 |  | N | Y | Y |
-| GLYMA_09G235000 |  | N | Y | Y |
-| GLYMA_09G235100 |  | N | Y | Y |
-| GLYMA_09G235300 |  | N | Y | Y |
-| GLYMA_13G226800 |  | N | Y |  |
-| GLYMA_15G176000 |  | N | Y |  |
-| GLYMA_16G007100 |  | N | Y |  |
-| GLYMA_18G191200 |  | N | Y | N |
-| GLYMA_18G261700 |  | N | N | Y |
-| GLYMA_18G262000 |  | N | Y | Y |
-| GLYMA_19G025000 |  | N | Y | Y |
+| GLYMA_07G037700 | transcription factor MYB8 | N | Y | N |
+| GLYMA_07G141100 | transcription factor MYB1 | N | Y | N |
+| GLYMA_09G234900 | transcription factor MYB1 | N | Y | Y |
+| GLYMA_09G235000 | N/A | N | Y | Y |
+| GLYMA_09G235100 | R2R3 MYB transcription factor | N | Y | Y |
+| GLYMA_09G235300 | transcription factor MYB1 | N | Y | Y |
+| GLYMA_13G226800 | transcription factor MYB1 | N | Y | N |
+| GLYMA_15G176000 | transcription factor MYBZ1 | N | Y | N |
+| GLYMA_16G007100 | transcription factor MYB1 | N | Y | N |
+| GLYMA_18G191200 | transcription factor MYB1 | N | Y | N |
+| GLYMA_18G261700 | N/A | N | N | Y |
+| GLYMA_18G262000 | transcription repressor MYB6 | N | Y | Y |
+| GLYMA_19G025000 | transcription factor MYB114 | N | Y | Y |
+The following term was not found in Gene: GLYMA_09G235000.
+The following term was not found in Gene: GLYMA_18G261700.
 
 Table: Comparison of the tools (833607; AT5G36110; CYP716A1) at Green Plants level
 
 | Locus tag | Gene description | OMA | OrthoDB | Ensembl Plants |
 | -------- | -------- | -------- | -------- | -------- |
-| GLYMA_05G166900 | -------- | Y | N | N |
-| GLYMA_05G170400 | -------- | Y | N | N |
-| GLYMA_05G220500 | -------- | Y | Y | Y |
-| GLYMA_08G026900 | -------- | Y | Y | Y |
-| GLYMA_08G125000 | -------- | Y | N | N |
-| GLYMA_08G125100 | -------- | Y | N | N |
-| GLYMA_08G243600 | -------- | Y | Y | N |
+| GLYMA_05G166900 | beta-amyrin 28-monooxygenase | Y | N | N |
+| GLYMA_05G170400 | beta-amyrin 28-monooxygenase | Y | N | N |
+| GLYMA_05G220500 | beta-amyrin 28-monooxygenase | Y | Y | Y |
+| GLYMA_08G026900 | beta-amyrin 28-monooxygenase | Y | Y | Y |
+| GLYMA_08G125000 | beta-amyrin 28-monooxygenase | Y | N | N |
+| GLYMA_08G125100 | beta-amyrin 28-monooxygenase | Y | N | N |
+| GLYMA_08G243600 | beta-amyrin 28-monooxygenase | Y | Y | N |
 
 Table: Comparison of the tools (100037459; GLYMA_08G350800; CYP93E1) at Green Plants level
 
 | Locus tag | Gene description | OMA | OrthoDB | Ensembl Plants |
 | -------- | -------- | -------- | -------- | -------- |
-| AT2G42250 | -------- | N | Y | N |
-| AT5G06900 | -------- | N | Y | N |
-| AT5G06905 | -------- | N | Y | N |
+| AT2G42250 | cytochrome P450, family 712, subfamily A, polypeptide 1 | N | Y | N |
+| AT5G06900 | cytochrome P450, family 93, subfamily D, polypeptide 1 | N | Y | N |
+| AT5G06905 | cytochrome P450, family 712, subfamily A, polypeptide 2 | N | Y | N |
 
 # Discussion
 
