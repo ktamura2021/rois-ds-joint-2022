@@ -126,6 +126,8 @@ OMA(LP,GP) OrthoDB(LP,GP) Ensembl Plants
 
 ![Number of ortholog pairs (Arabidopsis–soybean) in different orthologous groups using OMA (left) and OrthoDB (right). Numbers in the parentheses indicate total ortholog pairs identified in each level of the tool.](./Fig1.png)
 
+![Number of ortholog pairs (Arabidopsis–soybean) between three different tools. OMA and OrthoDB are analysed at green plants level (left) or land plants level (right). Numbers in the parentheses indicate total ortholog pairs identified in each level of the tool.](./Fig2.png)
+
 
 Table: Comparison of the tools (815275; AT2G07050; CAS1) at Green Plants level
 
