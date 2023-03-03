@@ -127,7 +127,8 @@ OrthoDB (see figure \ref{fig}).
 
 ![An SVG example](./venn_result31276.svg)
 
-![An SVG example](./venn_result17837.svg)
+<img src="venn_result31276.svg" width="50%">
+
 
 Table: Comparison of the tools (815275; AT2G07050; CAS1) at Green Plants level
 
