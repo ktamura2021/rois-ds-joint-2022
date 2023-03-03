@@ -111,7 +111,7 @@ WHERE {
 Several taxonomic ranges are used: Viridiplantae (green plants, taxonomy ID 33090), Embryopyta (land plants, taxonomy ID 3193), and eudicotylendons (eudicots, taxonomy ID 71240).
 
 ### Ensembl Plants
-Pairs of orthologous genes (55,316 gene pairs) between Arabidopsis and soybean were retreaved from the FTP site of EnsemblPlants release 54 (http://ftp.ebi.ac.uk/ensemblgenomes/pub/plants/release-54/tsv/ensembl-compara/homologies/glycine_max/Compara.107.protein_default.homologies.tsv.gz), and extracted the pairs related to the five genes for analysis.
+Pairs of orthologous genes (55,316 gene pairs) between Arabidopsis and soybean were retreaved from the FTP site of Ensembl Plants release 54 (http://ftp.ebi.ac.uk/ensemblgenomes/pub/plants/release-54/tsv/ensembl-compara/homologies/glycine_max/Compara.107.protein_default.homologies.tsv.gz), and extracted the pairs related to the five genes for analysis.
 
 ## Comparison of the tools
 
