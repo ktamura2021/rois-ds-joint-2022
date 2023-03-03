@@ -125,9 +125,10 @@ OMA(LP,GP) OrthoDB(LP,GP) Ensembl Plants
 
 OrthoDB (see figure \ref{fig}).
 
-![An SVG example](./venn_result31276.svg)
+![An SVG example](./venn_result31276.png)
 
-<img src="venn_result31276.svg" width="50%">
+![An SVG example](./venn_result31276_wd100.png)
+
 
 
 Table: Comparison of the tools (815275; AT2G07050; CAS1) at Green Plants level
