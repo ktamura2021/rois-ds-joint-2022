@@ -41,18 +41,17 @@ Keywords: Arabidopsis, Orthologs, Soybean
 
 Among the various biological resources, ortholog information can play a central role in integrating the biological data of multiple species [@Chiba2015]. Various orthology finding tools are available, but they provide different results.
 It is important to examine the difference for plant research. Although a benchmarking tool such as LEMOrtho (https://lemortho.ezlab.org) [@orthodb] by using the standardized gene sets for the comparison of various orthology finding tools is available, it is also important to compare such tools by picking up some specific genes of interest.
-
 Here, we selected five plant genes with different degree of conservation and focusing on Arabidopsis (*Arabidopsis thaliana*) and soybean (*Glycine max*) to figure out the differences of orthology finding tools. 
 
 # Hackathon results
 
 ## Genes used for the analysis
 
-We selected four genes from Arabidopsis and one gene from soybean (Table 1) for the analysis. The first two genes from Arabidopsis (CAS1 and PDS3) are essential genes for plants. CAS1 is a cycloartenol synthase, which is necessary for the production of essential plant sterols [@suzuki2006lanosterol], and PDS3 is phytoene desaturase, which is needed for the production of carotenoids, the essential pigments in various physiological processes in plants including photosynthesis [@qin2007disruption].
+We selected four genes from Arabidopsis and one gene from soybean (Table 1) for the analysis.
+The first two genes from Arabidopsis (CAS1 and PDS3) are essential genes for plants. CAS1 is a cycloartenol synthase, which is necessary for the production of essential plant sterols [@suzuki2006lanosterol], and PDS3 is phytoene desaturase, which is needed for the production of carotenoids, the essential pigments in various physiological processes in plants including photosynthesis [@qin2007disruption].
 The latter three genes are related to the production of specialized metabolites. PAP1 (production of anthocyanin pigment 1) is a MYB transcription factor (also known as AtMYB75) involving the regulation of anthocyanin biosynthesis [@borevitz2000activation].
-CYP716A1 and CYP93E1 are cytochrome P450 monooxygenases involving triterpenoid biosynthesis. CYP716A1 is one of the CYP716A subfamily genes, which is widely isolated from various plant species, involving the oxidization pentacyclic triterpene skeletons including beta-amyrin at C-28 position [@yasumoto2016novel]. 
-On the other hand, CYP93E1 
-CYP93E1 is one of the CYP93E subfamily genes involving the oxidization of beta-amyrin and sophoradiol at C-24 position, and this subfamily genes are known as Fabaceae specific.
+CYP716A1 and CYP93E1 are cytochrome P450 monooxygenases involving triterpenoid biosynthesis. CYP716A1 is one of the CYP716A subfamily members, which is widely isolated from various plant species, involving the oxidization pentacyclic triterpene skeletons including beta-amyrin at C-28 position [@yasumoto2016novel]. 
+On the other hand, CYP93E subfamily members have been isolated only from Fabaceae plants [@seki2015p450s]. Soybean CYP93E1 is catalyzing the oxidization of beta-amyrin and sophoradiol at C-24 position [@shibuya2006identification].
 
 Table: Gene list
 
