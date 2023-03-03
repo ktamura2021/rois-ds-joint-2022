@@ -64,7 +64,7 @@ Table: Gene list
 | 100037459 | GLYMA_08G350800 | CYP93E1 | beta-amyrin and sophoradiol 24-hydroxylase |
 
 ## Tools used for analysis 
-OMA (https://omabrowser.org) [@oma], OrthoDB (https://www.orthodb.org) [@orthodb], Ortholog Database at PGDBj (http://pgdbj.jp) [@asamizu2014plant], and Ensembl Plants (https://plants.ensembl.org) [@yates2022ensembl] were used to retrieve orthology information. However, as PGDBj is not maintained since September 2016, and the source is an outdated version of RefSeq (RefSeq Release 66, July 15, 2014), we did not analyze PGDBj in detail.
+OMA (https://omabrowser.org) [@oma], OrthoDB (https://www.orthodb.org) [@orthodb], Ortholog Database at PGDBj (http://pgdbj.jp) [@asamizu2014plant], and Ensembl Plants (https://plants.ensembl.org) [@yates2022ensembl] were used to retrieve orthology information. However, as the Ortholog Database at PGDBj is not maintained since September 2016, and the source is an outdated version of RefSeq (RefSeq Release 66, July 15, 2014), we did not analyze PGDBj in detail.
 
 ### OMA
 Fhe following query is used to retrieve orthologs from OMA.
