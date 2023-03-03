@@ -129,8 +129,7 @@ OrthoDB (see figure \ref{fig}).
 
 ![An SVG example](./venn_result31276_wd100.png)
 
-![An SVG example](./venn_result31276_wd50.png)
-![An SVG example](./venn_result31276_wd50.png)
+![An SVG example](./venn_result31276_wd50.png) ![An SVG example](./venn_result31276_wd50.png)
 
 
 
