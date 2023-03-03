@@ -125,6 +125,8 @@ OMA(LP,GP) OrthoDB(LP,GP) Ensembl Plants
 
 OrthoDB (see figure \ref{fig}).
 
+![Number of ortholog pairs (Arabidopsis–soybean) in different orthologous groups using OMA (left) and Orthodb (right). RO, rosids; ED, eudicots; LP, land plants; GP, green plants.](./Fig1.png)
+
 ![An SVG example](./venn_result31276.png)
 
 ![An SVG example](./venn_result31276_wd100.png)
