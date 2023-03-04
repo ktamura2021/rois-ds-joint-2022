@@ -129,21 +129,12 @@ OMA(LP,GP) OrthoDB(LP,GP) Ensembl Plants
 ![Number of ortholog pairs (Arabidopsis–soybean) between three different tools. OMA and OrthoDB are analysed at green plants level (left) or land plants level (right). Numbers in the parentheses indicate total ortholog pairs identified in each level of the tool.](./Fig2.png)
 
 
-Table: Comparison of the tools (815275; AT2G07050; CAS1) at Green Plants level
+Table: Identified orthologs of AT2G07050 (CAS1) in soybean
 
-| Locus tag | Gene description | OMA | OrthoDB | Ensembl Plants |
-| -------- | -------- | -------- | -------- | -------- |
-| GLYMA_01G001300 | cycloartenol synthase | Y | Y | Y |
-| GLYMA_01G001500 | cycloartenol synthase | Y | Y | N |
-| GLYMA_03G121300 | beta-amyrin synthase | N | Y | N |
-| GLYMA_03G121500 | beta-amyrin synthase | N | Y | N |
-| GLYMA_07G001300 | beta-amyrin synthase | N | Y | N |
-| GLYMA_08G027000 | lupeol synthase | N | Y | N |
-| GLYMA_08G225800 | beta-amyrin synthase | N | Y | N |
-| GLYMA_15G065600 | beta-amyrin synthase | N | Y | N |
-| GLYMA_15G101800 | beta-amyrin synthase | N | Y | N |
-| GLYMA_15G223600 | N/A | Y | N | N |
-| GLYMA_20G192700 | lupeol synthase | N | Y | N |
+| Locus tag | OMA<br>(GP) | OMA<br>(LP) | OrthoDB<br>(GP) | OrthoDB<br>(LP) | Ensembl<br>Plants |
+| --------- | ----------- | ----------- | --------------- | --------------- | ----------------- |
+| GLYMA_01G001300 | Y | | Y | | Y |
+
 The following term was not found in Gene: GLYMA_15G223600. # Can be found at EnsemblPlants (Glycine_max_v2.1)
 
 Table: Comparison of the tools (827061; AT4G14210; PDS3) at Green Plants level
