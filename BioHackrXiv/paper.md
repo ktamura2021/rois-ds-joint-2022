@@ -131,8 +131,8 @@ OMA(LP,GP) OrthoDB(LP,GP) Ensembl Plants
 
 Table: Identified orthologs of AT2G07050 (CAS1) in soybean
 
-| Locus tag | OMA<br>(GP) | OMA<br>(LP) | OrthoDB<br>(GP) | OrthoDB<br>(LP) | Ensembl<br>Plants |
-| --------- | ----------- | ----------- | --------------- | --------------- | ----------------- |
+| Locus tag | OMA (GP) | OMA (LP) | OrthoDB (GP) | OrthoDB (LP) | Ensembl Plants |
+| --------- | :------: | :------: | :----------: | :----------: | :------------: |
 | GLYMA_01G001300 | Y | | Y | | Y |
 
 The following term was not found in Gene: GLYMA_15G223600. # Can be found at EnsemblPlants (Glycine_max_v2.1)
