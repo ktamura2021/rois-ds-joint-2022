@@ -135,15 +135,15 @@ Table: Identified orthologs of AT2G07050 (CAS1) in soybean
 | --------- | ---------------- | :---: | :---: | :---: |
 | GLYMA_01G001300 | cycloartenol synthase | Y,Y | Y/Y | Y |
 | GLYMA_01G001500 | cycloartenol synthase | Y,N | Y/Y | N |
-| GLYMA_03G121300 | beta-amyrin synthase | N/N | Y/N | N |
-| GLYMA_03G121500 | beta-amyrin synthase | N/N | Y/N | N |
-| GLYMA_07G001300 | beta-amyrin synthase | N/N | Y/N | N |
-| GLYMA_08G027000 | lupeol synthase      | N/N | Y/Y | N |
-| GLYMA_08G225800 | beta-amyrin synthase | N/N | Y/N | N |
-| GLYMA_15G065600 | beta-amyrin synthase | N/N | Y/N | N |
-| GLYMA_15G101800 | beta-amyrin synthase | N/N | Y/N | N |
-| GLYMA_15G223600 | N/A                  | Y/N | N/N | N |
-| GLYMA_20G192700 | lupeol synthase      | N/N | Y/Y | N |
+| GLYMA_03G121300 | beta-amyrin synthase | N,N | Y,N | N |
+| GLYMA_03G121500 | beta-amyrin synthase | N,N | Y,N | N |
+| GLYMA_07G001300 | beta-amyrin synthase | N,N | Y,N | N |
+| GLYMA_08G027000 | lupeol synthase      | N,N | Y,Y | N |
+| GLYMA_08G225800 | beta-amyrin synthase | N,N | Y,N | N |
+| GLYMA_15G065600 | beta-amyrin synthase | N,N | Y,N | N |
+| GLYMA_15G101800 | beta-amyrin synthase | N,N | Y,N | N |
+| GLYMA_15G223600 | N/A                  | Y,N | N,N | N |
+| GLYMA_20G192700 | lupeol synthase      | N,N | Y,Y | N |
 
 OMA and OrthoDB shows the results in green plants and land plants (green plants/land plants). ODB, OrthoDB; EP, Ensembl plants.
 The following term was not found in Gene: GLYMA_15G223600. # Can be found at EnsemblPlants (Glycine_max_v2.1)
