@@ -133,8 +133,8 @@ Table: Identified orthologs of AT2G07050 (CAS1) in soybean
 
 | Locus tag | Gene description | OMA | ODB | EP |
 | --------- | ---------------- | :---: | :---: | :---: |
-| GLYMA_01G001300 | cycloartenol synthase | Y/Y | Y/Y | Y |
-| GLYMA_01G001500 | cycloartenol synthase | Y/N | Y/Y | N |
+| GLYMA_01G001300 | cycloartenol synthase | Y,Y | Y/Y | Y |
+| GLYMA_01G001500 | cycloartenol synthase | Y,N | Y/Y | N |
 | GLYMA_03G121300 | beta-amyrin synthase | N/N | Y/N | N |
 | GLYMA_03G121500 | beta-amyrin synthase | N/N | Y/N | N |
 | GLYMA_07G001300 | beta-amyrin synthase | N/N | Y/N | N |
