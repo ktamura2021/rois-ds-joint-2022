@@ -133,8 +133,8 @@ Table: Identified orthologs of AT2G07050 (CAS1) in soybean
 
 | Locus tag | Gene description | OMA | ODB | EP |
 | --------- | ---------------- | :---: | :---: | :---: |
-| GLYMA_01G001300 | cycloartenol synthase | Y,Y | Y/Y | Y |
-| GLYMA_01G001500 | cycloartenol synthase | Y,N | Y/Y | N |
+| GLYMA_01G001300 | cycloartenol synthase | Y,Y | Y,Y | Y |
+| GLYMA_01G001500 | cycloartenol synthase | Y,N | Y,Y | N |
 | GLYMA_03G121300 | beta-amyrin synthase | N,N | Y,N | N |
 | GLYMA_03G121500 | beta-amyrin synthase | N,N | Y,N | N |
 | GLYMA_07G001300 | beta-amyrin synthase | N,N | Y,N | N |
@@ -145,7 +145,7 @@ Table: Identified orthologs of AT2G07050 (CAS1) in soybean
 | GLYMA_15G223600 | N/A                  | Y,N | N,N | N |
 | GLYMA_20G192700 | lupeol synthase      | N,N | Y,Y | N |
 
-OMA and OrthoDB shows the results in green plants and land plants (green plants/land plants). ODB, OrthoDB; EP, Ensembl plants.
+OMA and OrthoDB shows the results in green plants and land plants (green plants, land plants). ODB, OrthoDB; EP, Ensembl plants.
 The following term was not found in Gene: GLYMA_15G223600. # Can be found at EnsemblPlants (Glycine_max_v2.1)
 
 Table: Comparison of the tools (827061; AT4G14210; PDS3) at Green Plants level
