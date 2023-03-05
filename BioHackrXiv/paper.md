@@ -131,9 +131,9 @@ OMA(LP,GP) OrthoDB(LP,GP) Ensembl Plants
 
 Table: Identified orthologs of AT2G07050 (CAS1) in soybean
 
-| Locus tag | OMA(GP) | OMA(LP) | OrthoDB(GP) | OrthoDB(LP) | Ensembl |
-| --------- | :------: | :------: | :-------: | :---------: | :-----: |
-| GLYMA_01G001300 | Y | | Y | | Y |
+| Locus tag | Gene description | OMA(GP/LP) | OrthoDB(GP/LP) | Ensembl |
+| --------- | ---------------- | :--------: | :------------: | :-----: |
+| GLYMA_01G001300 | cycloartenol synthase | Y/ | Y/ | Y |
 | GLYMA_01G001500 | cycloartenol synthase | Y | Y | N |
 | GLYMA_03G121300 | beta-amyrin synthase | N | Y | N |
 | GLYMA_03G121500 | beta-amyrin synthase | N | Y | N |
