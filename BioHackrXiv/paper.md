@@ -116,16 +116,7 @@ Pairs of orthologous genes (55,356 gene pairs) between Arabidopsis and soybean w
 
 ## Comparison of the tools
 
-We first compared the effects of taxonomic range for orthology detection in OMA and OrthoDB (Figure 1). As the smallest taxonomic group containing both Arabidopsis and soybean is rosits (OMA) and eudicotyledons (OrthoDB), we tested the these smallest shared taxonomic group as well as Embryophyta (land plants) and Viridiplantae (green plants).  
-
-(KT:notes)
-Venn diagram
-OrthoDB_LP, OrthoDB_GP, Ensembl
-OMA_LP, OMA_GP, Ensembl
-Table
-OMA(LP,GP) OrthoDB(LP,GP) Ensembl Plants
-
-
+We first compared the effects of taxonomic range for orthology detection in OMA and OrthoDB (Figure 1). As the smallest taxonomic group containing both Arabidopsis and soybean is rosits (OMA) and eudicotyledons (OrthoDB), we tested the these smallest shared taxonomic group as well as Embryophyta (land plants) and Viridiplantae (green plants). In both tools, the higher taxonomic group datasets identified more ortholog pairs, however, this is not observed as incremental manner.
 
 ![Number of ortholog pairs (Arabidopsis–soybean) in different orthologous groups using OMA (left) and OrthoDB (right). Numbers in the parentheses indicate total ortholog pairs identified in each level of the tool.](./Fig1.png)
 
