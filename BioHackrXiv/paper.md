@@ -124,7 +124,7 @@ We first compared the effects of taxonomic range for orthology detection in OMA 
 
 We also compared the number of ortholog pairs (Arabidopsis–soybean) among OMA, OrthoDB, and Ensembl plants (Figure 2). OMA and OrthoDB were analyzed at the level of green plants or land plants. The highest number of ortholog pairs was found in OrthoDB, followed by Ensembl Plants, which had almost half as many pairs as OrthoDB.
 
-Next, we compared the orthology detection in the three tools by focusing the five plant genes (Figure 1). The results are shown in Figures 2–6. In each table, OMA and OrthoDB (ODB) shows the results in green plants and land plants, separated by comma (green plants, land plants).  
+Next, we compared the orthology detection in the three tools by focusing the five plant genes (Figure 1). The results are shown in Figures 2–6. In each table, OMA and OrthoDB (ODB) shows the results in green plants and land plants, separated by comma (green plants, land plants). In addition, N/A in Gene description indicates the locus tag not found in NCBI Gene. Except for AT4G14210 (PDS3), different tools gave different results. For the identified orthologs of AT2G07050 (CAS1) in soybean, GLYMA_01G001300 was identified in all conditions (Table 2).  
 
 Table: Identified orthologs of AT2G07050 (CAS1) in soybean.
 
@@ -142,7 +142,6 @@ Table: Identified orthologs of AT2G07050 (CAS1) in soybean.
 | GLYMA_15G223600 | N/A                  | Y,N | N,N | N |
 | GLYMA_20G192700 | lupeol synthase      | N,N | Y,Y | N |
 
-OMA and OrthoDB shows the results in green plants and land plants (green plants, land plants). ODB, OrthoDB; EP, Ensembl plants.
 The following term was not found in Gene: GLYMA_15G223600. # Can be found at EnsemblPlants (Glycine_max_v2.1)
 
 Table: Identified orthologs of AT4G14210 (PDS3) in soybean.
