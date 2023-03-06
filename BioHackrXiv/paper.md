@@ -126,7 +126,7 @@ We also compared the number of ortholog pairs (Arabidopsis–soybean) among OMA,
 
 Next, we compared the orthology detection in the three tools by focusing the five plant genes (Figure 1). The results are shown in Figures 2–6. In each table, OMA and OrthoDB (ODB) shows the results in green plants and land plants, separated by comma (green plants, land plants). In addition, N/A in Gene description indicates the locus tag not found in NCBI Gene. Except for AT4G14210 (PDS3), different tools gave different results.
 For the identified orthologs of AT2G07050 (CAS1) in soybean, GLYMA_01G001300 was identified in all conditions (Table 2).　OMA and OrthoDB identified more orthologs in green plants than in land plants. Especially, OrthoDB in green plants identified 10 orthologs. XXX and YYY are characterized as beta-amyrin synthase. Both cycloartenol synthase and beta-amyrin synthase are classified as oxidosqualene cyclase. Therefore, it is suggested that green plants in OrthoDB classified all kinds of oxidosqualene cyclases in one group.
-
+For 
 
 
 Table: Identified orthologs of AT2G07050 (CAS1) in soybean.
