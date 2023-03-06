@@ -129,7 +129,7 @@ OMA(LP,GP) OrthoDB(LP,GP) Ensembl Plants
 ![Number of ortholog pairs (Arabidopsis–soybean) between three different tools. OMA and OrthoDB are analysed at green plants level (left) or land plants level (right). Numbers in the parentheses indicate total ortholog pairs identified in each level of the tool.](./Fig2.png)
 
 
-Table: Identified orthologs of AT2G07050 (CAS1) in soybean
+Table: Identified orthologs of AT2G07050 (CAS1) in soybean.
 
 | Locus tag | Gene description | OMA | ODB | EP |
 | --------- | ---------------- | :---: | :---: | :---: |
@@ -148,12 +148,12 @@ Table: Identified orthologs of AT2G07050 (CAS1) in soybean
 OMA and OrthoDB shows the results in green plants and land plants (green plants, land plants). ODB, OrthoDB; EP, Ensembl plants.
 The following term was not found in Gene: GLYMA_15G223600. # Can be found at EnsemblPlants (Glycine_max_v2.1)
 
-Table: Comparison of the tools (827061; AT4G14210; PDS3) at Green Plants level
+Table: Identified orthologs of AT4G14210 (PDS3) in soybean.
 
-| Locus tag | Gene description | OMA | OrthoDB | Ensembl Plants |
-| -------- | -------- | -------- | -------- | -------- |
-| GLYMA_11G253000 | 15-cis-phytoene desaturase, chloroplastic/chromoplastic | Y | Y | Y |
-| GLYMA_18G003900 | phytoene desaturase | Y | Y | Y |
+| Locus tag | Gene description | OMA | ODB | EP |
+| --------- | ---------------- | :---: | :---: | :---: |
+| GLYMA_11G253000 | 15-cis-phytoene desaturase, chloroplastic/chromoplastic | Y,Y | Y,Y | Y |
+| GLYMA_18G003900 | phytoene desaturase | Y,Y | Y,Y | Y |
 
 Table: Comparison of the tools (842120; AT1G56650; PAP1) at Green Plants level
 
