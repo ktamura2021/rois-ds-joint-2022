@@ -126,8 +126,11 @@ We also compared the number of ortholog pairs (Arabidopsis–soybean) among OMA,
 
 Next, we compared the orthology detection in the three tools by focusing the five plant genes (Figure 1). The results are shown in Figures 2–6. In each table, OMA and OrthoDB (ODB) shows the results in green plants and land plants, separated by comma (green plants, land plants). In addition, N/A in Gene description indicates the locus tag not found in NCBI Gene.
 
-For the identified orthologs of AT2G07050 (CAS1) in soybean, GLYMA_01G001300 was identified in all conditions (Table 2). OMA and OrthoDB identified more orthologs in green plants than in land plants. Especially, OrthoDB in green plants identified 10 orthologs. GLYMA_07G001300 and GLYMA_08G225800 are characterized as beta-amyrin synthase . Both cycloartenol synthase and beta-amyrin synthase are classified as oxidosqualene cyclase. Therefore, it is suggested that green plants in OrthoDB classified all kinds of oxidosqualene cyclases in one group.
-For 
+For the identified orthologs of AT2G07050 (CAS1) in soybean, GLYMA_01G001300 was identified in all conditions (Table 2). OMA and OrthoDB identified more orthologs in green plants than in land plants. Especially, OrthoDB in green plants identified 10 orthologs. GLYMA_07G001300 and GLYMA_08G225800 are characterized as beta-amyrin synthase [@takagi2011manipulation]. Both cycloartenol synthase and beta-amyrin synthase are classified as oxidosqualene cyclase. Therefore, it is suggested that green plants in OrthoDB classified all kinds of oxidosqualene cyclases in one group.
+
+The identified orthologs of AT4G14210 (PDS3) in soybean were identical among tools and taxonomic levels (Table 3). GLYMA_18G003900 is a functionally characterized PDS in soybean [@bartley1991molecular]
+
+
 
 
 Table: Identified orthologs of AT2G07050 (CAS1) in soybean.
@@ -146,7 +149,6 @@ Table: Identified orthologs of AT2G07050 (CAS1) in soybean.
 | GLYMA_15G223600 | N/A                  | Y,N | N,N | N |
 | GLYMA_20G192700 | lupeol synthase      | N,N | Y,Y | N |
 
-The following term was not found in Gene: GLYMA_15G223600. # Can be found at EnsemblPlants (Glycine_max_v2.1)
 
 Table: Identified orthologs of AT4G14210 (PDS3) in soybean.
 
