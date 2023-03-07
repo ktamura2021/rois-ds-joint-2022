@@ -128,9 +128,7 @@ Next, we compared the orthology detection in the three tools by focusing the fiv
 
 For the identified orthologs of AT2G07050 (CAS1) in soybean, GLYMA_01G001300 was identified in all conditions (Table 2). OMA and OrthoDB identified more orthologs in green plants than in land plants. Especially, OrthoDB in green plants identified 10 orthologs. GLYMA_07G001300 and GLYMA_08G225800 are characterized as beta-amyrin synthase [@takagi2011manipulation]. Both cycloartenol synthase and beta-amyrin synthase are classified as oxidosqualene cyclase. Therefore, it is suggested that green plants in OrthoDB classified all kinds of oxidosqualene cyclases in one group.
 
-The identified orthologs of AT4G14210 (PDS3) in soybean were identical among tools and taxonomic levels (Table 3). GLYMA_18G003900 is a functionally characterized PDS in soybean [@bartley1991molecular]
-
-
+The identified orthologs of AT4G14210 (PDS3) in soybean were identical among tools and taxonomic levels (Table 3). GLYMA_18G003900 is a functionally characterized PDS in soybean [@bartley1991molecular], and GLYMA_18G003900 is annotated as its palalog in SoyBase (https://www.soybase.org).
 
 
 Table: Identified orthologs of AT2G07050 (CAS1) in soybean.
