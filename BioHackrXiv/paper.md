@@ -155,6 +155,7 @@ Table: Identified orthologs of AT4G14210 (PDS3) in soybean.
 | GLYMA_11G253000 | 15-cis-phytoene desaturase, chloroplastic/chromoplastic | Y,Y | Y,Y | Y |
 | GLYMA_18G003900 | phytoene desaturase | Y,Y | Y,Y | Y |
 
+
 Table: Identified orthologs of AT1G56650 (PAP1) in soybean.
 
 | Locus tag | Gene description | OMA | ODB | EP |
@@ -172,8 +173,7 @@ Table: Identified orthologs of AT1G56650 (PAP1) in soybean.
 | GLYMA_18G261700 | N/A                        | N,N | N,N | Y |
 | GLYMA_18G262000 | transcription repressor MYB6 | N,N | Y,Y | Y |
 | GLYMA_19G025000 | transcription factor MYB114 | N,N | Y,Y | Y |
-The following term was not found in Gene: GLYMA_09G235000.
-The following term was not found in Gene: GLYMA_18G261700.
+
 
 Table: Identified orthologs of AT5G36110 (CYP716A1) in soybean.
 
@@ -187,6 +187,7 @@ Table: Identified orthologs of AT5G36110 (CYP716A1) in soybean.
 | GLYMA_08G125100 | beta-amyrin 28-monooxygenase | Y,Y | N,Y | N |
 | GLYMA_08G243600 | beta-amyrin 28-monooxygenase | Y,Y | Y,Y | N |
 
+
 Table: Identified orthologs of GLYMA_08G350800 (CYP93E1) in Arabidopsis.
 
 | Locus tag | Gene description | OMA | ODB | EP |
@@ -194,6 +195,9 @@ Table: Identified orthologs of GLYMA_08G350800 (CYP93E1) in Arabidopsis.
 | AT2G42250 | cytochrome P450, family 712, subfamily A, polypeptide 1 | N,N | Y,Y | N |
 | AT5G06900 | cytochrome P450, family 93, subfamily D, polypeptide 1 | N,N | Y,Y | N |
 | AT5G06905 | cytochrome P450, family 712, subfamily A, polypeptide 2 | N,N | Y,Y | N |
+
+
+The identified orthologs of AT1G56650 (PAP1) in soybean were different between the tools (Table 4). OMA did not identified any orthologs. OrthoDB and Ensembl Plants identified several orthologs, and OrthoDB identified more orthologs than Ensembl Plants (GLYMA_09G235000 and GLYMA_18G261700 were not included in the OrthoDB v10.1).
 
 # Discussion
 
