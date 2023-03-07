@@ -197,7 +197,7 @@ Table: Identified orthologs of GLYMA_08G350800 (CYP93E1) in Arabidopsis.
 | AT5G06905 | cytochrome P450, family 712, subfamily A, polypeptide 2 | N,N | Y,Y | N |
 
 
-The identified orthologs of AT1G56650 (PAP1) in soybean were different between the tools (Table 4). OMA did not identified any orthologs. OrthoDB and Ensembl Plants identified several orthologs, and OrthoDB identified more orthologs than Ensembl Plants (GLYMA_09G235000 and GLYMA_18G261700 were not included in the OrthoDB v10.1).
+The identified orthologs of AT1G56650 (PAP1) in soybean were different between the tools (Table 4). OMA did not identified any orthologs, while OrthoDB and Ensembl Plants identified several orthologs. As GLYMA_09G235000 and GLYMA_18G261700 were not included in the OrthoDB v10.1, OrthoDB identified more orthologs than Ensembl Plants.
 
 # Discussion
 
