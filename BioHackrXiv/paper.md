@@ -158,13 +158,13 @@ Table: Identified orthologs of AT4G14210 (PDS3) in soybean.
 
 Table: Identified orthologs of AT1G56650 (PAP1) in soybean.
 
-| Locus tag | Gene description | OMA | ODB | EP |
-| --------- | ---------------- | :---: | :---: | :---: |
-| GLYMA_07G037700 | transcription factor MYB8 | N,N | Y,Y | N |
-| GLYMA_07G141100 | transcription factor MYB1 | N,N | Y,Y | N |
-| GLYMA_09G234900 | transcription factor MYB1 | N,N | Y,Y | Y |
-| GLYMA_09G235000 | N/A                       | N,N | N,N | Y |
-| GLYMA_09G235100 | R2R3 MYB transcription factor | N,N | Y,Y | Y |
+| Locus tag | NCBI Gene ID | Gene symbol | OMA | ODB | EP |
+| --------- | ------------ | ----------- | :---: | :---: | :---: |
+| GLYMA_07G037700 | 100101858 | LOC100101858 | N,N | Y,Y | N |
+| GLYMA_07G141100 | 100809746 | LOC100809746 | N,N | Y,Y | N |
+| GLYMA_09G234900 | 100778957 | LOC100778957 | N,N | Y,Y | Y |
+| GLYMA_09G235000 | N/A | N/A | N,N | N,N | Y |
+| GLYMA_09G235100 | 100780023 | R | N,N | Y,Y | Y |
 | GLYMA_09G235300 | transcription factor MYB1 | N,N | Y,Y | Y |
 | GLYMA_13G226800 | transcription factor MYB1 | N,N | Y,Y | N |
 | GLYMA_15G176000 | transcription factor MYBZ1 | N,N | Y,Y | N |
