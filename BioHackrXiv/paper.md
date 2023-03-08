@@ -165,14 +165,14 @@ Table: Identified orthologs of AT1G56650 (PAP1) in soybean.
 | GLYMA_09G234900 | 100778957 | LOC100778957 | N,N | Y,Y | Y |
 | GLYMA_09G235000 | N/A | N/A | N,N | N,N | Y |
 | GLYMA_09G235100 | 100780023 | R | N,N | Y,Y | Y |
-| GLYMA_09G235300 | transcription factor MYB1 | N,N | Y,Y | Y |
-| GLYMA_13G226800 | transcription factor MYB1 | N,N | Y,Y | N |
-| GLYMA_15G176000 | transcription factor MYBZ1 | N,N | Y,Y | N |
-| GLYMA_16G007100 | transcription factor MYB1 | N,N | Y,Y | N |
-| GLYMA_18G191200 | transcription factor MYB1 | N,N | Y,Y | N |
-| GLYMA_18G261700 | N/A                        | N,N | N,N | Y |
-| GLYMA_18G262000 | transcription repressor MYB6 | N,N | Y,Y | Y |
-| GLYMA_19G025000 | transcription factor MYB114 | N,N | Y,Y | Y |
+| GLYMA_09G235300 | 100781091 | LOC100781091 | N,N | Y,Y | Y |
+| GLYMA_13G226800 | 100802612 | LOC100802612 | N,N | Y,Y | N |
+| GLYMA_15G176000 | 778159 | MYB121 | N,N | Y,Y | N |
+| GLYMA_16G007100 | 547568 | LOC547568 | N,N | Y,Y | N |
+| GLYMA_18G191200 | 100798101 | LOC100798101 | N,N | Y,Y | N |
+| GLYMA_18G261700 | N/A | N/A | N,N | N,N | Y |
+| GLYMA_18G262000 | 100792465 | LOC100792465 | N,N | Y,Y | Y |
+| GLYMA_19G025000 | 100306270 | LOC100306270 | N,N | Y,Y | Y |
 
 
 Table: Identified orthologs of AT5G36110 (CYP716A1) in soybean.
