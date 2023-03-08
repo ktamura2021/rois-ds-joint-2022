@@ -55,13 +55,13 @@ On the other hand, CYP93E subfamily members have been isolated only from Fabacea
 
 Table: Gene list
 
-| NCBI Gene ID | Locus tag | Gene symbol | Gene description |
-| -------- | -------- | -------- | -------- |
-| 815275 | AT2G07050 | CAS1 | cycloartenol synthase 1 |
-| 827061 | AT4G14210 | PDS3 | phytoene desaturase 3 |
-| 842120 | AT1G56650 | PAP1 | production of anthocyanin pigment 1 |
-| 833607 | AT5G36110 | CYP716A1 | cytochrome P450, family 716, subfamily A, polypeptide 1 |
-| 100037459 | GLYMA_08G350800 | CYP93E1 | beta-amyrin and sophoradiol 24-hydroxylase |
+| NCBI Gene ID | Locus tag | Gene symbol |
+| ------------ | --------- | ----------- |
+| 815275 | AT2G07050 | CAS1 |
+| 827061 | AT4G14210 | PDS3 |
+| 842120 | AT1G56650 | PAP1 |
+| 833607 | AT5G36110 | CYP716A1 |
+| 100037459 | GLYMA_08G350800 | CYP93E1 |
 
 ## Tools used for analysis 
 OMA (https://omabrowser.org) [@oma], OrthoDB (https://www.orthodb.org) [@orthodb], Ortholog Database at PGDBj (http://pgdbj.jp) [@asamizu2014plant], and Ensembl Plants (https://plants.ensembl.org) [@yates2022ensembl] were used to retrieve orthology information. However, as the Ortholog Database at PGDBj is not maintained since September 2016, and the source is an outdated version of RefSeq (RefSeq Release 66, July 15, 2014), we did not analyze PGDBj in detail.
