@@ -48,12 +48,12 @@ In this study, we focused on five plant genes with different degrees of conserva
 
 ## Genes used for the analysis
 
-We selected four genes from Arabidopsis and one gene from soybean (Table 1) for the analysis.
-The first two genes from Arabidopsis (CAS1 and PDS3) are essential genes for plants.
-CAS1 is a cycloartenol synthase, which is necessary for the production of essential plant sterols [@corey1993isolation], and PDS3 is phytoene desaturase, which is needed for the production of carotenoids, the essential pigments in various physiological processes in plants including photosynthesis [@qin2007disruption].
-The latter three genes are related to the production of specialized metabolites.
-PAP1 (production of anthocyanin pigment 1) is a MYB transcription factor (also known as AtMYB75) involving the regulation of anthocyanin biosynthesis [@borevitz2000activation].
-CYP716A1 and CYP93E1 are cytochrome P450 monooxygenases involving triterpenoid biosynthesis.
+For the analysis, we selected four genes from Arabidopsis and one gene from soybean (Table 1).
+The first two Arabidopsis genes, CAS1 and PDS3, are essential genes for plant survival.
+CAS1 is a cycloartenol synthase necessary for the production of essential plant sterols [@corey1993isolation], while PDS3 is a phytoene desaturase essential for carotenoid production, the pigments necessary for various physiological processes in plants, including photosynthesis [@qin2007disruption].
+The latter three genes are involved in specialized metabolite production.
+PAP1 (Production of Anthocyanin Pigment 1) is a MYB transcription factor (also known as AtMYB75) that regulates anthocyanin biosynthesis [@borevitz2000activation].
+CYP716A1 and CYP93E1 are cytochrome P450 monooxygenases involved in triterpenoid biosynthesis.
 CYP716A1 is one of the CYP716A subfamily members, which is widely isolated from various plant species, involving the oxidization pentacyclic triterpene skeletons including beta-amyrin at C-28 position [@yasumoto2016novel]. 
 On the other hand, CYP93E subfamily members have been isolated only from Fabaceae plants [@seki2015p450s].
 Soybean CYP93E1 is catalyzing the oxidization of beta-amyrin and sophoradiol at C-24 position [@shibuya2006identification].
