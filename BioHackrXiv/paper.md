@@ -135,9 +135,9 @@ Table: Identified orthologs of AT2G07050 (CAS1) in soybean.
 
 | Locus tag | NCBI Gene ID | Gene symbol | OMA | ODB | EP |
 | --------- | ------------ | ----------- | :---: | :---: | :---: |
-| GLYMA_01G001300 | 548054 | | Y,Y | Y,Y | Y |
-| GLYMA_01G001500 | 100784662 | | Y,N | Y,Y | N |
-| GLYMA_03G121300 | 100809670 | | N,N | Y,N | N |
+| GLYMA_01G001300 | 548054 | LOC548054 | Y,Y | Y,Y | Y |
+| GLYMA_01G001500 | 100784662 | LOC100784662 | Y,N | Y,Y | N |
+| GLYMA_03G121300 | 100809670 | LOC100809670 | N,N | Y,N | N |
 | GLYMA_03G121500 | 100810544 | | N,N | Y,N | N |
 | GLYMA_07G001300 | 547702 | AMS1 | N,N | Y,N | N |
 | GLYMA_08G027000 | 100794151 | | N,N | Y,Y | N |
