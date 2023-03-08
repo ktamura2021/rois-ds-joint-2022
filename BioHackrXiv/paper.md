@@ -68,11 +68,11 @@ Table: Gene list
 | 833607 | AT5G36110 | CYP716A1 |
 | 100037459 | GLYMA_08G350800 | CYP93E1 |
 
-## Tools used for analysis 
-OMA (https://omabrowser.org) [@oma], OrthoDB (https://www.orthodb.org) [@orthodb], Ortholog Database at PGDBj (http://pgdbj.jp) [@asamizu2014plant], and Ensembl Plants (https://plants.ensembl.org) [@yates2022ensembl] were used to retrieve orthology information. However, as the Ortholog Database at PGDBj is not maintained since September 2016, and the source is an outdated version of RefSeq (RefSeq Release 66, July 15, 2014), we did not analyze PGDBj in detail.
+## Tools used for analysis
+We used OMA (https://omabrowser.org) [@oma], OrthoDB (https://www.orthodb.org) [@orthodb], Ortholog Database at PGDBj (http://pgdbj.jp) [@asamizu2014plant], and Ensembl Plants (https://plants.ensembl.org) [@yates2022ensembl] to retrieve orthology information. However, we did not analyze PGDBj in detail as it is not maintained since September 2016 and uses an outdated version of RefSeq (RefSeq Release 66, July 15, 2014).
 
 ### OMA
-Fhe following query was used to retrieve orthologs from OMA.
+We used the following query to retrieve orthologs from OMA. We used several taxonomic ranges, including Viridiplantae (green plants, taxonomy ID 33090), Embryophyta (land plants, taxonomy ID 3193), and rosids (taxonomy ID 71275).
 ```
 PREFIX oo: <http://purl.org/net/orth#>
 PREFIX upTax: <http://purl.uniprot.org/taxonomy/>
@@ -87,10 +87,9 @@ WHERE {
   ?member2 oo:organism <https://omabrowser.org/oma/genome/3847> .
 }
 ```
-Several taxonomic ranges were used: Viridiplantae (green plants, taxonomy ID 33090), Embryophyta (land plants, taxonomy ID 3193), and rosids (taxonomy ID 71275).
 
 ### OrthoDB
-Fhe following query is used to retrieve orthologs from OrthoDB.
+We used the following query to retrieve orthologs from OrthoDB. We used several taxonomic ranges, including Viridiplantae (green plants, taxonomy ID 33090), Embryophyta (land plants, taxonomy ID 3193), and eudicotyledons (eudicots, taxonomy ID 71240).
 ```
 PREFIX orthodb: <http://purl.orthodb.org/>
 PREFIX upTax: <http://purl.uniprot.org/taxonomy/>
@@ -114,10 +113,9 @@ WHERE {
       rdfs:label ?entrez_id2 .
 }
 ```
-Several taxonomic ranges were used: Viridiplantae (green plants, taxonomy ID 33090), Embryophyta (land plants, taxonomy ID 3193), and eudicotyledons (eudicots, taxonomy ID 71240).
 
 ### Ensembl Plants
-Pairs of orthologous genes (55,356 gene pairs) between Arabidopsis and soybean were retreaved from the FTP site of Ensembl Plants release 54 (http://ftp.ebi.ac.uk/ensemblgenomes/pub/plants/release-54/tsv/ensembl-compara/homologies/glycine_max/Compara.107.protein_default.homologies.tsv.gz), and extracted the pairs related to the five genes for analysis.
+We retrieved pairs of orthologous genes (55,356 gene pairs) between Arabidopsis and soybean from the FTP site of Ensembl Plants release 54 (http://ftp.ebi.ac.uk/ensemblgenomes/pub/plants/release-54/tsv/ensembl-compara/homologies/glycine_max/Compara.107.protein_default.homologies.tsv.gz). We then extracted the pairs related to the five genes for analysis.
 
 ## Comparison of the tools
 
