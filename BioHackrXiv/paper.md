@@ -150,10 +150,10 @@ Table: Identified orthologs of AT2G07050 (CAS1) in soybean.
 
 Table: Identified orthologs of AT4G14210 (PDS3) in soybean.
 
-| Locus tag | Gene description | OMA | ODB | EP |
-| --------- | ---------------- | :---: | :---: | :---: |
-| GLYMA_11G253000 | 15-cis-phytoene desaturase, chloroplastic/chromoplastic | Y,Y | Y,Y | Y |
-| GLYMA_18G003900 | phytoene desaturase | Y,Y | Y,Y | Y |
+| Locus tag | NCBI Gene ID | Gene symbol | OMA | ODB | EP |
+| --------- | ------------ | ----------- | :---: | :---: | :---: |
+| GLYMA_11G253000 | 100127420 | LOC100127420 | Y,Y | Y,Y | Y |
+| GLYMA_18G003900 | 547970 | PDS1 | Y,Y | Y,Y | Y |
 
 
 Table: Identified orthologs of AT1G56650 (PAP1) in soybean.
