@@ -203,14 +203,18 @@ OrthoDB identified all of these genes.
 
 For AT5G36110 (CYP716A1), OMA identified seven orthologs, OrthoDB identified six (land plants) or three (green plants) orthologs, and Ensembl Plants identified two orthologs (Table 5). GLYMA_05G220500 and GLYMA_08G026900 were identified in all of the tools. In soybean, three CYP716A, three CYP716D, and one CYP716G subfamily genes are reported [@guttikonda2010whole].
 By comparing the phylogenetic trees reported by [@guttikonda2010whole] and [@khatri2022comprehensive], and UniRef50 (UniProt Reference Clusters) of AT5G36110 (CYP716A1) contains three soybean entries including GLYMA_08G026900 and GLYMA_05G220500, it is expected that GLYMA_05G220500, GLYMA_08G026900, and GLYMA_08G043600 are the three CYP716A genes, and GLYMA_05G166900, GLYMA_08G125000, and GLYMA_08G125100 are the three CYP716D genes (the locus tag for one CYP716G gene is unknown).
-OrthoDB (green plants) and Ensembl plants identified all or two of the three CYP716A genes, while OMA and OrthoDB (land plants) identified all of the CYP716A as well as CYP716D genes.
+OrthoDB (green plants) and Ensembl Plants identified all or two of the three CYP716A genes, while OMA and OrthoDB (land plants) identified all of the CYP716A as well as CYP716D genes.
 
 Finally, for GLYMA_08G350800 (CYP93E1), only OrthoDB identified orthologs in soybean (Table 6). In Arabidopsis, a single CYP93 family gene (CYP93D1) is known, and the two CYP712A subfamily genes are relatively close relathionship to CYP93 [@bak2011cytochromes]. OrthoDB clustered these Arabidopsis P450s together, while OMA and Ensembl Plants did not.
 
 
 # Discussion
 
-We compared the search results of OMA, OrthoDB, PGDBj, and Ensembl Plants for five plant genes. We observed substantial difference of the results among the tools. PGDBj seems to detect many paralogs compared to others. OMA and OrthoDB has functionality of controlling the taxonomic range for orthology detection, and changing the range affected the search results. In some cases, the effect of the taxonimc range makes it difficult to interpret the search results by practical scientists. By manual inspection of the results, we confirmed that OrthoDB produces reasonable results at the current status.
+We compared the search results of OMA, OrthoDB, and Ensembl Plants using the ortholog pairs between Arabidopsis and soybean, and performed the detailed analysis for the five genes.
+We observed substantial difference of the results among the tools. OMA and OrthoDB has functionality of controlling the taxonomic range for orthology detection, and changing the range affected the search results. The number of detected ortholog pairs was increased in higher taxonomic ranges, however, it is not always the case that higher taxonomic ranges identified all of the ortholog pairs identified in lower taxonomic ranges.
+By testing the five specific plant genes, we noticed that 
+
+In some cases, the effect of the taxonimc range makes it difficult to interpret the search results by practical scientists. By manual inspection of the results, we confirmed that OrthoDB produces reasonable results at the current status.
 
 
 # Future work
