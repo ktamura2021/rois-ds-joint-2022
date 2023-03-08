@@ -212,9 +212,8 @@ Finally, for GLYMA_08G350800 (CYP93E1), only OrthoDB identified orthologs in soy
 
 We compared the search results of OMA, OrthoDB, and Ensembl Plants using the ortholog pairs between Arabidopsis and soybean, and performed the detailed analysis for the five genes.
 We observed substantial difference of the results among the tools. OMA and OrthoDB has functionality of controlling the taxonomic range for orthology detection, and changing the range affected the search results. The number of detected ortholog pairs was increased in higher taxonomic ranges, however, it is not always the case that higher taxonomic ranges identified all of the ortholog pairs identified in lower taxonomic ranges.
-By testing the five specific plant genes, we noticed that 
-
-In some cases, the effect of the taxonimc range makes it difficult to interpret the search results by practical scientists. By manual inspection of the results, we confirmed that OrthoDB produces reasonable results at the current status.
+By testing the five specific plant genes, althogh the nubmer of ortholog pairs were highest in OrthoDB, followed by Ensembl Plants and OMA, OrthoDB did not always detected the most orthologs among the three tools.
+As we observed in the orthologs of AT5G36110 (CYP716A1), it is suggested that orthologs identified in multiple tools may be more reasonable ones. Hence, for the precise ortholog detection, it is important to use multiple tools and integrate the results.
 
 
 # Future work
