@@ -133,19 +133,19 @@ The identified orthologs of AT4G14210 (PDS3) in soybean were identical among too
 
 Table: Identified orthologs of AT2G07050 (CAS1) in soybean.
 
-| Locus tag | Gene description | OMA | ODB | EP |
-| --------- | ---------------- | :---: | :---: | :---: |
-| GLYMA_01G001300 | cycloartenol synthase | Y,Y | Y,Y | Y |
-| GLYMA_01G001500 | cycloartenol synthase | Y,N | Y,Y | N |
-| GLYMA_03G121300 | beta-amyrin synthase | N,N | Y,N | N |
-| GLYMA_03G121500 | beta-amyrin synthase | N,N | Y,N | N |
-| GLYMA_07G001300 | beta-amyrin synthase | N,N | Y,N | N |
-| GLYMA_08G027000 | lupeol synthase      | N,N | Y,Y | N |
-| GLYMA_08G225800 | beta-amyrin synthase | N,N | Y,N | N |
-| GLYMA_15G065600 | beta-amyrin synthase | N,N | Y,N | N |
-| GLYMA_15G101800 | beta-amyrin synthase | N,N | Y,N | N |
-| GLYMA_15G223600 | N/A                  | Y,N | N,N | N |
-| GLYMA_20G192700 | lupeol synthase      | N,N | Y,Y | N |
+| Locus tag | NCBI Gene ID | Gene description | OMA | ODB | EP |
+| --------- | ------------ | ---------------- | :---: | :---: | :---: |
+| GLYMA_01G001300 | 548054 | cycloartenol synthase | Y,Y | Y,Y | Y |
+| GLYMA_01G001500 | | cycloartenol synthase | Y,N | Y,Y | N |
+| GLYMA_03G121300 | | beta-amyrin synthase | N,N | Y,N | N |
+| GLYMA_03G121500 | | beta-amyrin synthase | N,N | Y,N | N |
+| GLYMA_07G001300 | | beta-amyrin synthase | N,N | Y,N | N |
+| GLYMA_08G027000 | | lupeol synthase      | N,N | Y,Y | N |
+| GLYMA_08G225800 | | beta-amyrin synthase | N,N | Y,N | N |
+| GLYMA_15G065600 | | beta-amyrin synthase | N,N | Y,N | N |
+| GLYMA_15G101800 | | beta-amyrin synthase | N,N | Y,N | N |
+| GLYMA_15G223600 | | N/A                  | Y,N | N,N | N |
+| GLYMA_20G192700 | | lupeol synthase      | N,N | Y,Y | N |
 
 
 Table: Identified orthologs of AT4G14210 (PDS3) in soybean.
@@ -197,7 +197,7 @@ Table: Identified orthologs of GLYMA_08G350800 (CYP93E1) in Arabidopsis.
 | AT5G06905 | cytochrome P450, family 712, subfamily A, polypeptide 2 | N,N | Y,Y | N |
 
 
-The identified orthologs of AT1G56650 (PAP1) in soybean were different between the tools (Table 4). OMA did not identified any orthologs, while OrthoDB and Ensembl Plants identified 11 and seven orthologs, respectively. As GLYMA_09G235000 and GLYMA_18G261700 were not included in the OrthoDB v10.1, OrthoDB identified all of the orthologs identified in Ensembl Plants.
+The identified orthologs of AT1G56650 (PAP1) in soybean were different between the tools (Table 4). OMA did not identified any orthologs, while OrthoDB and Ensembl Plants identified 11 and seven orthologs, respectively. As GLYMA_09G235000 and GLYMA_18G261700 were not included in the OrthoDB v10.1, OrthoDB identified all of the orthologs identified in Ensembl Plants. The phylogenetic analysis of soybean MYB proteins identified seven genes clustered together with PAP1 (AtMYB75); namely, GmMYB192 (GLYMA_07G141100
 
 For AT5G36110 (CYP716A1), OMA identified seven orthologs, OrthoDB identified six (land plants) or three (green plants) orthologs, and Ensembl Plants identified two orthologs (Table 5). GLYMA_05G220500 and GLYMA_08G026900 were identified in all of the tools.
 
