@@ -54,9 +54,9 @@ CAS1 is a cycloartenol synthase necessary for the production of essential plant 
 The latter three genes are involved in specialized metabolite production.
 PAP1 (Production of Anthocyanin Pigment 1) is a MYB transcription factor (also known as AtMYB75) that regulates anthocyanin biosynthesis [@borevitz2000activation].
 CYP716A1 and CYP93E1 are cytochrome P450 monooxygenases involved in triterpenoid biosynthesis.
-CYP716A1 is one of the CYP716A subfamily members, which is widely isolated from various plant species, involving the oxidization pentacyclic triterpene skeletons including beta-amyrin at C-28 position [@yasumoto2016novel]. 
+*CYP716A1 is one of the CYP716A subfamily members, which is widely isolated from various plant species, involving the oxidization pentacyclic triterpene skeletons including beta-amyrin at C-28 position [@yasumoto2016novel]. 
 On the other hand, CYP93E subfamily members have been isolated only from Fabaceae plants [@seki2015p450s].
-Soybean CYP93E1 is catalyzing the oxidization of beta-amyrin and sophoradiol at C-24 position [@shibuya2006identification].
+Soybean CYP93E1 is catalyzing the oxidization of beta-amyrin and sophoradiol at C-24 position [@shibuya2006identification].*
 
 Table: Gene list
 
