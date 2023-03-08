@@ -201,7 +201,9 @@ The identified orthologs of AT1G56650 (PAP1) in soybean were different between t
 The previous phylogenetic analysis of soybean MYB proteins identified seven genes clustered together with PAP1 (AtMYB75); namely, GmMYB192 (GLYMA_07G141100), GmMYB227 (GLYMA_09G235100), GmMYB241 (GLYMA_09G235300), GmMYB155 (GLYMA_18G191200), GmMYB008 (GLYMA_18G261700), GmMYB080, (GLYMA_18G262000), and GmMYB096 (GLYMA_19G025000) [@du2012genome].
 OrthoDB identified all of these genes.
 
-For AT5G36110 (CYP716A1), OMA identified seven orthologs, OrthoDB identified six (land plants) or three (green plants) orthologs, and Ensembl Plants identified two orthologs (Table 5). GLYMA_05G220500 and GLYMA_08G026900 were identified in all of the tools.
+For AT5G36110 (CYP716A1), OMA identified seven orthologs, OrthoDB identified six (land plants) or three (green plants) orthologs, and Ensembl Plants identified two orthologs (Table 5). GLYMA_05G220500 and GLYMA_08G026900 were identified in all of the tools. In soybean, three CYP716A, three CYP716D, and one CYP716G subfamily genes are reported [@guttikonda2010whole].
+By comparing the phylogenetic trees reported by [@guttikonda2010whole] and [@khatri2022comprehensive], and UniRef50 (UniProt Reference Clusters) of AT5G36110 (CYP716A1) contains three soybean entries including GLYMA_08G026900 and GLYMA_05G220500, it is expected that GLYMA_05G220500, GLYMA_08G026900, and GLYMA_08G043600 are the three CYP716A genes, and GLYMA_05G166900, GLYMA_08G125000, and GLYMA_08G125100 are the three CYP716D genes (the locus tag for one CYP716G gene is unknown).
+OrthoDB (green plants) and Ensembl plants identified all or two of the three CYP716A genes, while OMA and OrthoDB (land plants) identified all of the CYP716A as well as CYP716D genes.
 
 Finally, for GLYMA_08G350800 (CYP93E1), only OrthoDB identified orthologs in soybean (Table 6).
 
