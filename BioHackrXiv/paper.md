@@ -144,7 +144,7 @@ Table: Identified orthologs of AT2G07050 (CAS1) in soybean.
 | GLYMA_08G225800 | 100778398 | | N,N | Y,N | N |
 | GLYMA_15G065600 | 100797878 | | N,N | Y,N | N |
 | GLYMA_15G101800 | 100781065 | | N,N | Y,N | N |
-| GLYMA_15G223600 | N/A　| N/A | Y,N | N,N | N |
+| GLYMA_15G223600 | N/A | N/A | Y,N | N,N | N |
 | GLYMA_20G192700 | 100810400 | | N,N | Y,Y | N |
 
 
