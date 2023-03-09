@@ -41,7 +41,7 @@ Keywords: Orthology Finding Tools, Orthologs, Plant genes, Arabidopsis, Soybean
 
 Ortholog information is a valuable resource in integrating biological data from multiple species [@Chiba2015].
 Various orthology finding tools are available; however, they provide different results, making it important to examine these differences in plant research.
-Although a benchmarking tool, such as LEMOrtho (https://lemortho.ezlab.org) [@orthodb], which uses standardized gene sets for the comparison of various orthology finding tools, is available, it is also essential to compare these tools by selecting specific genes of interest.
+Although a benchmarking tool, such as LEMOrtho (https://lemortho.ezlab.org/) [@orthodb], which uses standardized gene sets for the comparison of various orthology finding tools, is available, it is also essential to compare these tools by selecting specific genes of interest.
 In this study, we focused on five plant genes with different degrees of conservation, specifically in Arabidopsis (*Arabidopsis thaliana*) and soybean (*Glycine max*), to determine the differences in orthology finding tools.
 
 # Hackathon results
@@ -69,7 +69,7 @@ Table: Gene list
 | 100037459 | GLYMA_08G350800 | CYP93E1 |
 
 ## Tools used for analysis
-We used OMA (https://omabrowser.org) [@oma], OrthoDB (https://www.orthodb.org) [@orthodb], Ortholog Database at PGDBj (http://pgdbj.jp) [@asamizu2014plant], and Ensembl Plants (https://plants.ensembl.org) [@yates2022ensembl] to retrieve orthology information. However, we did not analyze PGDBj in detail as it is not maintained since September 2016 and uses an outdated version of RefSeq (RefSeq Release 66, July 15, 2014).
+We used OMA (https://omabrowser.org/) [@oma], OrthoDB (https://www.orthodb.org/) [@orthodb], Ortholog Database at PGDBj (http://pgdbj.jp/) [@asamizu2014plant], and Ensembl Plants (https://plants.ensembl.org/) [@yates2022ensembl] to retrieve orthology information. However, we did not analyze PGDBj in detail as it is not maintained since September 2016 and uses an outdated version of RefSeq (RefSeq Release 66, July 15, 2014).
 
 ### OMA
 We used the following query to retrieve orthologs from OMA. We used several taxonomic ranges, including Viridiplantae (green plants, taxonomy ID 33090), Embryophyta (land plants, taxonomy ID 3193), and rosids (taxonomy ID 71275).
@@ -131,7 +131,7 @@ Next, we compared orthology detection in the three tools by focusing on the five
 
 For the identified orthologs of AT2G07050 (CAS1) in soybean, GLYMA_01G001300 was identified in all conditions (Table 2). OMA and OrthoDB identified more orthologs in green plants than in land plants. Specifically, OrthoDB in green plants identified 10 orthologs. GLYMA_07G001300 and GLYMA_08G225800 are characterized as beta-amyrin synthase [@takagi2011manipulation], while GLYMA_08G027000 and GLYMA_20G192700 are characterized as lupeol synthase [@PPR568134]. Cycloartenol synthase, beta-amyrin synthase, and lupeol synthase are classified as oxidosqualene cyclase. Therefore, it is suggested that OrthoDB in green plants grouped these different types of oxidosqualene cyclases into one group.
 
-The identified orthologs of AT4G14210 (PDS3) in soybean were identical among the tools and taxonomic levels (Table 3). GLYMA_18G003900 is a functionally characterized PDS in soybean [@bartley1991molecular], and GLYMA_18G003900 is annotated as its paralog in SoyBase (https://www.soybase.org).
+The identified orthologs of AT4G14210 (PDS3) in soybean were identical among the tools and taxonomic levels (Table 3). GLYMA_18G003900 is a functionally characterized PDS in soybean [@bartley1991molecular], and GLYMA_18G003900 is annotated as its paralog in SoyBase (https://www.soybase.org/).
 
 
 Table: Identified orthologs of AT2G07050 (CAS1) in soybean
@@ -220,7 +220,7 @@ As we observed in the orthologs of AT5G36110 (CYP716A1), it is suggested that or
 
 
 # Future work
-The orthology relations will be utilized within RefEx ([https://refex.dbcls.jp](https://refex.dbcls.jp)), a web-based tool that facilitates browsing of reference gene expression. The RefEx project is presently engaged in the development of a successor website (RefEx2), which will incorporate expression datasets from a range of species. The survey findings will constitute a significant resource for the RefEx2 website, which aims to establish links between each gene search result and its orthologous association with related plant or other species.
+The orthology relations will be utilized within RefEx ([https://refex.dbcls.jp/](https://refex.dbcls.jp/)), a web-based tool that facilitates browsing of reference gene expression. The RefEx project is presently engaged in the development of a successor website (RefEx2), which will incorporate expression datasets from a range of species. The survey findings will constitute a significant resource for the RefEx2 website, which aims to establish links between each gene search result and its orthologous association with related plant or other species.
 
 # GitHub repository
 https://github.com/hchiba1/rois-ds-joint-tamura
