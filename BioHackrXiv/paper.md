@@ -213,10 +213,10 @@ Finally, only OrthoDB identified orthologs of GLYMA_08G350800 (CYP93E1) in Arabi
 
 # Discussion
 
-We compared the search results of OMA, OrthoDB, and Ensembl Plants using the ortholog pairs between Arabidopsis and soybean, and performed the detailed analysis for the five genes.
-We observed substantial difference of the results among the tools. OMA and OrthoDB has functionality of controlling the taxonomic range for orthology detection, and changing the range affected the search results. The number of detected ortholog pairs was increased in higher taxonomic ranges, however, it is not always the case that higher taxonomic ranges identified all of the ortholog pairs identified in lower taxonomic ranges.
-By testing the five specific plant genes, althogh the nubmer of ortholog pairs were highest in OrthoDB, followed by Ensembl Plants and OMA, OrthoDB did not always detected the most orthologs among the three tools.
-As we observed in the orthologs of AT5G36110 (CYP716A1), it is suggested that orthologs identified in multiple tools may be more reasonable ones. Hence, for the precise ortholog detection, it is important to use multiple tools and integrate the results.
+We compared the search results of OMA, OrthoDB, and Ensembl Plants using ortholog pairs between Arabidopsis and soybean and performed a detailed analysis of five genes.
+We observed substantial differences in the results among the tools. OMA and OrthoDB have the functionality of controlling the taxonomic range for orthology detection, and changing the range affected the search results. The number of detected ortholog pairs increased in higher taxonomic ranges, but it was not always the case that higher taxonomic ranges identified all of the ortholog pairs identified in lower taxonomic ranges.
+By testing the five specific plant genes, although the number of ortholog pairs was highest in OrthoDB, followed by Ensembl Plants and OMA, OrthoDB did not always detect the most orthologs among the three tools.
+As we observed in the orthologs of AT5G36110 (CYP716A1), it is suggested that orthologs identified in multiple tools may be more reasonable. Hence, for precise ortholog detection, it is important to use multiple tools and integrate the results.
 
 
 # Future work
