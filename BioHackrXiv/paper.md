@@ -121,9 +121,9 @@ We retrieved pairs of orthologous genes (55,356 gene pairs) between Arabidopsis 
 
 We initially compared the impact of taxonomic range on orthology detection in OMA and OrthoDB (Figure 1). Since the smallest taxonomic group that includes both Arabidopsis and soybean is rosids (OMA) and eudicotyledons (OrthoDB), we evaluated these shared taxonomic groups as well as Embryophyta (land plants) and Viridiplantae (green plants). Our findings demonstrate that both tools identified more ortholog pairs with higher taxonomic group datasets. However, we did not observe a consistent incremental increase in ortholog detection. 
 
-![The number of ortholog pairs between Arabidopsis and soybean in different orthologous groups using OMA (left) and OrthoDB (right). The numbers in parentheses indicate the total ortholog pairs identified in each level of the tool.](./Fig1.png)
+![Number of ortholog pairs between Arabidopsis and soybean in different orthologous groups using OMA (left) and OrthoDB (right). The numbers in parentheses indicate the total ortholog pairs identified in each level of the tool.](./Fig1.png)
 
-![The number of ortholog pairs between Arabidopsis and soybean among three different tools. OMA and OrthoDB are analyzed at the level of green plants (left) or land plants (right). The numbers in parentheses indicate the total ortholog pairs identified at each level of the tool.](./Fig2.png)
+![Number of ortholog pairs between Arabidopsis and soybean among three different tools. OMA and OrthoDB are analyzed at the level of green plants (left) or land plants (right). The numbers in parentheses indicate the total ortholog pairs identified at each level of the tool.](./Fig2.png)
 
 We also compared the number of ortholog pairs between Arabidopsis and soybean among OMA, OrthoDB, and Ensembl plants (Figure 2). OMA and OrthoDB were analyzed at the level of green plants or land plants. The highest number of ortholog pairs was found in OrthoDB, followed by Ensembl Plants, which had almost half as many pairs as OrthoDB.
 
@@ -134,7 +134,7 @@ For the identified orthologs of AT2G07050 (CAS1) in soybean, GLYMA_01G001300 was
 The identified orthologs of AT4G14210 (PDS3) in soybean were identical among the tools and taxonomic levels (Table 3). GLYMA_18G003900 is a functionally characterized PDS in soybean [@bartley1991molecular], and GLYMA_18G003900 is annotated as its paralog in SoyBase (https://www.soybase.org).
 
 
-Table: Identified orthologs of AT2G07050 (CAS1) in soybean.
+Table: Identified orthologs of AT2G07050 (CAS1) in soybean
 
 | Locus tag | NCBI Gene ID | Gene symbol | OMA | ODB | EP |
 | --------- | ------------ | ----------- | :---: | :---: | :---: |
@@ -151,7 +151,7 @@ Table: Identified orthologs of AT2G07050 (CAS1) in soybean.
 | GLYMA_20G192700 | 100810400 | LOC100810400 | N,N | Y,Y | N |
 
 
-Table: Identified orthologs of AT4G14210 (PDS3) in soybean.
+Table: Identified orthologs of AT4G14210 (PDS3) in soybean
 
 | Locus tag | NCBI Gene ID | Gene symbol | OMA | ODB | EP |
 | --------- | ------------ | ----------- | :---: | :---: | :---: |
@@ -159,7 +159,7 @@ Table: Identified orthologs of AT4G14210 (PDS3) in soybean.
 | GLYMA_18G003900 | 547970 | PDS1 | Y,Y | Y,Y | Y |
 
 
-Table: Identified orthologs of AT1G56650 (PAP1) in soybean.
+Table: Identified orthologs of AT1G56650 (PAP1) in soybean
 
 | Locus tag | NCBI Gene ID | Gene symbol | OMA | ODB | EP |
 | --------- | ------------ | ----------- | :---: | :---: | :---: |
@@ -178,7 +178,7 @@ Table: Identified orthologs of AT1G56650 (PAP1) in soybean.
 | GLYMA_19G025000 | 100306270 | LOC100306270 | N,N | Y,Y | Y |
 
 
-Table: Identified orthologs of AT5G36110 (CYP716A1) in soybean.
+Table: Identified orthologs of AT5G36110 (CYP716A1) in soybean
 
 | Locus tag | NCBI Gene ID | Gene symbol | OMA | ODB | EP |
 | --------- | ------------ | ----------- | :---: | :---: | :---: |
@@ -191,7 +191,7 @@ Table: Identified orthologs of AT5G36110 (CYP716A1) in soybean.
 | GLYMA_08G243600 | 100815640 | LOC100815640 | Y,Y | Y,Y | N |
 
 
-Table: Identified orthologs of GLYMA_08G350800 (CYP93E1) in Arabidopsis.
+Table: Identified orthologs of GLYMA_08G350800 (CYP93E1) in Arabidopsis
 
 | Locus tag | NCBI Gene ID | Gene symbol | OMA | ODB | EP |
 | --------- | ------------ | ----------- | :---: | :---: | :---: |
