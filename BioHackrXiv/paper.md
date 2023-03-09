@@ -1,5 +1,5 @@
 ---
-title: 'Comparative Analysis of Orthology Finding Tools for Plant Genes'
+title: 'Comparative analysis of orthology finding tools for plant genes'
 tags:
   - Life Sciences
   - Genetics and Genomics
