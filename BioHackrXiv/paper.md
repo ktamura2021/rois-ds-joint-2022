@@ -123,7 +123,7 @@ We initially compared the impact of taxonomic range on orthology detection in OM
 
 ![The number of ortholog pairs between Arabidopsis and soybean in different orthologous groups using OMA (left) and OrthoDB (right). The numbers in parentheses indicate the total ortholog pairs identified in each level of the tool.](./Fig1.png)
 
-![Number of ortholog pairs (Arabidopsis–soybean) between three different tools. OMA and OrthoDB are analysed at green plants level (left) or land plants level (right). Numbers in the parentheses indicate total ortholog pairs identified in each level of the tool.](./Fig2.png)
+![The number of ortholog pairs between Arabidopsis and soybean among three different tools. OMA and OrthoDB are analyzed at the level of green plants (left) or land plants (right). The numbers in parentheses indicate the total ortholog pairs identified at each level of the tool.](./Fig2.png)
 
 We also compared the number of ortholog pairs (Arabidopsis–soybean) among OMA, OrthoDB, and Ensembl plants (Figure 2). OMA and OrthoDB were analyzed at the level of green plants or land plants. The highest number of ortholog pairs was found in OrthoDB, followed by Ensembl Plants, which had almost half as many pairs as OrthoDB.
 
