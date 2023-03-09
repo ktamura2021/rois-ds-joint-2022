@@ -35,7 +35,7 @@ biohackathon_location: "Kochi, Japan, 2022"
 
 Orthologous genes for five plant genes are obtained using several orthology finder tools and the results are compared with each other, to figure out the differences of those tools.
 
-Keywords: Arabidopsis, Orthologs, Soybean
+Keywords: Orthology Finding Tools, Orthologs, Plant genes, Arabidopsis, Soybean
 
 # Introduction
 
