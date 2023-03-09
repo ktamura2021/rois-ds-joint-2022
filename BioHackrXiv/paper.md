@@ -208,7 +208,7 @@ For AT5G36110 (CYP716A1), OMA identified seven orthologs, OrthoDB identified six
 By comparing the phylogenetic trees reported by [@guttikonda2010whole] and [@khatri2022comprehensive], along with UniRef50 (UniProt Reference Clusters) information, it is expected that GLYMA_05G220500, GLYMA_08G026900, and GLYMA_08G043600 are the three CYP716A genes, and GLYMA_05G166900, GLYMA_08G125000, and GLYMA_08G125100 are the three CYP716D genes. The locus tag for one CYP716G gene is unknown.
 OrthoDB (green plants) and Ensembl Plants identified all or most of the three CYP716A genes, while OMA and OrthoDB (land plants) identified all of the CYP716A genes as well as the CYP716D genes.
 
-Finally, for GLYMA_08G350800 (CYP93E1), only OrthoDB identified orthologs in soybean (Table 6). In Arabidopsis, a single CYP93 family gene (CYP93D1) is known, and the two CYP712A subfamily genes are relatively close relathionship to CYP93 [@bak2011cytochromes]. OrthoDB clustered these Arabidopsis P450s together, while OMA and Ensembl Plants did not.
+Finally, for GLYMA_08G350800 (CYP93E1), only OrthoDB identified orthologs in Arabidopsis (Table 6). In Arabidopsis, a single CYP93 family gene (CYP93D1) is known, and the two CYP712A subfamily genes are relatively close relathionship to CYP93 [@bak2011cytochromes]. OrthoDB clustered these Arabidopsis P450s together, while OMA and Ensembl Plants did not.
 
 
 # Discussion
