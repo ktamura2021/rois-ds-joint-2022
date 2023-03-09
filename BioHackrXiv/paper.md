@@ -200,7 +200,7 @@ Table: Identified orthologs of GLYMA_08G350800 (CYP93E1) in Arabidopsis
 | AT5G06905 | 830581 | CYP712A2 | N,N | Y,Y | N |
 
 
-The identified orthologs of AT1G56650 (PAP1) in soybean were different among the tools (Table 4). OMA did not identify any orthologs, while OrthoDB and Ensembl Plants identified 11 and seven orthologs, respectively. Since GLYMA_09G235000 and GLYMA_18G261700 were not included in OrthoDB v10.1, OrthoDB identified all of the orthologs identified in Ensembl Plants.
+The identified orthologs of AT1G56650 (PAP1) in soybean were different among the tools (Table 4). OMA did not identify any orthologs, while OrthoDB and Ensembl Plants identified 11 and seven orthologs, respectively.
 In a previous phylogenetic analysis of soybean MYB proteins, seven genes clustered together with PAP1 (AtMYB75), namely, GmMYB192 (GLYMA_07G141100), GmMYB227 (GLYMA_09G235100), GmMYB241 (GLYMA_09G235300), GmMYB155 (GLYMA_18G191200), GmMYB008 (GLYMA_18G261700), GmMYB080 (GLYMA_18G262000), and GmMYB096 (GLYMA_19G025000) [@du2012genome].
 OrthoDB identified all of these genes.
 
