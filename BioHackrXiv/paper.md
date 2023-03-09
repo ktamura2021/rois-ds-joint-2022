@@ -33,7 +33,9 @@ biohackathon_location: "Kochi, Japan, 2022"
 
 # Abstract
 
-Orthologous genes for five plant genes are obtained using several orthology finder tools and the results are compared with each other, to figure out the differences of those tools.
+Orthology finding tools are valuable resources to analyze biological data from multiple species, and to predict the functions of uncharacterized genes. Especially, recent development of high-throughput sequencing technologies make it easier to get sequencing information from non-model plant species, the importance of orthology finding tools for obtaining annotations is increasing. There are several resources for this purpose are available, however, the characteristics of the results obtained from such tools is not much compareted.
+At DBCLS domestic BioHackathon Kochi, Japan, 2022 (BH22.9, September 5–9, 2022), we examined the characteristics of three resources (OMA, OrthoDB, and Ensembl Plants) by extracting the ortholog pairs between Arabidopsis and soybean, and analyzed each result focusing on five plant genes with different degree of conservation.
+We noticed that the changing of taxnomic ranges in OMA and OrthoDB affects ortholog detection, and the range of ortholog detection in the three resources is not consistent with each gene, suggesting importance of comparison of multiple tools to get more reasonable information on orthologs.
 
 Keywords: Orthology Finding Tools, Orthologs, Plant genes, Arabidopsis, Soybean
 
