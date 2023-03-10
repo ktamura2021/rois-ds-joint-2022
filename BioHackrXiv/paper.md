@@ -102,14 +102,14 @@ PREFIX obo: <http://purl.obolibrary.org/obo/>
 
 SELECT DISTINCT ?entrez_id1 ?entrez_id2
 WHERE {
-  ?group orthodb:ogBuiltAt upTax:71240 . # eudicots
+  ?group orthodb:ogBuiltAt upTax:71240 . # eudicotyledons
   ?group orthodb:hasMember ?member1 , ?member2 .
   ?member1 rdfs:seeAlso ?member_entrez1 ;
       up:organism ?odb_organism1 .
   ?member2 rdfs:seeAlso ?member_entrez2 ;
       up:organism ?odb_organism2 .
-  ?odb_organism1 obo:RO_0002162 upTax:3702 . # Arabi
-  ?odb_organism2 obo:RO_0002162 upTax:3847 . # soy
+  ?odb_organism1 obo:RO_0002162 upTax:3702 . # Arabidopsis
+  ?odb_organism2 obo:RO_0002162 upTax:3847 . # soybean
   ?member_entrez1 a orthodb:Entrez ;
       rdfs:label ?entrez_id1 .
   ?member_entrez2 a orthodb:Entrez ;
