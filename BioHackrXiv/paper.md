@@ -23,7 +23,7 @@ affiliations:
    index: 2
 date: 01 January 2023
 bibliography: paper.bib
-authors_short: Keita Tamura & Hirokazu Chiba \emph{et al.}
+authors_short: Keita Tamura \emph{et al.}
 group: BioHackrXiv
 event: DBCLS domestic BioHackathon Kochi, Japan, 2022
 biohackathon_name: "BH22.9"
