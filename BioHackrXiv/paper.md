@@ -33,15 +33,16 @@ biohackathon_location: "Kochi, Japan, 2022"
 
 # Abstract
 
-Orthology finding tools are valuable resources to analyze biological data from multiple species, and to predict the functions of uncharacterized genes. Especially, recent development of high-throughput sequencing technologies make it easier to get sequencing information from non-model plant species, the importance of orthology finding tools for obtaining annotations is increasing. There are several resources for this purpose are available, however, the characteristics of the results obtained from such tools is not much compareted.
-At DBCLS domestic BioHackathon Kochi, Japan, 2022 (BH22.9, September 5–9, 2022), we examined the characteristics of three resources (OMA, OrthoDB, and Ensembl Plants) by extracting the ortholog pairs between Arabidopsis and soybean, and analyzed each result focusing on five plant genes with different degree of conservation.
-We noticed that the changing of taxnomic ranges in OMA and OrthoDB affects ortholog detection, and the range of ortholog detection in the three resources is not consistent with each gene, suggesting importance of comparison of multiple tools to get more reasonable information on orthologs.
+Orthology finding tools are valuable resources to analyze biological data from multiple species, and to predict the functions of uncharacterized genes. There are several tools for this purpose are available, however, the characteristics of the results obtained from such tools is not much compareted.
+Here in this hackathon, we examined the characteristics of three resources (OMA, OrthoDB, and Ensembl Plants) by extracting the ortholog pairs between Arabidopsis and soybean, and analyzed each result focusing on five plant genes with different degree of conservation.
+We noticed that the changing of taxnomic ranges in OMA and OrthoDB affects ortholog detection, and the range of ortholog detection in the three resources is not consistent with each other, suggesting importance of comparison of multiple tools to get more reasonable information on orthologs.
 
 Keywords: Orthology Finding Tools, Orthologs, Plant genes, Arabidopsis, Soybean
 
 # Introduction
 
 Ortholog information is a valuable resource in integrating biological data from multiple species [@Chiba2015].
+Especially, recent development of high-throughput sequencing technologies make it easier to get sequencing information from non-model plant species, the importance of orthology finding tools for obtaining annotations is increasing.
 Various orthology finding tools are available; however, they provide different results, making it important to examine these differences in plant research.
 Although a benchmarking tool, such as LEMOrtho (https://lemortho.ezlab.org/) [@orthodb], which uses standardized gene sets for the comparison of various orthology finding tools, is available, it is also essential to compare these tools by selecting specific genes of interest.
 In this study, we focused on five plant genes with different degrees of conservation, specifically in Arabidopsis (*Arabidopsis thaliana*) and soybean (*Glycine max*), to determine the differences in orthology finding tools.
@@ -71,7 +72,9 @@ Table: Gene list
 | 100037459 | GLYMA_08G350800 | CYP93E1 |
 
 ## Tools used for analysis
-We used OMA (https://omabrowser.org/) [@oma], OrthoDB (https://www.orthodb.org/) [@orthodb], Ortholog Database at PGDBj (http://pgdbj.jp/) [@asamizu2014plant], and Ensembl Plants (https://plants.ensembl.org/) [@yates2022ensembl] to retrieve orthology information. However, we did not analyze PGDBj in detail as it is not maintained since September 2016 and uses an outdated version of RefSeq (RefSeq Release 66, July 15, 2014).
+We used OMA (https://omabrowser.org/) [@oma], OrthoDB (https://www.orthodb.org/) [@orthodb], Ortholog Database at PGDBj (http://pgdbj.jp/) [@asamizu2014plant], and Ensembl Plants (https://plants.ensembl.org/) [@yates2022ensembl] to retrieve orthology information.
+We accecced these tools during BH22.9 (September 5–9, 2022).
+However, we did not analyze PGDBj in detail as it is not maintained since September 2016 and uses an outdated version of RefSeq (RefSeq Release 66, July 15, 2014).
 
 ### OMA
 We used the following query to retrieve orthologs from OMA. We used several taxonomic ranges, including Viridiplantae (green plants, taxonomy ID 33090), Embryophyta (land plants, taxonomy ID 3193), and rosids (taxonomy ID 71275).
