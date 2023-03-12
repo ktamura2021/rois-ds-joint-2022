@@ -86,8 +86,8 @@ WHERE {
   ?group oo:hasTaxonomicRange upTax:33090 . # Viridiplantae
   ?member1 a oo:Protein .
   ?member2 a oo:Protein .
-  ?member1 oo:organism <https://omabrowser.org/oma/genome/3702> .
-  ?member2 oo:organism <https://omabrowser.org/oma/genome/3847> .
+  ?member1 oo:organism <https://omabrowser.org/oma/genome/3702> . # Arabidopsis
+  ?member2 oo:organism <https://omabrowser.org/oma/genome/3847> . # soybean
 }
 ```
 
@@ -102,7 +102,7 @@ PREFIX obo: <http://purl.obolibrary.org/obo/>
 
 SELECT DISTINCT ?entrez_id1 ?entrez_id2
 WHERE {
-  ?group orthodb:ogBuiltAt upTax:71240 . # eudicotyledons
+  ?group orthodb:ogBuiltAt upTax:33090 . # Viridiplantae
   ?group orthodb:hasMember ?member1 , ?member2 .
   ?member1 rdfs:seeAlso ?member_entrez1 ;
       up:organism ?odb_organism1 .
