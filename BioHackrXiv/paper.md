@@ -229,7 +229,7 @@ The orthology relations will be utilized within RefEx ([https://refex.dbcls.jp/]
 https://github.com/hchiba1/rois-ds-joint-tamura
 
 # Acknowledgements
-We thank the organizes and participants of BH22.9 (domestic biohackathon in Japan) for giving us the chance to discuss on this issue.
+We thank the organizers and participants of BH22.9 (domestic biohackathon in Japan) for giving us the chance to discuss on this issue.
 This work was supported by ROIS-DS-JOINT (003RP2022) to K.Tamura.
 
 # References
