@@ -42,7 +42,7 @@ Keywords: orthology finding tools, orthologs, plant genes, Arabidopsis, soybean
 Ortholog information is a valuable resource in integrating biological data from multiple species [@Chiba2015].
 Especially with recent developments in high-throughput sequencing technologies that make it easier to obtain sequencing information from non-model plant species, the importance of orthology finding tools for obtaining annotations is increasing.
 Various orthology finding tools are available; however, they provide different results, making it important to examine these differences in plant research.
-Although a benchmarking tool, such as LEMOrtho (https://lemortho.ezlab.org/) [@orthodb], which uses standardized gene sets for the comparison of various orthology finding tools, is available, it is also essential to compare these tools by selecting specific genes of interest.
+Although benchmarking tools, such as Orthology Benchmark Service(https://orthology.benchmarkservice.org/) [@qfo] and LEMOrtho (https://lemortho.ezlab.org/) [@orthodb] are available based on standardized datasets, it is also essential to compare these tools by selecting specific genes of interest.
 In this study, we focused on five plant genes with different degrees of conservation, specifically in Arabidopsis (*Arabidopsis thaliana*) and soybean (*Glycine max*), to determine the differences in orthology finding tools.
 
 # Hackathon results
