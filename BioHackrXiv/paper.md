@@ -33,7 +33,7 @@ biohackathon_location: "Kochi, Japan, 2022"
 
 # Abstract
 
-Orthology finding tools are valuable resources for analyzing biological data from multiple species and predicting the functions of uncharacterized genes. Although several tools are available for this purpose, the characteristics of their results are not well compared. In this hackathon, we examined three tools (OMA, OrthoDB, and Ensembl Plants) by extracting ortholog pairs between Arabidopsis and soybean and analyzing each result, focusing on five plant genes with varying degrees of conservation. We observed that changes in the taxonomic ranges of OMA and OrthoDB affected ortholog detection, and the range of ortholog detection across the three tools was inconsistent, suggesting the importance of comparing multiple tools to obtain more accurate information on orthologs.
+Orthology finding tools are valuable for analyzing biological data from multiple species and predicting the functions of uncharacterized genes. Although several tools are available for this purpose, the characteristics of their results for plant genes are not well compared. In this hackathon, we examined three tools (OMA, OrthoDB, and Ensembl Plants) by extracting ortholog pairs between Arabidopsis and soybean and analyzing each result, focusing on five plant genes with varying degrees of conservation. We observed that changes in the taxonomic ranges of OMA and OrthoDB affected ortholog detection, and the range of ortholog detection across the three tools was inconsistent, suggesting the importance of comparing multiple tools to obtain more accurate information on orthologs.
 
 Keywords: orthology finding tools, orthologs, plant genes, Arabidopsis, soybean
 
