@@ -1,0 +1,171 @@
+Run,BioSample,Ecotype,Organism,Sample Name,Tissue,dev_stage,Age,Treatment
+SRR3581740,SAMN05170708,Col-0 (CS70000),Arabidopsis thaliana,Seedling Hypocotyl (S.H),Hypocotyl,NA,1 day,NA
+SRR3581336,SAMN05170708,Col-0 (CS70000),Arabidopsis thaliana,Seedling Hypocotyl (S.H),Hypocotyl,NA,1 day,NA
+SRR3581831,SAMN05170709,Col-0 (CS70000),Arabidopsis thaliana,Seedling Meristem (S.M),Shoot apical meristem,NA,1 day,NA
+SRR3581346,SAMN05170709,Col-0 (CS70000),Arabidopsis thaliana,Seedling Meristem (S.M),Shoot apical meristem,NA,1 day,NA
+SRR3581833,SAMN05170710,Col-0 (CS70000),Arabidopsis thaliana,Seedling Cotyledons (S.C),Cotyledon,NA,1 day,NA
+SRR3581345,SAMN05170710,Col-0 (CS70000),Arabidopsis thaliana,Seedling Cotyledons (S.C),Cotyledon,NA,1 day,NA
+SRR3581834,SAMN05170711,Col-0 (CS70000),Arabidopsis thaliana,Seedling Root (S.R),Root,NA,1 day,NA
+SRR3581347,SAMN05170711,Col-0 (CS70000),Arabidopsis thaliana,Seedling Root (S.R),Root,NA,1 day,NA
+SRR3581835,SAMN05170712,Col-0 (CS70000),Arabidopsis thaliana,Root Apex (R.A),Root Apex,NA,7 day,NA
+SRR3581352,SAMN05170712,Col-0 (CS70000),Arabidopsis thaliana,Root Apex (R.A),Root Apex,NA,7 day,NA
+SRR3581836,SAMN05170713,Col-0 (CS70000),Arabidopsis thaliana,Root (R ),Root,NA,7 day,NA
+SRR3581356,SAMN05170713,Col-0 (CS70000),Arabidopsis thaliana,Root (R ),Root,NA,7 day,NA
+SRR3581837,SAMN05170714,Col-0 (CS70000),Arabidopsis thaliana,Leaf Petiole of the young leaf (L.PET.y),Leaf petiole,NA,7 day,NA
+SRR3581383,SAMN05170714,Col-0 (CS70000),Arabidopsis thaliana,Leaf Petiole of the young leaf (L.PET.y),Leaf petiole,NA,7 day,NA
+SRR3581838,SAMN05170715,Col-0 (CS70000),Arabidopsis thaliana,Leaf Lamina of the young leaf (L.LAM.y),Leaf blade,NA,7 day,NA
+SRR3581388,SAMN05170715,Col-0 (CS70000),Arabidopsis thaliana,Leaf Lamina of the young leaf (L.LAM.y),Leaf blade,NA,7 day,NA
+SRR3581839,SAMN05170716,Col-0 (CS70000),Arabidopsis thaliana,"Leaf Petiole, intermediate 1 (L.PET.i1)",Leaf petiole,NA,9 day,NA
+SRR3581499,SAMN05170716,Col-0 (CS70000),Arabidopsis thaliana,"Leaf Petiole, intermediate 1 (L.PET.i1)",Leaf petiole,NA,9 day,NA
+SRR3581840,SAMN05170717,Col-0 (CS70000),Arabidopsis thaliana,"Leaf Lamina, intermediate 1 (L.LAM.i1)",Leaf blade,NA,9 day,NA
+SRR3581591,SAMN05170717,Col-0 (CS70000),Arabidopsis thaliana,"Leaf Lamina, intermediate 1 (L.LAM.i1)",Leaf blade,NA,9 day,NA
+SRR3581841,SAMN05170718,Col-0 (CS70000),Arabidopsis thaliana,"Leaf Petiole, intermediate 2 (L.PET.i2)",Leaf petiole,NA,12 day,NA
+SRR3581639,SAMN05170718,Col-0 (CS70000),Arabidopsis thaliana,"Leaf Petiole, intermediate 2 (L.PET.i2)",Leaf petiole,NA,12 day,NA
+SRR3581842,SAMN05170719,Col-0 (CS70000),Arabidopsis thaliana,"Leaf Vein, intermediate 2 (L.VN.i2)",Leaf midrib,NA,12 day,NA
+SRR3581672,SAMN05170719,Col-0 (CS70000),Arabidopsis thaliana,"Leaf Vein, intermediate 2 (L.VN.i2)",Leaf midrib,NA,12 day,NA
+SRR3581843,SAMN05170720,Col-0 (CS70000),Arabidopsis thaliana,"Leaf Lamina, intermediate 2 (L.LAM.i2)",Leaf blade,NA,12 day,NA
+SRR3581676,SAMN05170720,Col-0 (CS70000),Arabidopsis thaliana,"Leaf Lamina, intermediate 2 (L.LAM.i2)",Leaf blade,NA,12 day,NA
+SRR3581844,SAMN05170721,Col-0 (CS70000),Arabidopsis thaliana,Leaf Petiole of the mature leaf (L.PET.lg),Leaf petiole,anthesis of the first flower,NA,NA
+SRR3581678,SAMN05170721,Col-0 (CS70000),Arabidopsis thaliana,Leaf Petiole of the mature leaf (L.PET.lg),Leaf petiole,anthesis of the first flower,NA,NA
+SRR3581845,SAMN05170722,Col-0 (CS70000),Arabidopsis thaliana,Leaf Vein of the mature leaf (L.VN.lg),Leaf midrib,anthesis of the first flower,NA,NA
+SRR3581679,SAMN05170722,Col-0 (CS70000),Arabidopsis thaliana,Leaf Vein of the mature leaf (L.VN.lg),Leaf midrib,anthesis of the first flower,NA,NA
+SRR3581846,SAMN05170723,Col-0 (CS70000),Arabidopsis thaliana,Leaf Lamina of the mature leaf (L.LAM.lg),Leaf blade,anthesis of the first flower,NA,NA
+SRR3581680,SAMN05170723,Col-0 (CS70000),Arabidopsis thaliana,Leaf Lamina of the mature leaf (L.LAM.lg),Leaf blade,anthesis of the first flower,NA,NA
+SRR3581847,SAMN05170724,Col-0 (CS70000),Arabidopsis thaliana,"Leaf, mature (L.lg)",Leaf,anthesis of the first flower,NA,NA
+SRR3581681,SAMN05170724,Col-0 (CS70000),Arabidopsis thaliana,"Leaf, mature (L.lg)",Leaf,anthesis of the first flower,NA,NA
+SRR3581848,SAMN05170725,Col-0 (CS70000),Arabidopsis thaliana,Leaf Petiole of the senescent leaf (L.PET.sn),Leaf petiole,first silique was yellow and ready to open,NA,NA
+SRR3581682,SAMN05170725,Col-0 (CS70000),Arabidopsis thaliana,Leaf Petiole of the senescent leaf (L.PET.sn),Leaf petiole,first silique was yellow and ready to open,NA,NA
+SRR3581849,SAMN05170726,Col-0 (CS70000),Arabidopsis thaliana,Leaf Vein of the senescent leaf (L.VN.sn),Leaf midrib,first silique was yellow and ready to open,NA,NA
+SRR3581683,SAMN05170726,Col-0 (CS70000),Arabidopsis thaliana,Leaf Vein of the senescent leaf (L.VN.sn),Leaf midrib,first silique was yellow and ready to open,NA,NA
+SRR3581850,SAMN05170727,Col-0 (CS70000),Arabidopsis thaliana,Opened Anthers (F.AN),Opened Anther,anthesis of the first flower,NA,NA
+SRR3581684,SAMN05170727,Col-0 (CS70000),Arabidopsis thaliana,Opened Anthers (F.AN),Opened Anther,anthesis of the first flower,NA,NA
+SRR3581851,SAMN05170728,Col-0 (CS70000),Arabidopsis thaliana,Carpels of the mature flower (F.CA.ad),Carpel,anthesis of the first flower,NA,NA
+SRR3581685,SAMN05170728,Col-0 (CS70000),Arabidopsis thaliana,Carpels of the mature flower (F.CA.ad),Carpel,anthesis of the first flower,NA,NA
+SRR3581852,SAMN05170729,Col-0 (CS70000),Arabidopsis thaliana,Anthers of the mature flower (F.AN.ad),Anther before opening,anthesis of the first flower,NA,NA
+SRR3581686,SAMN05170729,Col-0 (CS70000),Arabidopsis thaliana,Anthers of the mature flower (F.AN.ad),Anther before opening,anthesis of the first flower,NA,NA
+SRR3581853,SAMN05170730,Col-0 (CS70000),Arabidopsis thaliana,Stamen filaments of the mature flower (F.FM.ad),Stamen filament,anthesis of the first flower,NA,NA
+SRR3581687,SAMN05170730,Col-0 (CS70000),Arabidopsis thaliana,Stamen filaments of the mature flower (F.FM.ad),Stamen filament,anthesis of the first flower,NA,NA
+SRR3581854,SAMN05170731,Col-0 (CS70000),Arabidopsis thaliana,Petals of the mature flower (F.PT.ad),Petal,anthesis of the first flower,NA,NA
+SRR3581688,SAMN05170731,Col-0 (CS70000),Arabidopsis thaliana,Petals of the mature flower (F.PT.ad),Petal,anthesis of the first flower,NA,NA
+SRR3581855,SAMN05170732,Col-0 (CS70000),Arabidopsis thaliana,Sepals of the mature flower (F.SP.ad),Sepal,anthesis of the first flower,NA,NA
+SRR3581689,SAMN05170732,Col-0 (CS70000),Arabidopsis thaliana,Sepals of the mature flower (F.SP.ad),Sepal,anthesis of the first flower,NA,NA
+SRR3581856,SAMN05170733,Col-0 (CS70000),Arabidopsis thaliana,Carpels of the young flower (F.CA.y),Young carpel,stage 9,NA,NA
+SRR3581690,SAMN05170733,Col-0 (CS70000),Arabidopsis thaliana,Carpels of the young flower (F.CA.y),Young carpel,stage 9,NA,NA
+SRR3581857,SAMN05170734,Col-0 (CS70000),Arabidopsis thaliana,Anthers of the young flower (F.AN.y),Young anther,stage 9,NA,NA
+SRR3581691,SAMN05170734,Col-0 (CS70000),Arabidopsis thaliana,Anthers of the young flower (F.AN.y),Young anther,stage 9,NA,NA
+SRR3581858,SAMN05170735,Col-0 (CS70000),Arabidopsis thaliana,Sepals of the young flower (F.SP.y),Young sepal,stage 9,NA,NA
+SRR3581692,SAMN05170735,Col-0 (CS70000),Arabidopsis thaliana,Sepals of the young flower (F.SP.y),Young sepal,stage 9,NA,NA
+SRR3581859,SAMN05170736,Col-0 (CS70000),Arabidopsis thaliana,Flower 1 (F1),Flower 1,anthesis of the first flower,NA,NA
+SRR3581693,SAMN05170736,Col-0 (CS70000),Arabidopsis thaliana,Flower 1 (F1),Flower 1,anthesis of the first flower,NA,NA
+SRR3581860,SAMN05170737,Col-0 (CS70000),Arabidopsis thaliana,Flower 2 (F2),Flower 2,anthesis of the first flower,NA,NA
+SRR3581694,SAMN05170737,Col-0 (CS70000),Arabidopsis thaliana,Flower 2 (F2),Flower 2,anthesis of the first flower,NA,NA
+SRR3581861,SAMN05170738,Col-0 (CS70000),Arabidopsis thaliana,Flower 3 (F3),Flower 3,anthesis of the first flower,NA,NA
+SRR3581695,SAMN05170738,Col-0 (CS70000),Arabidopsis thaliana,Flower 3 (F3),Flower 3,anthesis of the first flower,NA,NA
+SRR3581862,SAMN05170739,Col-0 (CS70000),Arabidopsis thaliana,Flower 4 (F4),Flower 4,anthesis of the first flower,NA,NA
+SRR3581696,SAMN05170739,Col-0 (CS70000),Arabidopsis thaliana,Flower 4 (F4),Flower 4,anthesis of the first flower,NA,NA
+SRR3581697,SAMN05170740,Col-0 (CS70000),Arabidopsis thaliana,Flower 5 (F5),Flower 5,anthesis of the first flower,NA,NA
+SRR3581863,SAMN05170740,Col-0 (CS70000),Arabidopsis thaliana,Flower 5 (F5),Flower 5,anthesis of the first flower,NA,NA
+SRR3581698,SAMN05170741,Col-0 (CS70000),Arabidopsis thaliana,Flowers 6-8 (F6-8),Flower 6-8,anthesis of the first flower,NA,NA
+SRR3581864,SAMN05170741,Col-0 (CS70000),Arabidopsis thaliana,Flowers 6-8 (F6-8),Flower 6-8,anthesis of the first flower,NA,NA
+SRR3581699,SAMN05170742,Col-0 (CS70000),Arabidopsis thaliana,Flowers 9-11 (F9-11),Flower 9-11,anthesis of the first flower,NA,NA
+SRR3581865,SAMN05170742,Col-0 (CS70000),Arabidopsis thaliana,Flowers 9-11 (F9-11),Flower 9-11,anthesis of the first flower,NA,NA
+SRR3581700,SAMN05170743,Col-0 (CS70000),Arabidopsis thaliana,Flowers 12-14 (F12-14),Flower 12-14,anthesis of the first flower,NA,NA
+SRR3581866,SAMN05170743,Col-0 (CS70000),Arabidopsis thaliana,Flowers 12-14 (F12-14),Flower 12-14,anthesis of the first flower,NA,NA
+SRR3581701,SAMN05170744,Col-0 (CS70000),Arabidopsis thaliana,Flowers 15-18 (F15-18),Flower 15-18,anthesis of the first flower,NA,NA
+SRR3581867,SAMN05170744,Col-0 (CS70000),Arabidopsis thaliana,Flowers 15-18 (F15-18),Flower 15-18,anthesis of the first flower,NA,NA
+SRR3581702,SAMN05170745,Col-0 (CS70000),Arabidopsis thaliana,Flowers 19 and following (F19+),Inflorescence,anthesis of the first flower,NA,NA
+SRR3581868,SAMN05170745,Col-0 (CS70000),Arabidopsis thaliana,Flowers 19 and following (F19+),Inflorescence,anthesis of the first flower,NA,NA
+SRR3581703,SAMN05170746,Col-0 (CS70000),Arabidopsis thaliana,Pedicel (PED),Pedicel,anthesis of the first flower,NA,NA
+SRR3581869,SAMN05170746,Col-0 (CS70000),Arabidopsis thaliana,Pedicel (PED),Pedicel,anthesis of the first flower,NA,NA
+SRR3581704,SAMN05170747,Col-0 (CS70000),Arabidopsis thaliana,Axis of the inflorescence (AX),Inflorescence axis,anthesis of the first flower,NA,NA
+SRR3581870,SAMN05170747,Col-0 (CS70000),Arabidopsis thaliana,Axis of the inflorescence (AX),Inflorescence axis,anthesis of the first flower,NA,NA
+SRR3581705,SAMN05170748,Col-0 (CS70000),Arabidopsis thaliana,Internode (IN),Internode,anthesis of the first flower,NA,NA
+SRR3581871,SAMN05170748,Col-0 (CS70000),Arabidopsis thaliana,Internode (IN),Internode,anthesis of the first flower,NA,NA
+SRR3581706,SAMN05170749,Col-0 (CS70000),Arabidopsis thaliana,Seeds 1 (SD1),Seed 1,first silique is 1-1.5 cm long (abscission of the 8th flower),NA,NA
+SRR3581872,SAMN05170749,Col-0 (CS70000),Arabidopsis thaliana,Seeds 1 (SD1),Seed 1,first silique is 1-1.5 cm long (abscission of the 8th flower),NA,NA
+SRR3581707,SAMN05170750,Col-0 (CS70000),Arabidopsis thaliana,Pod of the silique 1 (POD1),Pod 1,first silique is 1-1.5 cm long (abscission of the 8th flower),NA,NA
+SRR3581873,SAMN05170750,Col-0 (CS70000),Arabidopsis thaliana,Pod of the silique 1 (POD1),Pod 1,first silique is 1-1.5 cm long (abscission of the 8th flower),NA,NA
+SRR3581708,SAMN05170751,Col-0 (CS70000),Arabidopsis thaliana,Silique 2 (SL2),Silique 2,first silique is 1-1.5 cm long (abscission of the 8th flower),NA,NA
+SRR3581874,SAMN05170751,Col-0 (CS70000),Arabidopsis thaliana,Silique 2 (SL2),Silique 2,first silique is 1-1.5 cm long (abscission of the 8th flower),NA,NA
+SRR3581709,SAMN05170752,Col-0 (CS70000),Arabidopsis thaliana,Seeds 3 (SD3),Seed 3,first silique is 1-1.5 cm long (abscission of the 8th flower),NA,NA
+SRR3581875,SAMN05170752,Col-0 (CS70000),Arabidopsis thaliana,Seeds 3 (SD3),Seed 3,first silique is 1-1.5 cm long (abscission of the 8th flower),NA,NA
+SRR3581710,SAMN05170753,Col-0 (CS70000),Arabidopsis thaliana,Pod of the silique 3 (POD3),Pod 3,first silique is 1-1.5 cm long (abscission of the 8th flower),NA,NA
+SRR3581876,SAMN05170753,Col-0 (CS70000),Arabidopsis thaliana,Pod of the silique 3 (POD3),Pod 3,first silique is 1-1.5 cm long (abscission of the 8th flower),NA,NA
+SRR3581711,SAMN05170754,Col-0 (CS70000),Arabidopsis thaliana,Silique 4 (SL4),Silique 4,first silique is 1-1.5 cm long (abscission of the 8th flower),NA,NA
+SRR3581877,SAMN05170754,Col-0 (CS70000),Arabidopsis thaliana,Silique 4 (SL4),Silique 4,first silique is 1-1.5 cm long (abscission of the 8th flower),NA,NA
+SRR3581712,SAMN05170755,Col-0 (CS70000),Arabidopsis thaliana,Seeds 5 (SD5),Seed 5,first silique is 1-1.5 cm long (abscission of the 8th flower),NA,NA
+SRR3581878,SAMN05170755,Col-0 (CS70000),Arabidopsis thaliana,Seeds 5 (SD5),Seed 5,first silique is 1-1.5 cm long (abscission of the 8th flower),NA,NA
+SRR3581713,SAMN05170756,Col-0 (CS70000),Arabidopsis thaliana,Pod of the silique 5 (POD5),Pod 5,first silique is 1-1.5 cm long (abscission of the 8th flower),NA,NA
+SRR3581879,SAMN05170756,Col-0 (CS70000),Arabidopsis thaliana,Pod of the silique 5 (POD5),Pod 5,first silique is 1-1.5 cm long (abscission of the 8th flower),NA,NA
+SRR3581714,SAMN05170757,Col-0 (CS70000),Arabidopsis thaliana,Silique 6 (SL6),Silique 6,first silique is 1-1.5 cm long (abscission of the 8th flower),NA,NA
+SRR3581880,SAMN05170757,Col-0 (CS70000),Arabidopsis thaliana,Silique 6 (SL6),Silique 6,first silique is 1-1.5 cm long (abscission of the 8th flower),NA,NA
+SRR3581715,SAMN05170758,Col-0 (CS70000),Arabidopsis thaliana,Seeds 7 (SD7),Seed 7,first silique is 1-1.5 cm long (abscission of the 8th flower),NA,NA
+SRR3581881,SAMN05170758,Col-0 (CS70000),Arabidopsis thaliana,Seeds 7 (SD7),Seed 7,first silique is 1-1.5 cm long (abscission of the 8th flower),NA,NA
+SRR3581716,SAMN05170759,Col-0 (CS70000),Arabidopsis thaliana,Pod of the silique 7 (POD7),Pod 7,first silique is 1-1.5 cm long (abscission of the 8th flower),NA,NA
+SRR3581882,SAMN05170759,Col-0 (CS70000),Arabidopsis thaliana,Pod of the silique 7 (POD7),Pod 7,first silique is 1-1.5 cm long (abscission of the 8th flower),NA,NA
+SRR3581717,SAMN05170760,Col-0 (CS70000),Arabidopsis thaliana,Silique 8 (SL8),Silique 8,first silique is 1-1.5 cm long (abscission of the 8th flower),NA,NA
+SRR3581883,SAMN05170760,Col-0 (CS70000),Arabidopsis thaliana,Silique 8 (SL8),Silique 8,first silique is 1-1.5 cm long (abscission of the 8th flower),NA,NA
+SRR3581719,SAMN05170761,Col-0 (CS70000),Arabidopsis thaliana,Young seeds 1 (SD.y1),Seed from silique 1,abscission of the first flower,NA,NA
+SRR3581884,SAMN05170761,Col-0 (CS70000),Arabidopsis thaliana,Young seeds 1 (SD.y1),Seed from silique 1,abscission of the first flower,NA,NA
+SRR3581720,SAMN05170762,Col-0 (CS70000),Arabidopsis thaliana,Young seeds 2 (SD.y2),Seed from silique 2,abscission of the first flower,NA,NA
+SRR3581885,SAMN05170762,Col-0 (CS70000),Arabidopsis thaliana,Young seeds 2 (SD.y2),Seed from silique 2,abscission of the first flower,NA,NA
+SRR3581721,SAMN05170763,Col-0 (CS70000),Arabidopsis thaliana,Young seeds 3 (SD.y3),Seed from silique 3,abscission of the first flower,NA,NA
+SRR3581886,SAMN05170763,Col-0 (CS70000),Arabidopsis thaliana,Young seeds 3 (SD.y3),Seed from silique 3,abscission of the first flower,NA,NA
+SRR3581724,SAMN05170764,Col-0 (CS70000),Arabidopsis thaliana,Young seeds 4 (SD.y4),Seed from silique 4,abscission of the first flower,NA,NA
+SRR3581887,SAMN05170764,Col-0 (CS70000),Arabidopsis thaliana,Young seeds 4 (SD.y4),Seed from silique 4,abscission of the first flower,NA,NA
+SRR3581726,SAMN05170765,Col-0 (CS70000),Arabidopsis thaliana,Young seeds 5 (SD.y5),Seed from silique 5,abscission of the first flower,NA,NA
+SRR3581888,SAMN05170765,Col-0 (CS70000),Arabidopsis thaliana,Young seeds 5 (SD.y5),Seed from silique 5,abscission of the first flower,NA,NA
+SRR3581727,SAMN05170766,Col-0 (CS70000),Arabidopsis thaliana,Ovules from 6th and 7th flowers (OV.y6-7),Ovule,abscission of the first flower,NA,NA
+SRR3581889,SAMN05170766,Col-0 (CS70000),Arabidopsis thaliana,Ovules from 6th and 7th flowers (OV.y6-7),Ovule,abscission of the first flower,NA,NA
+SRR3581728,SAMN05170767,Col-0 (CS70000),Arabidopsis thaliana,Stigmatic tissue (STI),Stigma,abscission of the first flower,NA,NA
+SRR3581890,SAMN05170767,Col-0 (CS70000),Arabidopsis thaliana,Stigmatic tissue (STI),Stigma,abscission of the first flower,NA,NA
+SRR3581730,SAMN05170768,Col-0 (CS70000),Arabidopsis thaliana,Carpel of 6th and 7th flowers (POD.y6-7),Carpel,abscission of the first flower,NA,NA
+SRR3581891,SAMN05170768,Col-0 (CS70000),Arabidopsis thaliana,Carpel of 6th and 7th flowers (POD.y6-7),Carpel,abscission of the first flower,NA,NA
+SRR3581731,SAMN05170769,Col-0 (CS70000),Arabidopsis thaliana,Dry Seeds (SD.d),Seed,Dry seeds,NA,NA
+SRR3581892,SAMN05170769,Col-0 (CS70000),Arabidopsis thaliana,Dry Seeds (SD.d),Seed,Dry seeds,NA,NA
+SRR3581732,SAMN05170770,Col-0 (CS70000),Arabidopsis thaliana,Germinating seeds 1 (SD.g1),Seed,NA,1 day after soaking,NA
+SRR3581893,SAMN05170770,Col-0 (CS70000),Arabidopsis thaliana,Germinating seeds 1 (SD.g1),Seed,NA,1 day after soaking,NA
+SRR3581733,SAMN05170771,Col-0 (CS70000),Arabidopsis thaliana,Germinating seeds 2 (SD.g2),Seed,NA,2 day after soaking,NA
+SRR3581894,SAMN05170771,Col-0 (CS70000),Arabidopsis thaliana,Germinating seeds 2 (SD.g2),Seed,NA,2 day after soaking,NA
+SRR3581734,SAMN05170772,Col-0 (CS70000),Arabidopsis thaliana,Germinating seeds 3 (SD.g3),Seed,NA,3 day after soaking,NA
+SRR3581895,SAMN05170772,Col-0 (CS70000),Arabidopsis thaliana,Germinating seeds 3 (SD.g3),Seed,NA,3 day after soaking,NA
+SRR3581735,SAMN05170773,Col-0 (CS70000),Arabidopsis thaliana,Seeds from the senescent silique 1 (SD.sn1),Seed,first silique was yellow and ready to open,NA,NA
+SRR3581896,SAMN05170773,Col-0 (CS70000),Arabidopsis thaliana,Seeds from the senescent silique 1 (SD.sn1),Seed,first silique was yellow and ready to open,NA,NA
+SRR3581736,SAMN05170774,Col-0 (CS70000),Arabidopsis thaliana,Pod of the senescent silique 1 (POD.sn1),Pod,first silique was yellow and ready to open,NA,NA
+SRR3581897,SAMN05170774,Col-0 (CS70000),Arabidopsis thaliana,Pod of the senescent silique 1 (POD.sn1),Pod,first silique was yellow and ready to open,NA,NA
+SRR3581737,SAMN05170775,Col-0 (CS70000),Arabidopsis thaliana,Senescent silique 2 (SL.sn2),Silique,first silique was yellow and ready to open,NA,NA
+SRR3581898,SAMN05170775,Col-0 (CS70000),Arabidopsis thaliana,Senescent silique 2 (SL.sn2),Silique,first silique was yellow and ready to open,NA,NA
+SRR3581738,SAMN05170776,Col-0 (CS70000),Arabidopsis thaliana,Senescent internode (IN.sn),Internode,first silique was yellow and ready to open,NA,NA
+SRR3581899,SAMN05170776,Col-0 (CS70000),Arabidopsis thaliana,Senescent internode (IN.sn),Internode,first silique was yellow and ready to open,NA,NA
+SRR3724649,SAMN05300263,Col-0 (CS70000),Arabidopsis thaliana,Cold 1 hour,Leaf Cold 1 hour,NA,21 day,cold
+SRR3724650,SAMN05300263,Col-0 (CS70000),Arabidopsis thaliana,Cold 1 hour,Leaf Cold 1 hour,NA,21 day,cold
+SRR3724651,SAMN05300264,Col-0 (CS70000),Arabidopsis thaliana,Cold 3 hours,Leaf Cold 3 hours,NA,21 day,cold
+SRR3724652,SAMN05300264,Col-0 (CS70000),Arabidopsis thaliana,Cold 3 hours,Leaf Cold 3 hours,NA,21 day,cold
+SRR3724663,SAMN05300265,Col-0 (CS70000),Arabidopsis thaliana,Cold 6 hours,Leaf Cold 6 hours,NA,21 day,cold
+SRR3724668,SAMN05300265,Col-0 (CS70000),Arabidopsis thaliana,Cold 6 hours,Leaf Cold 6 hours,NA,21 day,cold
+SRR3724737,SAMN05300266,Col-0 (CS70000),Arabidopsis thaliana,Cold 12 hours,Leaf Cold 12 hours,NA,21 day,cold
+SRR3724738,SAMN05300266,Col-0 (CS70000),Arabidopsis thaliana,Cold 12 hours,Leaf Cold 12 hours,NA,21 day,cold
+SRR3724739,SAMN05300267,Col-0 (CS70000),Arabidopsis thaliana,Cold 24 hours,Leaf Cold 24 hours,NA,21 day,cold
+SRR3724741,SAMN05300267,Col-0 (CS70000),Arabidopsis thaliana,Cold 24 hours,Leaf Cold 24 hours,NA,21 day,cold
+SRR3724768,SAMN05300268,Col-0 (CS70000),Arabidopsis thaliana,Heat 1 hour,Leaf Heat 1 hour,NA,21 day,heat
+SRR3724774,SAMN05300268,Col-0 (CS70000),Arabidopsis thaliana,Heat 1 hour,Leaf Heat 1 hour,NA,21 day,heat
+SRR3724778,SAMN05300269,Col-0 (CS70000),Arabidopsis thaliana,Heat 3 hours,Leaf Heat 3 hours,NA,21 day,heat
+SRR3724782,SAMN05300269,Col-0 (CS70000),Arabidopsis thaliana,Heat 3 hours,Leaf Heat 3 hours,NA,21 day,heat
+SRR3724785,SAMN05300270,Col-0 (CS70000),Arabidopsis thaliana,Heat 6 hours,Leaf Heat 6 hours,NA,21 day,heat
+SRR3724786,SAMN05300270,Col-0 (CS70000),Arabidopsis thaliana,Heat 6 hours,Leaf Heat 6 hours,NA,21 day,heat
+SRR3724787,SAMN05300271,Col-0 (CS70000),Arabidopsis thaliana,Heat 12 hours,Leaf Heat 12 hours,NA,21 day,heat
+SRR3724798,SAMN05300271,Col-0 (CS70000),Arabidopsis thaliana,Heat 12 hours,Leaf Heat 12 hours,NA,21 day,heat
+SRR3724806,SAMN05300272,Col-0 (CS70000),Arabidopsis thaliana,Heat 24 hours,Leaf Heat 24 hours,NA,21 day,heat
+SRR3724814,SAMN05300272,Col-0 (CS70000),Arabidopsis thaliana,Heat 24 hours,Leaf Heat 24 hours,NA,21 day,heat
+SRR3725446,SAMN05300273,Col-0 (CS70000),Arabidopsis thaliana,Wounding 1 hour,Leaf Wounding 1 hour,NA,21 day,wounding
+SRR3725458,SAMN05300273,Col-0 (CS70000),Arabidopsis thaliana,Wounding 1 hour,Leaf Wounding 1 hour,NA,21 day,wounding
+SRR3725471,SAMN05300274,Col-0 (CS70000),Arabidopsis thaliana,Wounding 3 hours,Leaf Wounding 3 hours,NA,21 day,wounding
+SRR3725482,SAMN05300274,Col-0 (CS70000),Arabidopsis thaliana,Wounding 3 hours,Leaf Wounding 3 hours,NA,21 day,wounding
+SRR3725493,SAMN05300275,Col-0 (CS70000),Arabidopsis thaliana,Wounding 6 hours,Leaf Wounding 6 hours,NA,21 day,wounding
+SRR3725503,SAMN05300275,Col-0 (CS70000),Arabidopsis thaliana,Wounding 6 hours,Leaf Wounding 6 hours,NA,21 day,wounding
+SRR3725516,SAMN05300276,Col-0 (CS70000),Arabidopsis thaliana,Wounding 12 hours,Leaf Wounding 12 hours,NA,21 day,wounding
+SRR3725527,SAMN05300276,Col-0 (CS70000),Arabidopsis thaliana,Wounding 12 hours,Leaf Wounding 12 hours,NA,21 day,wounding
+SRR3725538,SAMN05300277,Col-0 (CS70000),Arabidopsis thaliana,Wounding 24 hours,Leaf Wounding 24 hours,NA,21 day,wounding
+SRR3725550,SAMN05300277,Col-0 (CS70000),Arabidopsis thaliana,Wounding 24 hours,Leaf Wounding 24 hours,NA,21 day,wounding
+SRR3725560,SAMN05300278,Col-0 (CS70000),Arabidopsis thaliana,Wounding 48 hours,Leaf Wounding 48 hours,NA,21 day,wounding
+SRR3725561,SAMN05300278,Col-0 (CS70000),Arabidopsis thaliana,Wounding 48 hours,Leaf Wounding 48 hours,NA,21 day,wounding

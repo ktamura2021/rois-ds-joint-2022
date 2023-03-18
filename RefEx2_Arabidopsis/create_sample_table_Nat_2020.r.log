@@ -1,0 +1,48 @@
+── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──
+✔ dplyr     1.1.0     ✔ readr     2.1.4
+✔ forcats   1.0.0     ✔ stringr   1.5.0
+✔ ggplot2   3.4.1     ✔ tibble    3.2.0
+✔ lubridate 1.9.2     ✔ tidyr     1.3.0
+✔ purrr     1.0.1     
+── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
+✖ dplyr::filter() masks stats::filter()
+✖ dplyr::lag()    masks stats::lag()
+ℹ Use the conflicted package (<http://conflicted.r-lib.org/>) to force all conflicts to become errors
+Rows: 56 Columns: 46
+── Column specification ────────────────────────────────────────────────────────
+Delimiter: ","
+chr  (36): Run, Age, Assay Type, BioProject, BioSample, Broker_name, Center ...
+dbl   (3): AvgSpotLen, Bases, Bytes
+dttm  (3): INSDC_first_public, INSDC_last_update, ReleaseDate
+date  (4): ENA-FIRST-PUBLIC (run), ENA_first_public, ENA-LAST-UPDATE (run), ...
+
+ℹ Use `spec()` to retrieve the full column specification for this data.
+ℹ Specify the column types or set `show_col_types = FALSE` to quiet this message.
+R version 4.2.2 (2022-10-31)
+Platform: x86_64-apple-darwin17.0 (64-bit)
+Running under: macOS Big Sur ... 10.16
+
+Matrix products: default
+BLAS:   /Library/Frameworks/R.framework/Versions/4.2/Resources/lib/libRblas.0.dylib
+LAPACK: /Library/Frameworks/R.framework/Versions/4.2/Resources/lib/libRlapack.dylib
+
+locale:
+[1] C/UTF-8/C/C/C/C
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+ [1] lubridate_1.9.2 forcats_1.0.0   stringr_1.5.0   dplyr_1.1.0    
+ [5] purrr_1.0.1     readr_2.1.4     tidyr_1.3.0     tibble_3.2.0   
+ [9] ggplot2_3.4.1   tidyverse_2.0.0
+
+loaded via a namespace (and not attached):
+ [1] magrittr_2.0.3   hms_1.1.2        bit_4.0.5        tidyselect_1.2.0
+ [5] munsell_0.5.0    timechange_0.2.0 colorspace_2.1-0 R6_2.5.1        
+ [9] rlang_1.1.0      fansi_1.0.4      tools_4.2.2      parallel_4.2.2  
+[13] grid_4.2.2       vroom_1.6.1      gtable_0.3.1     utf8_1.2.3      
+[17] cli_3.6.0        withr_2.5.0      ellipsis_0.3.2   bit64_4.0.5     
+[21] lifecycle_1.0.3  crayon_1.5.2     tzdb_0.3.0       vctrs_0.6.0     
+[25] glue_1.6.2       stringi_1.7.12   compiler_4.2.2   pillar_1.8.1    
+[29] generics_0.1.3   scales_1.2.1     pkgconfig_2.0.3 
