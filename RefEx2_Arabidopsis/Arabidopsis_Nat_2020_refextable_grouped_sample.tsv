@@ -1,57 +1,55 @@
-RefexSampleId	NumberOfSamples	Age	BioSample	Developmental_stage	Ecotype	Experimental_Factor:_developmental_stage (exp)	Experimental_Factor:_organism_part (exp)	Experimental_Factor:_sampling_site (exp)	External_Id	Genotype	organism_part	Organism	Sampling_site
-RES00003791	1	28 to 35	SAMEA5618890	flower stage 15	Col-0	flower stage 15	sepal	not applicable	SAMEA5618890	wild type genotype	sepal	Arabidopsis thaliana	NA
-RES00003792	1	30	SAMEA5618891	adult	Col-0	adult	stem node	first node	SAMEA5618891	wild type genotype	stem node	Arabidopsis thaliana	first node
-RES00003793	1	30	SAMEA5618892	adult	Col-0	adult	stem internode	second internode	SAMEA5618892	wild type genotype	stem internode	Arabidopsis thaliana	second internode
-RES00003794	1	30	SAMEA5618893	adult	Col-0	adult	cauline leaf	not applicable	SAMEA5618893	wild type genotype	cauline leaf	Arabidopsis thaliana	NA
-RES00003795	1	22	SAMEA5618894	adult	Col-0	adult	rosette leaf	rosette leaf 7 distal part	SAMEA5618894	wild type genotype	rosette leaf	Arabidopsis thaliana	rosette leaf 7 distal part
-RES00003796	1	22	SAMEA5618895	adult	Col-0	adult	rosette leaf	rosette leaf 7 proximal part	SAMEA5618895	wild type genotype	rosette leaf	Arabidopsis thaliana	rosette leaf 7 proximal part
-RES00003797	1	22	SAMEA5618896	adult	Col-0	adult	petiole	rosette leaf 7 petiole	SAMEA5618896	wild type genotype	petiole	Arabidopsis thaliana	rosette leaf 7 petiole
-RES00003798	1	35	SAMEA5618897	adult	Col-0	adult	adult vascular leaf	not applicable	SAMEA5618897	wild type genotype	adult vascular leaf	Arabidopsis thaliana	NA
-RES00003799	1	22	SAMEA5618898	adult	Col-0	adult	root	not applicable	SAMEA5618898	wild type genotype	root	Arabidopsis thaliana	NA
-RES00003800	1	28 to 35	SAMEA5618899	flower stage 15	Col-0	flower stage 15	flower pedicel	not applicable	SAMEA5618899	wild type genotype	flower pedicel	Arabidopsis thaliana	NA
-RES00003801	1	28 to 35	SAMEA5618900	flower stage 15	Col-0	flower stage 15	flower	not applicable	SAMEA5618900	wild type genotype	flower	Arabidopsis thaliana	NA
-RES00003802	1	28 to 35	SAMEA5618901	flower stage 15	Col-0	flower stage 15	petal	not applicable	SAMEA5618901	wild type genotype	petal	Arabidopsis thaliana	NA
-RES00003803	1	35 to 42	SAMEA5618902	adult	Col-0	adult	fruit septum	not applicable	SAMEA5618902	wild type genotype	fruit septum	Arabidopsis thaliana	NA
-RES00003804	1	35 to 42	SAMEA5618903	adult	Col-0	adult	fruit valve	not applicable	SAMEA5618903	wild type genotype	fruit valve	Arabidopsis thaliana	NA
-RES00003805	1	14	SAMEA5618904	callus	Col-0	callus	plant callus	not applicable	SAMEA5618904	wild type genotype	plant callus	Arabidopsis thaliana	NA
-RES00003806	1	14	SAMEA5618905	callus	Col-0	callus	plant callus	not applicable	SAMEA5618905	wild type genotype	plant callus	Arabidopsis thaliana	NA
-RES00003807	1	3	SAMEA5618906	cell culture	Col-0	cell culture	root	not applicable	SAMEA5618906	wild type genotype	root	Arabidopsis thaliana	NA
-RES00003808	1	10	SAMEA5618907	cell culture	Col-0	cell culture	root	not applicable	SAMEA5618907	wild type genotype	root	Arabidopsis thaliana	NA
-RES00003809	1	7	SAMEA5618908	seedling	Col-0	seedling	cotyledon	not applicable	SAMEA5618908	wild type genotype	cotyledon	Arabidopsis thaliana	NA
-RES00003810	1	7	SAMEA5618909	seedling	Col-0	seedling	hypocotyl	not applicable	SAMEA5618909	wild type genotype	hypocotyl	Arabidopsis thaliana	NA
-RES00003811	1	7	SAMEA5618910	seedling	Col-0	seedling	root tip	not applicable	SAMEA5618910	wild type genotype	root tip	Arabidopsis thaliana	NA
-RES00003812	1	7	SAMEA5618911	seedling	Col-0	seedling	root tip	upper zone	SAMEA5618911	wild type genotype	root tip	Arabidopsis thaliana	upper zone
-RES00003813	1	28 to 35	SAMEA5618912	flower stage 15	Col-0	flower stage 15	stamen	not applicable	SAMEA5618912	wild type genotype	stamen	Arabidopsis thaliana	NA
-RES00003814	1	7	SAMEA5618913	seedling	Col-0	seedling	mixed shoot apical meristem, cotyledon and first leaves	not applicable	SAMEA5618913	wild type genotype	mixed shoot apical meristem\, cotyledon and first leaves	Arabidopsis thaliana	NA
-RES00003815	1	22	SAMEA5618914	adult	Col-0	adult	cotyledon	not applicable	SAMEA5618914	wild type genotype	cotyledon	Arabidopsis thaliana	NA
-RES00003816	1	22	SAMEA5618915	adult	Col-0	adult	rosette leaf	rosette leaf 1	SAMEA5618915	wild type genotype	rosette leaf	Arabidopsis thaliana	rosette leaf 1
-RES00003817	1	22	SAMEA5618916	adult	Col-0	adult	rosette leaf	rosette leaf 2	SAMEA5618916	wild type genotype	rosette leaf	Arabidopsis thaliana	rosette leaf 2
-RES00003818	1	22	SAMEA5618917	adult	Col-0	adult	rosette leaf	rosette leaf 3	SAMEA5618917	wild type genotype	rosette leaf	Arabidopsis thaliana	rosette leaf 3
-RES00003819	1	22	SAMEA5618918	adult	Col-0	adult	rosette leaf	rosette leaf 4	SAMEA5618918	wild type genotype	rosette leaf	Arabidopsis thaliana	rosette leaf 4
-RES00003820	1	22	SAMEA5618919	adult	Col-0	adult	rosette leaf	rosette leaf 5	SAMEA5618919	wild type genotype	rosette leaf	Arabidopsis thaliana	rosette leaf 5
-RES00003821	1	22	SAMEA5618920	adult	Col-0	adult	rosette leaf	rosette leaf 6	SAMEA5618920	wild type genotype	rosette leaf	Arabidopsis thaliana	rosette leaf 6
-RES00003822	1	22	SAMEA5618921	adult	Col-0	adult	rosette leaf	rosette leaf 7	SAMEA5618921	wild type genotype	rosette leaf	Arabidopsis thaliana	rosette leaf 7
-RES00003823	1	22	SAMEA5618922	adult	Col-0	adult	rosette leaf	rosette leaf 8	SAMEA5618922	wild type genotype	rosette leaf	Arabidopsis thaliana	rosette leaf 8
-RES00003824	1	28 to 35	SAMEA5618923	flower stage 15	Col-0	flower stage 15	carpel	not applicable	SAMEA5618923	wild type genotype	carpel	Arabidopsis thaliana	NA
-RES00003825	1	22	SAMEA5618924	adult	Col-0	adult	rosette leaf	rosette leaf 9	SAMEA5618924	wild type genotype	rosette leaf	Arabidopsis thaliana	rosette leaf 9
-RES00003826	1	22	SAMEA5618925	adult	Col-0	adult	rosette leaf	rosette leaf 10	SAMEA5618925	wild type genotype	rosette leaf	Arabidopsis thaliana	rosette leaf 10
-RES00003827	1	22	SAMEA5618926	adult	Col-0	adult	rosette leaf	rosette leaf 11	SAMEA5618926	wild type genotype	rosette leaf	Arabidopsis thaliana	rosette leaf 11
-RES00003828	1	22	SAMEA5618927	adult	Col-0	adult	rosette leaf	rosette leaf 12	SAMEA5618927	wild type genotype	rosette leaf	Arabidopsis thaliana	rosette leaf 12
-RES00003829	1	28 to 35	SAMEA5618928	flower stage 9	Col-0	flower stage 9	flower	not applicable	SAMEA5618928	wild type genotype	flower	Arabidopsis thaliana	NA
-RES00003830	1	28 to 35	SAMEA5618929	flower stage 10	Col-0	flower stage 10	flower	not applicable	SAMEA5618929	wild type genotype	flower	Arabidopsis thaliana	NA
-RES00003831	1	28 to 35	SAMEA5618930	flower stage 11	Col-0	flower stage 11	flower	not applicable	SAMEA5618930	wild type genotype	flower	Arabidopsis thaliana	NA
-RES00003832	1	28 to 35	SAMEA5618931	flower stage 12	Col-0	flower stage 12	flower	not applicable	SAMEA5618931	wild type genotype	flower	Arabidopsis thaliana	NA
-RES00003833	1	28 to 35	SAMEA5618932	flower stage 13	Col-0	flower stage 13	flower	not applicable	SAMEA5618932	wild type genotype	flower	Arabidopsis thaliana	NA
-RES00003834	1	28 to 35	SAMEA5618933	silique stage 1	Col-0	silique stage 1	silique	not applicable	SAMEA5618933	wild type genotype	silique	Arabidopsis thaliana	NA
-RES00003835	1	28 to 35	SAMEA5618934	silique stage 3	Col-0	silique stage 3	silique	not applicable	SAMEA5618934	wild type genotype	silique	Arabidopsis thaliana	NA
-RES00003836	1	28 to 35	SAMEA5618935	silique stage 2	Col-0	silique stage 2	silique	not applicable	SAMEA5618935	wild type genotype	silique	Arabidopsis thaliana	NA
-RES00003837	1	28 to 35	SAMEA5618936	silique stage 4	Col-0	silique stage 4	silique	not applicable	SAMEA5618936	wild type genotype	silique	Arabidopsis thaliana	NA
-RES00003838	1	28 to 35	SAMEA5618937	silique stage 5	Col-0	silique stage 5	silique	not applicable	SAMEA5618937	wild type genotype	silique	Arabidopsis thaliana	NA
-RES00003839	1	28 to 35	SAMEA5618938	embryo stage 6	Col-0	embryo stage 6	seed	not applicable	SAMEA5618938	wild type genotype	seed	Arabidopsis thaliana	NA
-RES00003840	1	28 to 35	SAMEA5618939	embryo stage 7	Col-0	embryo stage 7	seed	not applicable	SAMEA5618939	wild type genotype	seed	Arabidopsis thaliana	NA
-RES00003841	1	28 to 35	SAMEA5618940	embryo stage 8	Col-0	embryo stage 8	seed	not applicable	SAMEA5618940	wild type genotype	seed	Arabidopsis thaliana	NA
-RES00003842	1	28 to 35	SAMEA5618941	embryo stage 9	Col-0	embryo stage 9	seed	not applicable	SAMEA5618941	wild type genotype	seed	Arabidopsis thaliana	NA
-RES00003843	1	35 to 42	SAMEA5618942	embryo stage 10	Col-0	embryo stage 10	seed	not applicable	SAMEA5618942	wild type genotype	seed	Arabidopsis thaliana	NA
-RES00003844	1	not available	SAMEA5618943	dry seed stage	Col-0	dry seed stage	seed	not applicable	SAMEA5618943	wild type genotype	seed	Arabidopsis thaliana	NA
-RES00003845	1	not available	SAMEA5618944	seed imbibition stage	Col-0	seed imbibition stage	seed	not applicable	SAMEA5618944	wild type genotype	seed	Arabidopsis thaliana	NA
-RES00003846	1	28 to 35	SAMEA5618945	flower stage 15	Col-0	flower stage 15	pollen	not applicable	SAMEA5618945	wild type genotype	pollen	Arabidopsis thaliana	NA
+RefexSampleId	Description	NumberOfSamples	Age	Ecotype	DevelopmentalStage	OrganismPart	SamplingSite	Genotype
+RES00003791	flower stage 15, sepal	1	28 to 35	Col-0	flower stage 15	sepal	NA	wild type genotype
+RES00003792	adult, stem node, first node	1	30	Col-0	adult	stem node	first node	wild type genotype
+RES00003793	adult, stem internode, second internode	1	30	Col-0	adult	stem internode	second internode	wild type genotype
+RES00003794	adult, cauline leaf	1	30	Col-0	adult	cauline leaf	NA	wild type genotype
+RES00003795	adult, rosette leaf, rosette leaf 7 distal part	1	22	Col-0	adult	rosette leaf	rosette leaf 7 distal part	wild type genotype
+RES00003796	adult, rosette leaf, rosette leaf 7 proximal part	1	22	Col-0	adult	rosette leaf	rosette leaf 7 proximal part	wild type genotype
+RES00003797	adult, petiole, rosette leaf 7 petiole	1	22	Col-0	adult	petiole	rosette leaf 7 petiole	wild type genotype
+RES00003798	adult, adult vascular leaf	1	35	Col-0	adult	adult vascular leaf	NA	wild type genotype
+RES00003799	adult, root	1	22	Col-0	adult	root	NA	wild type genotype
+RES00003800	flower stage 15, flower pedicel	1	28 to 35	Col-0	flower stage 15	flower pedicel	NA	wild type genotype
+RES00003801	flower stage 15, flower	1	28 to 35	Col-0	flower stage 15	flower	NA	wild type genotype
+RES00003802	flower stage 15, petal	1	28 to 35	Col-0	flower stage 15	petal	NA	wild type genotype
+RES00003803	adult, fruit septum	1	35 to 42	Col-0	adult	fruit septum	NA	wild type genotype
+RES00003804	adult, fruit valve	1	35 to 42	Col-0	adult	fruit valve	NA	wild type genotype
+RES00003805	cell culture, root, Age 3	1	3	Col-0	cell culture	root	NA	wild type genotype
+RES00003806	cell culture, root, Age 10	1	10	Col-0	cell culture	root	NA	wild type genotype
+RES00003807	seedling, cotyledon	1	7	Col-0	seedling	cotyledon	NA	wild type genotype
+RES00003808	seedling, hypocotyl	1	7	Col-0	seedling	hypocotyl	NA	wild type genotype
+RES00003809	seedling, root tip	1	7	Col-0	seedling	root tip	NA	wild type genotype
+RES00003810	seedling, root tip, upper zone	1	7	Col-0	seedling	root tip	upper zone	wild type genotype
+RES00003811	flower stage 15, stamen	1	28 to 35	Col-0	flower stage 15	stamen	NA	wild type genotype
+RES00003812	seedling, mixed shoot apical meristem, cotyledon and first leaves	1	7	Col-0	seedling	mixed shoot apical meristem, cotyledon and first leaves	NA	wild type genotype
+RES00003813	adult, cotyledon	1	22	Col-0	adult	cotyledon	NA	wild type genotype
+RES00003814	adult, rosette leaf, rosette leaf 1	1	22	Col-0	adult	rosette leaf	rosette leaf 1	wild type genotype
+RES00003815	adult, rosette leaf, rosette leaf 2	1	22	Col-0	adult	rosette leaf	rosette leaf 2	wild type genotype
+RES00003816	adult, rosette leaf, rosette leaf 3	1	22	Col-0	adult	rosette leaf	rosette leaf 3	wild type genotype
+RES00003817	adult, rosette leaf, rosette leaf 4	1	22	Col-0	adult	rosette leaf	rosette leaf 4	wild type genotype
+RES00003818	adult, rosette leaf, rosette leaf 5	1	22	Col-0	adult	rosette leaf	rosette leaf 5	wild type genotype
+RES00003819	adult, rosette leaf, rosette leaf 6	1	22	Col-0	adult	rosette leaf	rosette leaf 6	wild type genotype
+RES00003820	adult, rosette leaf, rosette leaf 7	1	22	Col-0	adult	rosette leaf	rosette leaf 7	wild type genotype
+RES00003821	adult, rosette leaf, rosette leaf 8	1	22	Col-0	adult	rosette leaf	rosette leaf 8	wild type genotype
+RES00003822	flower stage 15, carpel	1	28 to 35	Col-0	flower stage 15	carpel	NA	wild type genotype
+RES00003823	adult, rosette leaf, rosette leaf 9	1	22	Col-0	adult	rosette leaf	rosette leaf 9	wild type genotype
+RES00003824	adult, rosette leaf, rosette leaf 10	1	22	Col-0	adult	rosette leaf	rosette leaf 10	wild type genotype
+RES00003825	adult, rosette leaf, rosette leaf 11	1	22	Col-0	adult	rosette leaf	rosette leaf 11	wild type genotype
+RES00003826	adult, rosette leaf, rosette leaf 12	1	22	Col-0	adult	rosette leaf	rosette leaf 12	wild type genotype
+RES00003827	flower stage 9, flower	1	28 to 35	Col-0	flower stage 9	flower	NA	wild type genotype
+RES00003828	flower stage 10, flower	1	28 to 35	Col-0	flower stage 10	flower	NA	wild type genotype
+RES00003829	flower stage 11, flower	1	28 to 35	Col-0	flower stage 11	flower	NA	wild type genotype
+RES00003830	flower stage 12, flower	1	28 to 35	Col-0	flower stage 12	flower	NA	wild type genotype
+RES00003831	flower stage 13, flower	1	28 to 35	Col-0	flower stage 13	flower	NA	wild type genotype
+RES00003832	silique stage 1, silique	1	28 to 35	Col-0	silique stage 1	silique	NA	wild type genotype
+RES00003833	silique stage 3, silique	1	28 to 35	Col-0	silique stage 3	silique	NA	wild type genotype
+RES00003834	silique stage 2, silique	1	28 to 35	Col-0	silique stage 2	silique	NA	wild type genotype
+RES00003835	silique stage 4, silique	1	28 to 35	Col-0	silique stage 4	silique	NA	wild type genotype
+RES00003836	silique stage 5, silique	1	28 to 35	Col-0	silique stage 5	silique	NA	wild type genotype
+RES00003837	embryo stage 6, seed	1	28 to 35	Col-0	embryo stage 6	seed	NA	wild type genotype
+RES00003838	embryo stage 7, seed	1	28 to 35	Col-0	embryo stage 7	seed	NA	wild type genotype
+RES00003839	embryo stage 8, seed	1	28 to 35	Col-0	embryo stage 8	seed	NA	wild type genotype
+RES00003840	embryo stage 9, seed	1	28 to 35	Col-0	embryo stage 9	seed	NA	wild type genotype
+RES00003841	embryo stage 10, seed	1	35 to 42	Col-0	embryo stage 10	seed	NA	wild type genotype
+RES00003842	dry seed stage, seed	1	NA	Col-0	dry seed stage	seed	NA	wild type genotype
+RES00003843	seed imbibition stage, seed	1	NA	Col-0	seed imbibition stage	seed	NA	wild type genotype
+RES00003844	flower stage 15, pollen	1	28 to 35	Col-0	flower stage 15	pollen	NA	wild type genotype
