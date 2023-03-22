@@ -1,86 +1,86 @@
-RefexSampleId	Description	NumberOfSamples	Ecotype	DevelopmentalStage	OrganismPart	Age	Treatment
-RES00003706	Seedling Hypocotyl (S.H)	2	Col-0 (CS70000)	NA	Hypocotyl	1 day	NA
-RES00003707	Seedling Meristem (S.M)	2	Col-0 (CS70000)	NA	Shoot apical meristem	1 day	NA
-RES00003708	Seedling Cotyledons (S.C)	2	Col-0 (CS70000)	NA	Cotyledon	1 day	NA
-RES00003709	Seedling Root (S.R)	2	Col-0 (CS70000)	NA	Root	1 day	NA
-RES00003710	Root Apex (R.A)	2	Col-0 (CS70000)	NA	Root Apex	7 day	NA
-RES00003711	Root (R )	2	Col-0 (CS70000)	NA	Root	7 day	NA
-RES00003712	Leaf Petiole of the young leaf (L.PET.y)	2	Col-0 (CS70000)	NA	Leaf petiole	7 day	NA
-RES00003713	Leaf Lamina of the young leaf (L.LAM.y)	2	Col-0 (CS70000)	NA	Leaf blade	7 day	NA
-RES00003714	Leaf Petiole, intermediate 1 (L.PET.i1)	2	Col-0 (CS70000)	NA	Leaf petiole	9 day	NA
-RES00003715	Leaf Lamina, intermediate 1 (L.LAM.i1)	2	Col-0 (CS70000)	NA	Leaf blade	9 day	NA
-RES00003716	Leaf Petiole, intermediate 2 (L.PET.i2)	2	Col-0 (CS70000)	NA	Leaf petiole	12 day	NA
-RES00003717	Leaf Vein, intermediate 2 (L.VN.i2)	2	Col-0 (CS70000)	NA	Leaf midrib	12 day	NA
-RES00003718	Leaf Lamina, intermediate 2 (L.LAM.i2)	2	Col-0 (CS70000)	NA	Leaf blade	12 day	NA
-RES00003719	Leaf Petiole of the mature leaf (L.PET.lg)	2	Col-0 (CS70000)	anthesis of the first flower	Leaf petiole	NA	NA
-RES00003720	Leaf Vein of the mature leaf (L.VN.lg)	2	Col-0 (CS70000)	anthesis of the first flower	Leaf midrib	NA	NA
-RES00003721	Leaf Lamina of the mature leaf (L.LAM.lg)	2	Col-0 (CS70000)	anthesis of the first flower	Leaf blade	NA	NA
-RES00003722	Leaf, mature (L.lg)	2	Col-0 (CS70000)	anthesis of the first flower	Leaf	NA	NA
-RES00003723	Leaf Petiole of the senescent leaf (L.PET.sn)	2	Col-0 (CS70000)	first silique was yellow and ready to open	Leaf petiole	NA	NA
-RES00003724	Leaf Vein of the senescent leaf (L.VN.sn)	2	Col-0 (CS70000)	first silique was yellow and ready to open	Leaf midrib	NA	NA
-RES00003725	Opened Anthers (F.AN)	2	Col-0 (CS70000)	anthesis of the first flower	Opened Anther	NA	NA
-RES00003726	Carpels of the mature flower (F.CA.ad)	2	Col-0 (CS70000)	anthesis of the first flower	Carpel	NA	NA
-RES00003727	Anthers of the mature flower (F.AN.ad)	2	Col-0 (CS70000)	anthesis of the first flower	Anther before opening	NA	NA
-RES00003728	Stamen filaments of the mature flower (F.FM.ad)	2	Col-0 (CS70000)	anthesis of the first flower	Stamen filament	NA	NA
-RES00003729	Petals of the mature flower (F.PT.ad)	2	Col-0 (CS70000)	anthesis of the first flower	Petal	NA	NA
-RES00003730	Sepals of the mature flower (F.SP.ad)	2	Col-0 (CS70000)	anthesis of the first flower	Sepal	NA	NA
-RES00003731	Carpels of the young flower (F.CA.y)	2	Col-0 (CS70000)	stage 9	Young carpel	NA	NA
-RES00003732	Anthers of the young flower (F.AN.y)	2	Col-0 (CS70000)	stage 9	Young anther	NA	NA
-RES00003733	Sepals of the young flower (F.SP.y)	2	Col-0 (CS70000)	stage 9	Young sepal	NA	NA
-RES00003734	Flower 1 (F1)	2	Col-0 (CS70000)	anthesis of the first flower	Flower 1	NA	NA
-RES00003735	Flower 2 (F2)	2	Col-0 (CS70000)	anthesis of the first flower	Flower 2	NA	NA
-RES00003736	Flower 3 (F3)	2	Col-0 (CS70000)	anthesis of the first flower	Flower 3	NA	NA
-RES00003737	Flower 4 (F4)	2	Col-0 (CS70000)	anthesis of the first flower	Flower 4	NA	NA
-RES00003738	Flower 5 (F5)	2	Col-0 (CS70000)	anthesis of the first flower	Flower 5	NA	NA
-RES00003739	Flowers 6-8 (F6-8)	2	Col-0 (CS70000)	anthesis of the first flower	Flower 6-8	NA	NA
-RES00003740	Flowers 9-11 (F9-11)	2	Col-0 (CS70000)	anthesis of the first flower	Flower 9-11	NA	NA
-RES00003741	Flowers 12-14 (F12-14)	2	Col-0 (CS70000)	anthesis of the first flower	Flower 12-14	NA	NA
-RES00003742	Flowers 15-18 (F15-18)	2	Col-0 (CS70000)	anthesis of the first flower	Flower 15-18	NA	NA
-RES00003743	Flowers 19 and following (F19+)	2	Col-0 (CS70000)	anthesis of the first flower	Inflorescence	NA	NA
-RES00003744	Pedicel (PED)	2	Col-0 (CS70000)	anthesis of the first flower	Pedicel	NA	NA
-RES00003745	Axis of the inflorescence (AX)	2	Col-0 (CS70000)	anthesis of the first flower	Inflorescence axis	NA	NA
-RES00003746	Internode (IN)	2	Col-0 (CS70000)	anthesis of the first flower	Internode	NA	NA
-RES00003747	Seeds 1 (SD1)	2	Col-0 (CS70000)	first silique is 1-1.5 cm long (abscission of the 8th flower)	Seed 1	NA	NA
-RES00003748	Pod of the silique 1 (POD1)	2	Col-0 (CS70000)	first silique is 1-1.5 cm long (abscission of the 8th flower)	Pod 1	NA	NA
-RES00003749	Silique 2 (SL2)	2	Col-0 (CS70000)	first silique is 1-1.5 cm long (abscission of the 8th flower)	Silique 2	NA	NA
-RES00003750	Seeds 3 (SD3)	2	Col-0 (CS70000)	first silique is 1-1.5 cm long (abscission of the 8th flower)	Seed 3	NA	NA
-RES00003751	Pod of the silique 3 (POD3)	2	Col-0 (CS70000)	first silique is 1-1.5 cm long (abscission of the 8th flower)	Pod 3	NA	NA
-RES00003752	Silique 4 (SL4)	2	Col-0 (CS70000)	first silique is 1-1.5 cm long (abscission of the 8th flower)	Silique 4	NA	NA
-RES00003753	Seeds 5 (SD5)	2	Col-0 (CS70000)	first silique is 1-1.5 cm long (abscission of the 8th flower)	Seed 5	NA	NA
-RES00003754	Pod of the silique 5 (POD5)	2	Col-0 (CS70000)	first silique is 1-1.5 cm long (abscission of the 8th flower)	Pod 5	NA	NA
-RES00003755	Silique 6 (SL6)	2	Col-0 (CS70000)	first silique is 1-1.5 cm long (abscission of the 8th flower)	Silique 6	NA	NA
-RES00003756	Seeds 7 (SD7)	2	Col-0 (CS70000)	first silique is 1-1.5 cm long (abscission of the 8th flower)	Seed 7	NA	NA
-RES00003757	Pod of the silique 7 (POD7)	2	Col-0 (CS70000)	first silique is 1-1.5 cm long (abscission of the 8th flower)	Pod 7	NA	NA
-RES00003758	Silique 8 (SL8)	2	Col-0 (CS70000)	first silique is 1-1.5 cm long (abscission of the 8th flower)	Silique 8	NA	NA
-RES00003759	Young seeds 1 (SD.y1)	2	Col-0 (CS70000)	abscission of the first flower	Seed from silique 1	NA	NA
-RES00003760	Young seeds 2 (SD.y2)	2	Col-0 (CS70000)	abscission of the first flower	Seed from silique 2	NA	NA
-RES00003761	Young seeds 3 (SD.y3)	2	Col-0 (CS70000)	abscission of the first flower	Seed from silique 3	NA	NA
-RES00003762	Young seeds 4 (SD.y4)	2	Col-0 (CS70000)	abscission of the first flower	Seed from silique 4	NA	NA
-RES00003763	Young seeds 5 (SD.y5)	2	Col-0 (CS70000)	abscission of the first flower	Seed from silique 5	NA	NA
-RES00003764	Ovules from 6th and 7th flowers (OV.y6-7)	2	Col-0 (CS70000)	abscission of the first flower	Ovule	NA	NA
-RES00003765	Stigmatic tissue (STI)	2	Col-0 (CS70000)	abscission of the first flower	Stigma	NA	NA
-RES00003766	Carpel of 6th and 7th flowers (POD.y6-7)	2	Col-0 (CS70000)	abscission of the first flower	Carpel	NA	NA
-RES00003767	Dry Seeds (SD.d)	2	Col-0 (CS70000)	Dry seeds	Seed	NA	NA
-RES00003768	Germinating seeds 1 (SD.g1)	2	Col-0 (CS70000)	NA	Seed	1 day after soaking	NA
-RES00003769	Germinating seeds 2 (SD.g2)	2	Col-0 (CS70000)	NA	Seed	2 day after soaking	NA
-RES00003770	Germinating seeds 3 (SD.g3)	2	Col-0 (CS70000)	NA	Seed	3 day after soaking	NA
-RES00003771	Seeds from the senescent silique 1 (SD.sn1)	2	Col-0 (CS70000)	first silique was yellow and ready to open	Seed	NA	NA
-RES00003772	Pod of the senescent silique 1 (POD.sn1)	2	Col-0 (CS70000)	first silique was yellow and ready to open	Pod	NA	NA
-RES00003773	Senescent silique 2 (SL.sn2)	2	Col-0 (CS70000)	first silique was yellow and ready to open	Silique	NA	NA
-RES00003774	Senescent internode (IN.sn)	2	Col-0 (CS70000)	first silique was yellow and ready to open	Internode	NA	NA
-RES00003775	Cold 1 hour	2	Col-0 (CS70000)	NA	Leaf Cold 1 hour	21 day	cold
-RES00003776	Cold 3 hours	2	Col-0 (CS70000)	NA	Leaf Cold 3 hours	21 day	cold
-RES00003777	Cold 6 hours	2	Col-0 (CS70000)	NA	Leaf Cold 6 hours	21 day	cold
-RES00003778	Cold 12 hours	2	Col-0 (CS70000)	NA	Leaf Cold 12 hours	21 day	cold
-RES00003779	Cold 24 hours	2	Col-0 (CS70000)	NA	Leaf Cold 24 hours	21 day	cold
-RES00003780	Heat 1 hour	2	Col-0 (CS70000)	NA	Leaf Heat 1 hour	21 day	heat
-RES00003781	Heat 3 hours	2	Col-0 (CS70000)	NA	Leaf Heat 3 hours	21 day	heat
-RES00003782	Heat 6 hours	2	Col-0 (CS70000)	NA	Leaf Heat 6 hours	21 day	heat
-RES00003783	Heat 12 hours	2	Col-0 (CS70000)	NA	Leaf Heat 12 hours	21 day	heat
-RES00003784	Heat 24 hours	2	Col-0 (CS70000)	NA	Leaf Heat 24 hours	21 day	heat
-RES00003785	Wounding 1 hour	2	Col-0 (CS70000)	NA	Leaf Wounding 1 hour	21 day	wounding
-RES00003786	Wounding 3 hours	2	Col-0 (CS70000)	NA	Leaf Wounding 3 hours	21 day	wounding
-RES00003787	Wounding 6 hours	2	Col-0 (CS70000)	NA	Leaf Wounding 6 hours	21 day	wounding
-RES00003788	Wounding 12 hours	2	Col-0 (CS70000)	NA	Leaf Wounding 12 hours	21 day	wounding
-RES00003789	Wounding 24 hours	2	Col-0 (CS70000)	NA	Leaf Wounding 24 hours	21 day	wounding
-RES00003790	Wounding 48 hours	2	Col-0 (CS70000)	NA	Leaf Wounding 48 hours	21 day	wounding
+RefexSampleId	Description	NumberOfSamples	Ecotype	Age	DevelopmentalStage	OrganismPart	Treatment
+RES00003706	Seedling Hypocotyl (S.H)	2	Col-0 (CS70000)	1 day	NA	Hypocotyl	NA
+RES00003707	Seedling Meristem (S.M)	2	Col-0 (CS70000)	1 day	NA	Shoot apical meristem	NA
+RES00003708	Seedling Cotyledons (S.C)	2	Col-0 (CS70000)	1 day	NA	Cotyledon	NA
+RES00003709	Seedling Root (S.R)	2	Col-0 (CS70000)	1 day	NA	Root	NA
+RES00003710	Root Apex (R.A)	2	Col-0 (CS70000)	7 day	NA	Root Apex	NA
+RES00003711	Root (R )	2	Col-0 (CS70000)	7 day	NA	Root	NA
+RES00003712	Leaf Petiole of the young leaf (L.PET.y)	2	Col-0 (CS70000)	7 day	NA	Leaf petiole	NA
+RES00003713	Leaf Lamina of the young leaf (L.LAM.y)	2	Col-0 (CS70000)	7 day	NA	Leaf blade	NA
+RES00003714	Leaf Petiole, intermediate 1 (L.PET.i1)	2	Col-0 (CS70000)	9 day	NA	Leaf petiole	NA
+RES00003715	Leaf Lamina, intermediate 1 (L.LAM.i1)	2	Col-0 (CS70000)	9 day	NA	Leaf blade	NA
+RES00003716	Leaf Petiole, intermediate 2 (L.PET.i2)	2	Col-0 (CS70000)	12 day	NA	Leaf petiole	NA
+RES00003717	Leaf Vein, intermediate 2 (L.VN.i2)	2	Col-0 (CS70000)	12 day	NA	Leaf midrib	NA
+RES00003718	Leaf Lamina, intermediate 2 (L.LAM.i2)	2	Col-0 (CS70000)	12 day	NA	Leaf blade	NA
+RES00003719	Leaf Petiole of the mature leaf (L.PET.lg)	2	Col-0 (CS70000)	NA	anthesis of the first flower	Leaf petiole	NA
+RES00003720	Leaf Vein of the mature leaf (L.VN.lg)	2	Col-0 (CS70000)	NA	anthesis of the first flower	Leaf midrib	NA
+RES00003721	Leaf Lamina of the mature leaf (L.LAM.lg)	2	Col-0 (CS70000)	NA	anthesis of the first flower	Leaf blade	NA
+RES00003722	Leaf, mature (L.lg)	2	Col-0 (CS70000)	NA	anthesis of the first flower	Leaf	NA
+RES00003723	Leaf Petiole of the senescent leaf (L.PET.sn)	2	Col-0 (CS70000)	NA	first silique was yellow and ready to open	Leaf petiole	NA
+RES00003724	Leaf Vein of the senescent leaf (L.VN.sn)	2	Col-0 (CS70000)	NA	first silique was yellow and ready to open	Leaf midrib	NA
+RES00003725	Opened Anthers (F.AN)	2	Col-0 (CS70000)	NA	anthesis of the first flower	Opened Anther	NA
+RES00003726	Carpels of the mature flower (F.CA.ad)	2	Col-0 (CS70000)	NA	anthesis of the first flower	Carpel	NA
+RES00003727	Anthers of the mature flower (F.AN.ad)	2	Col-0 (CS70000)	NA	anthesis of the first flower	Anther before opening	NA
+RES00003728	Stamen filaments of the mature flower (F.FM.ad)	2	Col-0 (CS70000)	NA	anthesis of the first flower	Stamen filament	NA
+RES00003729	Petals of the mature flower (F.PT.ad)	2	Col-0 (CS70000)	NA	anthesis of the first flower	Petal	NA
+RES00003730	Sepals of the mature flower (F.SP.ad)	2	Col-0 (CS70000)	NA	anthesis of the first flower	Sepal	NA
+RES00003731	Carpels of the young flower (F.CA.y)	2	Col-0 (CS70000)	NA	stage 9	Young carpel	NA
+RES00003732	Anthers of the young flower (F.AN.y)	2	Col-0 (CS70000)	NA	stage 9	Young anther	NA
+RES00003733	Sepals of the young flower (F.SP.y)	2	Col-0 (CS70000)	NA	stage 9	Young sepal	NA
+RES00003734	Flower 1 (F1)	2	Col-0 (CS70000)	NA	anthesis of the first flower	Flower 1	NA
+RES00003735	Flower 2 (F2)	2	Col-0 (CS70000)	NA	anthesis of the first flower	Flower 2	NA
+RES00003736	Flower 3 (F3)	2	Col-0 (CS70000)	NA	anthesis of the first flower	Flower 3	NA
+RES00003737	Flower 4 (F4)	2	Col-0 (CS70000)	NA	anthesis of the first flower	Flower 4	NA
+RES00003738	Flower 5 (F5)	2	Col-0 (CS70000)	NA	anthesis of the first flower	Flower 5	NA
+RES00003739	Flowers 6-8 (F6-8)	2	Col-0 (CS70000)	NA	anthesis of the first flower	Flower 6-8	NA
+RES00003740	Flowers 9-11 (F9-11)	2	Col-0 (CS70000)	NA	anthesis of the first flower	Flower 9-11	NA
+RES00003741	Flowers 12-14 (F12-14)	2	Col-0 (CS70000)	NA	anthesis of the first flower	Flower 12-14	NA
+RES00003742	Flowers 15-18 (F15-18)	2	Col-0 (CS70000)	NA	anthesis of the first flower	Flower 15-18	NA
+RES00003743	Flowers 19 and following (F19+)	2	Col-0 (CS70000)	NA	anthesis of the first flower	Inflorescence	NA
+RES00003744	Pedicel (PED)	2	Col-0 (CS70000)	NA	anthesis of the first flower	Pedicel	NA
+RES00003745	Axis of the inflorescence (AX)	2	Col-0 (CS70000)	NA	anthesis of the first flower	Inflorescence axis	NA
+RES00003746	Internode (IN)	2	Col-0 (CS70000)	NA	anthesis of the first flower	Internode	NA
+RES00003747	Seeds 1 (SD1)	2	Col-0 (CS70000)	NA	first silique is 1-1.5 cm long (abscission of the 8th flower)	Seed 1	NA
+RES00003748	Pod of the silique 1 (POD1)	2	Col-0 (CS70000)	NA	first silique is 1-1.5 cm long (abscission of the 8th flower)	Pod 1	NA
+RES00003749	Silique 2 (SL2)	2	Col-0 (CS70000)	NA	first silique is 1-1.5 cm long (abscission of the 8th flower)	Silique 2	NA
+RES00003750	Seeds 3 (SD3)	2	Col-0 (CS70000)	NA	first silique is 1-1.5 cm long (abscission of the 8th flower)	Seed 3	NA
+RES00003751	Pod of the silique 3 (POD3)	2	Col-0 (CS70000)	NA	first silique is 1-1.5 cm long (abscission of the 8th flower)	Pod 3	NA
+RES00003752	Silique 4 (SL4)	2	Col-0 (CS70000)	NA	first silique is 1-1.5 cm long (abscission of the 8th flower)	Silique 4	NA
+RES00003753	Seeds 5 (SD5)	2	Col-0 (CS70000)	NA	first silique is 1-1.5 cm long (abscission of the 8th flower)	Seed 5	NA
+RES00003754	Pod of the silique 5 (POD5)	2	Col-0 (CS70000)	NA	first silique is 1-1.5 cm long (abscission of the 8th flower)	Pod 5	NA
+RES00003755	Silique 6 (SL6)	2	Col-0 (CS70000)	NA	first silique is 1-1.5 cm long (abscission of the 8th flower)	Silique 6	NA
+RES00003756	Seeds 7 (SD7)	2	Col-0 (CS70000)	NA	first silique is 1-1.5 cm long (abscission of the 8th flower)	Seed 7	NA
+RES00003757	Pod of the silique 7 (POD7)	2	Col-0 (CS70000)	NA	first silique is 1-1.5 cm long (abscission of the 8th flower)	Pod 7	NA
+RES00003758	Silique 8 (SL8)	2	Col-0 (CS70000)	NA	first silique is 1-1.5 cm long (abscission of the 8th flower)	Silique 8	NA
+RES00003759	Young seeds 1 (SD.y1)	2	Col-0 (CS70000)	NA	abscission of the first flower	Seed from silique 1	NA
+RES00003760	Young seeds 2 (SD.y2)	2	Col-0 (CS70000)	NA	abscission of the first flower	Seed from silique 2	NA
+RES00003761	Young seeds 3 (SD.y3)	2	Col-0 (CS70000)	NA	abscission of the first flower	Seed from silique 3	NA
+RES00003762	Young seeds 4 (SD.y4)	2	Col-0 (CS70000)	NA	abscission of the first flower	Seed from silique 4	NA
+RES00003763	Young seeds 5 (SD.y5)	2	Col-0 (CS70000)	NA	abscission of the first flower	Seed from silique 5	NA
+RES00003764	Ovules from 6th and 7th flowers (OV.y6-7)	2	Col-0 (CS70000)	NA	abscission of the first flower	Ovule	NA
+RES00003765	Stigmatic tissue (STI)	2	Col-0 (CS70000)	NA	abscission of the first flower	Stigma	NA
+RES00003766	Carpel of 6th and 7th flowers (POD.y6-7)	2	Col-0 (CS70000)	NA	abscission of the first flower	Carpel	NA
+RES00003767	Dry Seeds (SD.d)	2	Col-0 (CS70000)	NA	Dry seeds	Seed	NA
+RES00003768	Germinating seeds 1 (SD.g1)	2	Col-0 (CS70000)	1 day after soaking	NA	Seed	NA
+RES00003769	Germinating seeds 2 (SD.g2)	2	Col-0 (CS70000)	2 day after soaking	NA	Seed	NA
+RES00003770	Germinating seeds 3 (SD.g3)	2	Col-0 (CS70000)	3 day after soaking	NA	Seed	NA
+RES00003771	Seeds from the senescent silique 1 (SD.sn1)	2	Col-0 (CS70000)	NA	first silique was yellow and ready to open	Seed	NA
+RES00003772	Pod of the senescent silique 1 (POD.sn1)	2	Col-0 (CS70000)	NA	first silique was yellow and ready to open	Pod	NA
+RES00003773	Senescent silique 2 (SL.sn2)	2	Col-0 (CS70000)	NA	first silique was yellow and ready to open	Silique	NA
+RES00003774	Senescent internode (IN.sn)	2	Col-0 (CS70000)	NA	first silique was yellow and ready to open	Internode	NA
+RES00003775	Cold 1 hour	2	Col-0 (CS70000)	21 day	NA	Leaf Cold 1 hour	cold
+RES00003776	Cold 3 hours	2	Col-0 (CS70000)	21 day	NA	Leaf Cold 3 hours	cold
+RES00003777	Cold 6 hours	2	Col-0 (CS70000)	21 day	NA	Leaf Cold 6 hours	cold
+RES00003778	Cold 12 hours	2	Col-0 (CS70000)	21 day	NA	Leaf Cold 12 hours	cold
+RES00003779	Cold 24 hours	2	Col-0 (CS70000)	21 day	NA	Leaf Cold 24 hours	cold
+RES00003780	Heat 1 hour	2	Col-0 (CS70000)	21 day	NA	Leaf Heat 1 hour	heat
+RES00003781	Heat 3 hours	2	Col-0 (CS70000)	21 day	NA	Leaf Heat 3 hours	heat
+RES00003782	Heat 6 hours	2	Col-0 (CS70000)	21 day	NA	Leaf Heat 6 hours	heat
+RES00003783	Heat 12 hours	2	Col-0 (CS70000)	21 day	NA	Leaf Heat 12 hours	heat
+RES00003784	Heat 24 hours	2	Col-0 (CS70000)	21 day	NA	Leaf Heat 24 hours	heat
+RES00003785	Wounding 1 hour	2	Col-0 (CS70000)	21 day	NA	Leaf Wounding 1 hour	wounding
+RES00003786	Wounding 3 hours	2	Col-0 (CS70000)	21 day	NA	Leaf Wounding 3 hours	wounding
+RES00003787	Wounding 6 hours	2	Col-0 (CS70000)	21 day	NA	Leaf Wounding 6 hours	wounding
+RES00003788	Wounding 12 hours	2	Col-0 (CS70000)	21 day	NA	Leaf Wounding 12 hours	wounding
+RES00003789	Wounding 24 hours	2	Col-0 (CS70000)	21 day	NA	Leaf Wounding 24 hours	wounding
+RES00003790	Wounding 48 hours	2	Col-0 (CS70000)	21 day	NA	Leaf Wounding 48 hours	wounding

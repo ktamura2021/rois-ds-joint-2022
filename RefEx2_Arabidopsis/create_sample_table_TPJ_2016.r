@@ -36,7 +36,7 @@ df_select_refexsampleid <- df_select %>% left_join(df_biosample, by = "BioSample
 # Count NumberOfSamples
 df_count <- df_select_refexsampleid %>% count(RefexSampleId)
 # Add NumberOfSamples
-df_select_refexsampleid <- df_select_refexsampleid %>% left_join(df_count, by = "RefexSampleId") %>% rename(NumberOfSamples = n) %>% relocate(RefexSampleId, Description, NumberOfSamples, Ecotype, DevelopmentalStage)
+df_select_refexsampleid <- df_select_refexsampleid %>% left_join(df_count, by = "RefexSampleId") %>% rename(NumberOfSamples = n) %>% relocate(RefexSampleId, Description, NumberOfSamples, Ecotype, Age, DevelopmentalStage)
 
 # Create grouped sample table
 df_select_refexsampleid %>% select(-Run, -BioSample, -Organism) %>% distinct() %>%
